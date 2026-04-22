@@ -15,13 +15,16 @@ export default function SupportSection() {
           </p>
   
           <div style={styles.links}>
-            <a href="https://www.patreon.com/c/TruVine" target="_blank" style={styles.link}>
+            <a href="https://www.patreon.com/c/TruVine" target="_blank" style={styles.link} onMouseEnter={(e) => (e.target.style.background = "#e8ecf3")}
+  onMouseLeave={(e) => (e.target.style.background = "#f5f7fa")}>
               TruVine Patreon
             </a>
-            <a href="https://cash.app/$JesusLoveRevealed" target="_blank" style={styles.link}>
+            <a href="https://cash.app/$JesusLoveRevealed" target="_blank" style={styles.link} onMouseEnter={(e) => (e.target.style.background = "#e8ecf3")}
+  onMouseLeave={(e) => (e.target.style.background = "#f5f7fa")}>
              TruVine Cash App
             </a>
-            <a href="buymeacoffee.com/jnutt367m" target="_blank" style={styles.link}>
+            <a href="buymeacoffee.com/jnutt367m" target="_blank" style={styles.link} onMouseEnter={(e) => (e.target.style.background = "#e8ecf3")}
+  onMouseLeave={(e) => (e.target.style.background = "#f5f7fa")}>
              TruVine Buy Me a Coffee
             </a>
           </div>
