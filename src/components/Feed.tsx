@@ -103,7 +103,7 @@ export default function Feed({ user }: { user: string }) {
 />
       {/* CREATE BOX */}
       <h2 className="text-blue-300 font-bold mt-6 mb-2 text-shadow-lg">
-  🎥 <span className="text-3xl">TruTube</span> Video Library 📹
+  🎥 <span className="text-3xl">TruTube</span>Library 📹
 </h2>
 
 <VideoGrid videos={filteredVideos} />
