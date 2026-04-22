@@ -1,13 +1,15 @@
 
   export const videos = [
+    
     {
-      id: 15,
-      title: "How to Actually WIN According to the Bible (Armor of God)",
-      creator: "Bible Animations",
-      category: "Bible Animations",
-      embed: "https://www.youtube.com/embed/zYcNy3SLCzc?si=AmpiUd9Y2BhTK20u",
-      thumbnail: `https://img.youtube.com/vi/zYcNy3SLCzc/hqdefault.jpg`,
-    },
+        id: 26,
+        title: "Unbelievable Bible Stories You Didn't Know Existed!",
+        creator: "Bible Animations",
+        category: "Bible Animations",
+        embed: "https://www.youtube.com/embed/K5IjfFTpyyQ?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/K5IjfFTpyyQ/hqdefault.jpg`,
+      },
+      
     {
       id: 1,
       title: "Life Feels Different for a Reason",
@@ -121,6 +123,14 @@
         thumbnail: "https://img.youtube.com/vi/TUFqLZrkT7g/hqdefault.jpg",
       },
       {
+        id: 15,
+        title: "How to Actually WIN According to the Bible (Armor of God)",
+        creator: "Bible Animations",
+        category: "Bible Animations",
+        embed: "https://www.youtube.com/embed/zYcNy3SLCzc?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/zYcNy3SLCzc/hqdefault.jpg`,
+      },
+      {
         id: 16,
         title: "The Entire Spiritual World Drawn and Explained (Biblical Analysis)",
         creator: "Bible Animations",
@@ -135,8 +145,82 @@
         category: "Bible Animations",
         embed: "https://www.youtube.com/embed/Dq9oFB2eeAI",
         thumbnail: "https://img.youtube.com/vi/Dq9oFB2eeAI/hqdefault.jpg",
-      }
+      },
+      {
+        id: 18,
+        title: "The Entire Old Testament Drawn and Explained",
+        creator: "Bible Animations",
+        category: "Bible Animations",
+        embed: "https://www.youtube.com/embed/XwAwlIlkBTs?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/XwAwlIlkBTs/hqdefault.jpg`,
+      },
+      {
+        id: 19,
+        title: "Daniel - The Forgotten Prophet Who Saw The End... ",
+        creator: "Bible Animations",
+        category: "Bible Animations",
+        embed: "https://www.youtube.com/embed/oVXM44PUfZQ?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/oVXM44PUfZQ/hqdefault.jpg`,
+      },
 
+      {
+        id: 20,
+        title: "ULTIMATE Deeper Meanings in Bible Stories (94 Deeper Meanings)",
+        creator: "Bible Animations",
+        category: "Bible Animations",
+        embed: "https://www.youtube.com/embed/SmE0pylEg_U?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/SmE0pylEg_U/hqdefault.jpg`,
+      },
       
 
+// Below is JUST a skeleton...NOT the actual videos that will be there. 
+
+
+      {
+        id: 21,
+        title: "Dear Christian, they're still here... (Leviathan, Behemoth Explained)",
+        creator: "Bible Animations",
+        category: "Bible Animations",
+        embed: "https://www.youtube.com/embed/Cj6nSWtzLGU?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/Cj6nSWtzLGU/hqdefault.jpg`,
+      },
+      {
+        id: 22,
+        title: "Paul's Entire Life Story on a Map | FULL MOVIE",
+        creator: "Bible Animations",
+        category: "Bible Animations",
+        embed: "https://www.youtube.com/embed/JYHw-Mbi6PE?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/JYHw-Mbi6PE/hqdefault.jpg`,
+      },
+      {
+        id: 23,
+        title: "What REALLY Happens After You Die According To The Bible? (The Afterlife Explained)",
+        creator: "Bible Animations",
+        category: "Bible Animations",
+        embed: "https://www.youtube.com/embed/JTpZyJqRnhA?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/JTpZyJqRnhA/hqdefault.jpg`,
+      },
+      {
+        id: 24,
+        title: "WATCH: The Antichrist is being Revealed TODAY... (Prophecy Explained)",
+        creator: "Bible Animations",
+        category: "Bible Animations",
+        embed: "https://www.youtube.com/embed/SmE0pylEg_U?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/SmE0pylEg_U/hqdefault.jpg`,
+      },
+
+      {
+        id: 25,
+        title: "The Unforgivable Sin is FAR worse than I thought...",
+        creator: "Bible Animations",
+        category: "Bible Animations",
+        embed: "https://www.youtube.com/embed/F4GhI2-aQpU?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/F4GhI2-aQpU/hqdefault.jpg`,
+      },
+     
+
+      
+      
+
+      
   ];
