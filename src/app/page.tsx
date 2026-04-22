@@ -4,6 +4,8 @@ import { useEffect, useState } from "react";
 import Header from "@/components/Header";
 import Login from "@/components/Login";
 import Feed from "@/components/Feed";
+import SupportSection from "@/components/SupportSection";
+
 export default function Home() {
   const [user, setUser] = useState<string | null>(null);
   const [ready, setReady] = useState(false);
@@ -33,6 +35,7 @@ export default function Home() {
       <div className="p-6 max-w-5xl mx-auto">
       <Feed user={user} />
       </div>
+      <SupportSection />
     </main>
   );
 }
