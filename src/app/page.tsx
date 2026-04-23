@@ -35,15 +35,29 @@ export default function Home() {
   }
 
   return (
-    <main className="min-h-screen bg-stone-800">
-      <Header user={user} setUser={setUser} />
-      <IntroVideo />
-      <SupportIcons />
-      <EcosystemSection />
+    <main className="min-h-screen bg-black">
+
+
+      
+
+      
+      
       <div className="p-6 max-w-5xl mx-auto">
+      <Header user={user} setUser={setUser} />
+
+      <IntroVideo />
+      <br></br>
+      <SupportIcons />
+      <br></br>
       <Feed user={user} />
-      </div>
+      <EcosystemSection />
+      <SupportIcons />
       <SupportSection />
+      
+      </div>
+
+      
+     
     </main>
   );
 }

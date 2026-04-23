@@ -283,6 +283,14 @@
 },
 
 
+{
+  id: 34,
+  title: "Don't Forget Who You Are",
+  creator: "ZoTiVAtiOn1",
+  category: "ZoTiVAtiOn1",
+  embed: "https://www.youtube.com/embed/zHBQIl4qkiw?si=AmpiUd9Y2BhTK20u",
+  thumbnail: `https://img.youtube.com/vi/zHBQIl4qkiw/hqdefault.jpg`,
+},
 
       // above is JUST a skeleton...NOT the actual videos that will be there. 
      

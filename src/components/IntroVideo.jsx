@@ -38,7 +38,7 @@ export default function IntroVideo() {
       textAlign: "center",
     },
     title: {
-      color: "#555",
+      color: "#2D7C66",
       marginBottom: "1rem",
       fontSize: "1.5rem",
     },
@@ -49,7 +49,7 @@ export default function IntroVideo() {
         maxWidth: "360px",      // 👈 add this (controls size)
         margin: "0 auto",       // 👈 centers it
         paddingBottom: "56.25%", // keep this (9:16 ratio)
-        height: "200px",
+        height: "500px",
         overflow: "hidden",
         borderRadius: "16px",
       },
@@ -63,6 +63,6 @@ export default function IntroVideo() {
     },
     text: {
       fontSize: "0.95rem",
-      color: "#555",
+      color: "#2D7C66",
     },
   };

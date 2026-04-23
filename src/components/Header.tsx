@@ -15,7 +15,7 @@ export default function Header({
   }
 
   return (
-    <header className="bg-slate-900 text-white p-4">
+    <header className="bg-emerald-800 text-white p-4">
       <div className="flex justify-between items-center max-w-5xl mx-auto">
         <h1 className="font-black text-5xl">TruVINE</h1>
 
