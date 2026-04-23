@@ -4,7 +4,7 @@ export default function IntroVideo() {
     return (
       <div style={styles.container}>
         <div style={styles.content}>
-          <h2 style={styles.title}>Welcome to TruVINE</h2>
+          <h2 style={styles.title}>Welcome to the Vine</h2>
   
           <div style={styles.videoWrapper}>
             <iframe
@@ -38,6 +38,7 @@ export default function IntroVideo() {
       textAlign: "center",
     },
     title: {
+      color: "#555",
       marginBottom: "1rem",
       fontSize: "1.5rem",
     },
