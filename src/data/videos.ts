@@ -9,7 +9,6 @@
       embed: "https://www.youtube.com/embed/e72dNwFCudU?si=AmpiUd9Y2BhTK20u",
       thumbnail: `https://img.youtube.com/vi/e72dNwFCudU/hqdefault.jpg`,
     },
-    
     {
         id: 26,
         title: "Unbelievable Bible Stories You Didn't Know Existed!",
@@ -18,7 +17,6 @@
         embed: "https://www.youtube.com/embed/K5IjfFTpyyQ?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/K5IjfFTpyyQ/hqdefault.jpg`,
       },
-      
     {
       id: 1,
       title: "Life Feels Different for a Reason",
@@ -119,7 +117,7 @@
         id: 13,
         title: "Why they want us to think Trump is the anti-christ",
         creator: "Ashley Hays",
-        category: "End Times Reality",
+        category: "End Times",
         embed: "https://www.youtube.com/embed/aK28ohbvy9U?si=f11RNcmJEBvLa5Go",
         thumbnail: "https://img.youtube.com/vi/aK28ohbvy9U/hqdefault.jpg",
       },
@@ -127,7 +125,7 @@
         id: 14,
         title: "Ashley Hays exposes the Final Deception in these last days",
         creator: "Ashley Hays",
-        category: "End Times Reality",
+        category: "End Times",
         embed: "https://www.youtube.com/embed/TUFqLZrkT7g?si=Z9HPV1mY1yQMeh9-",
         thumbnail: "https://img.youtube.com/vi/TUFqLZrkT7g/hqdefault.jpg",
       },
@@ -171,7 +169,6 @@
         embed: "https://www.youtube.com/embed/oVXM44PUfZQ?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/oVXM44PUfZQ/hqdefault.jpg`,
       },
-
       {
         id: 20,
         title: "ULTIMATE Deeper Meanings in Bible Stories (94 Deeper Meanings)",
@@ -180,11 +177,6 @@
         embed: "https://www.youtube.com/embed/SmE0pylEg_U?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/SmE0pylEg_U/hqdefault.jpg`,
       },
-      
-
-
-
-
       {
         id: 21,
         title: "Dear Christian, they're still here... (Leviathan, Behemoth Explained)",
@@ -217,7 +209,6 @@
         embed: "https://www.youtube.com/embed/SmE0pylEg_U?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/SmE0pylEg_U/hqdefault.jpg`,
       },
-
       {
         id: 25,
         title: "The Unforgivable Sin is FAR worse than I thought...",
@@ -226,7 +217,6 @@
         embed: "https://www.youtube.com/embed/F4GhI2-aQpU?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/F4GhI2-aQpU/hqdefault.jpg`,
       },
-     
       {
         id: 26,
         title: "The Unforgivable Sin is FAR worse than I thought...",
@@ -235,7 +225,6 @@
         embed: "https://www.youtube.com/embed/OxvW5zg2GgQ?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/OxvW5zg2GgQ/hqdefault.jpg`,
       },
-     
       {
         id: 27,
         title: "God Has Been Trying to Tell You This | Stop Drifting in Your Faith",
@@ -253,8 +242,6 @@
         embed: "https://www.youtube.com/embed/tweBHGbK1Z4?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/tweBHGbK1Z4/hqdefault.jpg`,
       },
-
- 
  {
   id: 31,
   title: "God is Shaping you",
@@ -263,7 +250,6 @@
   embed: "https://www.youtube.com/embed/IJPJ55CTIMM?si=AmpiUd9Y2BhTK20u",
   thumbnail: `https://img.youtube.com/vi/IJPJ55CTIMM/hqdefault.jpg`,
 },
-
 {
   id: 32,
   title: "Every Tear Carries a Lesson",
@@ -272,7 +258,6 @@
   embed: "https://www.youtube.com/embed/0sEv1WjXam4?si=AmpiUd9Y2BhTK20u",
   thumbnail: `https://img.youtube.com/vi/0sEv1WjXam4/hqdefault.jpg`,
 },
-
 {
   id: 33,
   title: "God Made you this way...to call you! You ARE set apart",
@@ -281,8 +266,6 @@
   embed: "https://www.youtube.com/embed/PejcfNOXin8?si=AmpiUd9Y2BhTK20u",
   thumbnail: `https://img.youtube.com/vi/PejcfNOXin8/hqdefault.jpg`,
 },
-
-
 {
   id: 34,
   title: "Don't Forget Who You Are",
@@ -291,7 +274,6 @@
   embed: "https://www.youtube.com/embed/zHBQIl4qkiw?si=AmpiUd9Y2BhTK20u",
   thumbnail: `https://img.youtube.com/vi/zHBQIl4qkiw/hqdefault.jpg`,
 },
-
 {
   id: 35,
   title: "Half of the Church Will Cheer the Anti-Christ",
@@ -300,8 +282,6 @@
   embed: "https://www.youtube.com/embed/rcd99uS563w?si=AmpiUd9Y2BhTK20u",
   thumbnail: `https://img.youtube.com/vi/rcd99uS563w/hqdefault.jpg`,
 },
-
- 
  {
   id: 36,
   title: "Nephilim, Aliens, Demons and the Coming Lie",
@@ -310,7 +290,6 @@
   embed: "https://www.youtube.com/embed/MuAJFMCjleY?si=AmpiUd9Y2BhTK20u",
   thumbnail: `https://img.youtube.com/vi/MuAJFMCjleY/hqdefault.jpg`,
 },
-
 {
  id: 37,
  title: "The Ethiopian Bible EXPOSES The Mark of The Beast!",
@@ -319,7 +298,6 @@
  embed: "https://www.youtube.com/embed/AAQfFQUfDcY?si=AmpiUd9Y2BhTK20u",
  thumbnail: `https://img.youtube.com/vi/AAQfFQUfDcY/hqdefault.jpg`,
 },
-
 {
  id: 38,
   title: "Secular Music is Bad",
@@ -328,8 +306,6 @@
   embed: "https://www.youtube.com/embed/kjqXyRN4NLA?si=AmpiUd9Y2BhTK20u",
   thumbnail: `https://img.youtube.com/vi/kjqXyRN4NLA/hqdefault.jpg`,
 },
-
-
 {
  id: 39,
  title: "Secular Music is Bad part 2",
@@ -338,14 +314,57 @@
  embed: "https://www.youtube.com/embed/u3f5rTlFjto?si=AmpiUd9Y2BhTK20u",
  thumbnail: `https://img.youtube.com/vi/u3f5rTlFjto/hqdefault.jpg`,
 },
-
 {
  id: 40,
 title: "Polaris = North Star = God's Throne Room",
  creator: "Kay Podgee",
 category: "Kay Podgee",
- embed: "https://www.youtube.com/embed/u3f5rTlFjto?si=AmpiUd9Y2BhTK20u",
- thumbnail: `https://img.youtube.com/vi/u3f5rTlFjto/hqdefault.jpg`,
+ embed: "https://www.youtube.com/embed/66fLbZLiS_Q?si=AmpiUd9Y2BhTK20u",
+ thumbnail: `https://img.youtube.com/vi/66fLbZLiS_Q/hqdefault.jpg`,
 },
+{
+id: 41,
+title: "Space Force says: READ ENOCH! OK!",
+creator: "Kay Podgee",
+category: "Kay Podgee",
+embed: "https://www.youtube.com/embed/k4VMRrdD3aI?si=AmpiUd9Y2BhTK20u",
+thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
+},
+{
+  id: 42,
+  title: "The Truth about the J's",
+  creator: "Kay Podgee",
+  category: "Kay Podgee",
+  embed: "https://www.youtube.com/embed/x4iN0xJ4Vy4?si=AmpiUd9Y2BhTK20u",
+  thumbnail: `https://img.youtube.com/vi/x4iN0xJ4Vy4/hqdefault.jpg`,
+  },
+  {
+    id: 43,
+    title: "GOD SAYS COME TO ME!",
+    creator: "Jesus' Love Revealed",
+    category: "Jesus' Love Revealed",
+    embed: "https://www.youtube.com/embed/RQcU4PUlekU?si=AmpiUd9Y2BhTK20u",
+    thumbnail: `https://img.youtube.com/vi/RQcU4PUlekU/hqdefault.jpg`,
+    },
+    {
+      id: 44,
+      title: "The Overlooked End Times Prophecy Christians Keep Ignoring",
+      creator: "End Times",
+      category: "End Times",
+      embed: "https://www.youtube.com/embed/jhmOSqQ3l-M?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/jhmOSqQ3l-M/hqdefault.jpg`,
+      },
+
+      {
+        id: 44,
+        title: "Connect and relax with God, before you begin.",
+        creator: "Jesus' Love Revealed",
+        category: "Jesus' Love Revealed",
+        embed: "https://www.youtube.com/embed/tWZABAGrJEk?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/tWZABAGrJEk/hqdefault.jpg`,
+        },
+
+
+      
 
   ];
