@@ -303,5 +303,50 @@
 
  // Below is JUST a skeleton...NOT the actual videos that will be there. 
     
-     
+ {
+  id: 36,
+  title: "Nephilim, Aliens, Demons and the Coming Lie",
+  creator: "Ashley Hays",
+  category: "Ashley Hays",
+  embed: "https://www.youtube.com/embed/MuAJFMCjleY?si=AmpiUd9Y2BhTK20u",
+  thumbnail: `https://img.youtube.com/vi/MuAJFMCjleY/hqdefault.jpg`,
+},
+
+//{
+ // id: 37,
+ // title: "Every Tear Carries a Lesson",
+//  creator: "ZoTiVAtiOn1",
+//  category: "ZoTiVAtiOn1",
+//  embed: "https://www.youtube.com/embed/0sEv1WjXam4?si=AmpiUd9Y2BhTK20u",
+ // thumbnail: `https://img.youtube.com/vi/0sEv1WjXam4/hqdefault.jpg`,
+//},
+
+//{
+ // id: 38,
+  //title: "God Made you this way...to call you! You ARE set apart",
+  //creator: "ZoTiVAtiOn1",
+  //category: "ZoTiVAtiOn1",
+  //embed: "https://www.youtube.com/embed/PejcfNOXin8?si=AmpiUd9Y2BhTK20u",
+  //thumbnail: `https://img.youtube.com/vi/PejcfNOXin8/hqdefault.jpg`,
+//},
+
+
+//{
+  //id: 39,
+ // title: "Don't Forget Who You Are",
+ // creator: "ZoTiVAtiOn1",
+ // category: "ZoTiVAtiOn1",
+ // embed: "https://www.youtube.com/embed/zHBQIl4qkiw?si=AmpiUd9Y2BhTK20u",
+//  thumbnail: `https://img.youtube.com/vi/zHBQIl4qkiw/hqdefault.jpg`,
+//},
+
+//{
+ // id: 40,
+// title: "Half of the Church Will Cheer the Anti-Christ",
+ // creator: "Ashley Hays",
+// category: "Ashley Hays",
+ // embed: "https://www.youtube.com/embed/rcd99uS563w?si=AmpiUd9Y2BhTK20u",
+//  thumbnail: `https://img.youtube.com/vi/rcd99uS563w/hqdefault.jpg`,
+//},
+
   ];
