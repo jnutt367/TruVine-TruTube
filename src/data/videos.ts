@@ -2,6 +2,14 @@
   export const videos = [
     
     {
+      id: 46,
+      title: "The Case For Christ",
+      creator: "The Truth About the History of our Faith in Jesus",
+      category: "The Truth About the History of our Faith in Jesus",
+      embed: "https://www.youtube.com/embed/lBVq8NE7NQY?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/lBVq8NE7NQY/hqdefault.jpg`,
+      },
+    {
       id: 29,
       title: "GOD DID NOT SAY STOP! HE is BUILDING",
       creator: "ZoTiVAtiOn1",
@@ -356,15 +364,16 @@ thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
       },
 
       {
-        id: 44,
+        id: 45,
         title: "Connect and relax with God, before you begin.",
         creator: "Jesus' Love Revealed",
         category: "Jesus' Love Revealed",
         embed: "https://www.youtube.com/embed/tWZABAGrJEk?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/tWZABAGrJEk/hqdefault.jpg`,
         },
-
-
+        
+  
       
 
+       
   ];
