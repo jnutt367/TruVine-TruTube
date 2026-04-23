@@ -368,7 +368,7 @@ thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
         {
           id: 46,
           title: "James Talarico’s Beautiful Answer to Christian Nationalism ",
-          creator: "Christian Nationalism",
+          creator: "The Ezra Klein Show",
           category: "Christian Nationalism",
           embed: "https://www.youtube.com/embed/sa6fiO2EgJ4?si=AmpiUd9Y2BhTK20u",
           thumbnail: `https://img.youtube.com/vi/sa6fiO2EgJ4/hqdefault.jpg`,
@@ -381,7 +381,65 @@ thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
             embed: "https://www.youtube.com/embed/IfmEll6-sBY?si=AmpiUd9Y2BhTK20u",
             thumbnail: `https://img.youtube.com/vi/IfmEll6-sBY/hqdefault.jpg`,
             },
-      
+            {
+              id: 48,
+              title: "James Talarico Delivers Sermon Against Christian Nationalism",
+              creator: "Mr. James Talarico",
+              category: "Christian Nationalism",
+              embed: "https://www.youtube.com/embed/Blph_2RSBno?si=AmpiUd9Y2BhTK20u",
+              thumbnail: `https://img.youtube.com/vi/Blph_2RSBno/hqdefault.jpg`,
+              },
+              {
+                id: 49,
+                title: "Christian Nationalism EXPLAINED: Why it’s the Greatest THREAT Facing America | The New Evangelicals",
+                creator: "Tim Whitaker Speaks and The New Evangelicals",
+                category: "Christian Nationalism",
+                embed: "https://www.youtube.com/embed/iymBEv0z1rY?si=AmpiUd9Y2BhTK20u",
+                thumbnail: `https://img.youtube.com/vi/iymBEv0z1rY/hqdefault.jpg`,
+                },
+  
+                {
+                  id: 50,
+                  title: "Trump Vs Jesus",
+                  creator: "James Talarico",
+                  category: "Christian Nationalism",
+                  embed: "https://www.youtube.com/embed/mu7Sv50ssUg?si=AmpiUd9Y2BhTK20u",
+                  thumbnail: `https://img.youtube.com/vi/mu7Sv50ssUg/hqdefault.jpg`,
+                  },
+              
+                  {
+                    id: 51,
+                    title: "Trump is About to Do Something Prophetic (End Time Programming Revealed)",
+                    creator: "AoC Network",
+                    category: "End Times",
+                    embed: "https://www.youtube.com/embed/2B8dSFijByQ?si=AmpiUd9Y2BhTK20u",
+                    thumbnail: `https://img.youtube.com/vi/2B8dSFijByQ/hqdefault.jpg`,
+                    },
+                    {
+                      id: 52,
+                      title: "WATCH Israel Closely Dear Christian... (Prophecy Explained)",
+                      creator: "AoC Network",
+                      category: "End Times",
+                      embed: "https://www.youtube.com/embed/_tjdbw5NDLU?si=AmpiUd9Y2BhTK20u",
+                      thumbnail: `https://img.youtube.com/vi/_tjdbw5NDLU/hqdefault.jpg`,
+                      },
 
-       
+                      {
+                        id: 53,
+                        title: "This is Why Prophecy is Unfolding FAST! (Jared Kushner, Digital ID, Israel Peace, etc..)",
+                        creator: "AoC Network",
+                        category: "End Times",
+                        embed: "https://www.youtube.com/embed/w6T0FrKckpw?si=AmpiUd9Y2BhTK20u",
+                        thumbnail: `https://img.youtube.com/vi/w6T0FrKckpw/hqdefault.jpg`,
+                        },
+
+                        {
+                          id: 54,
+                          title: "Baptist leader speaks out: 'Christian nationalism is not Christianity",
+                          creator: "CNN",
+                          category: "Christian Nationalism",
+                          embed: "https://www.youtube.com/embed/vZukWuT9lcA?si=AmpiUd9Y2BhTK20u",
+                          thumbnail: `https://img.youtube.com/vi/vZukWuT9lcA/hqdefault.jpg`,
+                          },
+                        
   ];
