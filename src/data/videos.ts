@@ -247,7 +247,7 @@
       
       {
         id: 28,
-        title: "TEHEY WERNT THERE.",
+        title: "Why does it matter?",
         creator: "ZoTiVAtiOn1",
         category: "ZoTiVAtiOn1",
         embed: "https://www.youtube.com/embed/tweBHGbK1Z4?si=AmpiUd9Y2BhTK20u",
@@ -257,7 +257,7 @@
  // Below is JUST a skeleton...NOT the actual videos that will be there. 
  {
   id: 31,
-  title: "GOD DID NOT SAY STOP! HE is BUILDING",
+  title: "GOD did not say stop! HE is BUILDING",
   creator: "ZoTiVAtiOn1",
   category: "ZoTiVAtiOn1",
   embed: "https://www.youtube.com/embed/e72dNwFCudU?si=AmpiUd9Y2BhTK20u",
