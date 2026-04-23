@@ -7,6 +7,10 @@ import Feed from "@/components/Feed";
 import SupportSection from "@/components/SupportSection";
 import IntroVideo from "@/components/IntroVideo";
 import SupportIcons from "@/components/SupportIcons";
+import EcosystemSection from "@/components/EcosystemSection";
+
+
+
 
 export default function Home() {
   const [user, setUser] = useState<string | null>(null);
@@ -35,6 +39,7 @@ export default function Home() {
       <Header user={user} setUser={setUser} />
       <IntroVideo />
       <SupportIcons />
+      <EcosystemSection />
       <div className="p-6 max-w-5xl mx-auto">
       <Feed user={user} />
       </div>

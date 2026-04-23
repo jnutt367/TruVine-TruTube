@@ -59,7 +59,7 @@ const styles = {
   iconButton: {
     fontSize: "1.2rem",
     color: "#444",
-    background: "#f5f7fa",
+    background: "#50C878",
     width: "38px",
     height: "38px",
     borderRadius: "50%",
