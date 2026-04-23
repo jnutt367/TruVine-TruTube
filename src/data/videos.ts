@@ -3,12 +3,20 @@
     
     {
       id: 46,
-      title: "The Case For Christ",
-      creator: "The Truth About the History of our Faith in Jesus",
-      category: "The Truth About the History of our Faith in Jesus",
-      embed: "https://www.youtube.com/embed/lBVq8NE7NQY?si=AmpiUd9Y2BhTK20u",
-      thumbnail: `https://img.youtube.com/vi/lBVq8NE7NQY/hqdefault.jpg`,
+      title: "James Talarico’s Beautiful Answer to Christian Nationalism ",
+      creator: "Christian Nationalism",
+      category: "Christian Nationalism",
+      embed: "https://www.youtube.com/embed/sa6fiO2EgJ4?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/sa6fiO2EgJ4/hqdefault.jpg`,
       },
+      {
+        id: 47,
+        title: "The Truth About Christian Nationalism",
+        creator: "Mr. Beat",
+        category: "Christian Nationalism",
+        embed: "https://www.youtube.com/embed/IfmEll6-sBY?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/IfmEll6-sBY/hqdefault.jpg`,
+        },
     {
       id: 29,
       title: "GOD DID NOT SAY STOP! HE is BUILDING",
