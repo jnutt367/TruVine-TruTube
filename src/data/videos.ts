@@ -2,6 +2,15 @@
   export const videos = [
     
     {
+      id: 29,
+      title: "GOD DID NOT SAY STOP! HE is BUILDING",
+      creator: "ZoTiVAtiOn1",
+      category: "ZoTiVAtiOn1",
+      embed: "https://www.youtube.com/embed/e72dNwFCudU?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/e72dNwFCudU/hqdefault.jpg`,
+    },
+    
+    {
         id: 26,
         title: "Unbelievable Bible Stories You Didn't Know Existed!",
         creator: "Bible Animations",
@@ -14,7 +23,7 @@
       id: 1,
       title: "Life Feels Different for a Reason",
       creator: "Ashley Hays",
-      category: "End Times Reality",
+      category: "Ashley Hays",
       embed: "https://www.youtube.com/embed/sWYDG1jjczY?si=sQwW26id6aUP31C2",
       thumbnail: "https://img.youtube.com/vi/sWYDG1jjczY/hqdefault.jpg",
     },
@@ -38,7 +47,7 @@
         id: 4,
         title: "Part 1: The Event That Everyone “Feels” Is Coming-",
         creator: "Ashley Hays",
-        category: "End Times Reality",
+        category: "Ashley Hays",
         embed: "https://www.youtube.com/embed/-L7tGdrwwHY?si=mx6FfvQqycAH-j9j",
         thumbnail: "https://img.youtube.com/vi/-L7tGdrwwHY/hqdefault.jpg",
     },
@@ -46,7 +55,7 @@
         id: 5,
         title: "Part 2: The Event Everyone “Feels” Is Coming",
         creator: "Ashley Hays",
-        category: "End Times Reality",
+        category: "Ashley Hays",
         embed: "https://www.youtube.com/embed/8v3wVXOT8RY?si=9HHDk-FAuCs988t_",
         thumbnail: "https://img.youtube.com/vi/8v3wVXOT8RY/hqdefault.jpg",
     },
@@ -218,9 +227,53 @@
         thumbnail: `https://img.youtube.com/vi/F4GhI2-aQpU/hqdefault.jpg`,
       },
      
-
+      {
+        id: 26,
+        title: "The Unforgivable Sin is FAR worse than I thought...",
+        creator: "Ashley Hays",
+        category: "Ashley Hays",
+        embed: "https://www.youtube.com/embed/OxvW5zg2GgQ?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/OxvW5zg2GgQ/hqdefault.jpg`,
+      },
+      // Below is JUST a skeleton...NOT the actual videos that will be there. 
+      {
+        id: 27,
+        title: "God Has Been Trying to Tell You This | Stop Drifting in Your Faith",
+        creator: "ZoTiVAtiOn1",
+        category: "ZoTiVAtiOn1",
+        embed: "https://www.youtube.com/embed/PgGtbSMJmqc?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/PgGtbSMJmqc/hqdefault.jpg`,
+      },
       
-      
+      {
+        id: 28,
+        title: "TEHEY WERNT THERE.",
+        creator: "ZoTiVAtiOn1",
+        category: "ZoTiVAtiOn1",
+        embed: "https://www.youtube.com/embed/tweBHGbK1Z4?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/tweBHGbK1Z4/hqdefault.jpg`,
+      },
 
+ // Below is JUST a skeleton...NOT the actual videos that will be there. 
+ {
+  id: 31,
+  title: "GOD DID NOT SAY STOP! HE is BUILDING",
+  creator: "ZoTiVAtiOn1",
+  category: "ZoTiVAtiOn1",
+  embed: "https://www.youtube.com/embed/e72dNwFCudU?si=AmpiUd9Y2BhTK20u",
+  thumbnail: `https://img.youtube.com/vi/e72dNwFCudU/hqdefault.jpg`,
+},
+
+{
+  id: 30,
+  title: "TEHEY WERNT THERE.",
+  creator: "ZoTiVAtiOn1",
+  category: "ZoTiVAtiOn1",
+  embed: "https://www.youtube.com/embed/tweBHGbK1Z4?si=AmpiUd9Y2BhTK20u",
+  thumbnail: `https://img.youtube.com/vi/tweBHGbK1Z4/hqdefault.jpg`,
+},
+
+
+      // above is JUST a skeleton...NOT the actual videos that will be there. 
       
   ];
