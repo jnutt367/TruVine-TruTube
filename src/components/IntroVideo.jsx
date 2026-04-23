@@ -8,10 +8,11 @@ export default function IntroVideo() {
   
           <div style={styles.videoWrapper}>
             <iframe
-              src="https://www.youtube.com/embed/HIvDMP9vFQw"
+              src="https://www.youtube.com/embed/HIvDMP9vFQw?autoplay=1&mute=1&controls=1&rel=0"
               title="Intro Video"
               frameBorder="0"
               allowFullScreen
+              allow="autoplay; encrypted-media"
               style={styles.iframe}
             />
           </div>
@@ -40,14 +41,18 @@ export default function IntroVideo() {
       marginBottom: "1rem",
       fontSize: "1.5rem",
     },
+
     videoWrapper: {
-      position: "relative",
-      paddingBottom: "177.77%", // 9:16 ratio for Shorts
-      height: 0,
-      overflow: "hidden",
-      borderRadius: "16px",
-      marginBottom: "1rem",
-    },
+        position: "relative",
+        width: "100%",          // 👈 add this
+        maxWidth: "360px",      // 👈 add this (controls size)
+        margin: "0 auto",       // 👈 centers it
+        paddingBottom: "177.77%", // keep this (9:16 ratio)
+        height: "200px",
+        overflow: "hidden",
+        borderRadius: "16px",
+      },
+
     iframe: {
       position: "absolute",
       top: 0,
