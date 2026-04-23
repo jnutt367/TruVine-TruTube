@@ -4,7 +4,7 @@ export default function IntroVideo() {
     return (
       <div style={styles.container}>
         <div style={styles.content}>
-          <h2 style={styles.title}>Welcome to Jesus Love Revealed</h2>
+          <h2 style={styles.title}>Welcome to TruVINE</h2>
   
           <div style={styles.videoWrapper}>
             <iframe
@@ -47,7 +47,7 @@ export default function IntroVideo() {
         width: "100%",          // 👈 add this
         maxWidth: "360px",      // 👈 add this (controls size)
         margin: "0 auto",       // 👈 centers it
-        paddingBottom: "177.77%", // keep this (9:16 ratio)
+        paddingBottom: "56.25%", // keep this (9:16 ratio)
         height: "200px",
         overflow: "hidden",
         borderRadius: "16px",
