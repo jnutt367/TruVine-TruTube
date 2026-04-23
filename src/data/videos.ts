@@ -266,14 +266,14 @@
 
 {
   id: 30,
-  title: "TEHEY WERNT THERE.",
+  title: "Every Tear Carries a Lesson",
   creator: "ZoTiVAtiOn1",
   category: "ZoTiVAtiOn1",
-  embed: "https://www.youtube.com/embed/tweBHGbK1Z4?si=AmpiUd9Y2BhTK20u",
-  thumbnail: `https://img.youtube.com/vi/tweBHGbK1Z4/hqdefault.jpg`,
+  embed: "https://www.youtube.com/embed/0sEv1WjXam4?si=AmpiUd9Y2BhTK20u",
+  thumbnail: `https://img.youtube.com/vi/0sEv1WjXam4/hqdefault.jpg`,
 },
 
 
       // above is JUST a skeleton...NOT the actual videos that will be there. 
-      
+     
   ];
