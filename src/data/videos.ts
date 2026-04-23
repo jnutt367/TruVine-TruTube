@@ -235,7 +235,7 @@
         embed: "https://www.youtube.com/embed/OxvW5zg2GgQ?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/OxvW5zg2GgQ/hqdefault.jpg`,
       },
-      // Below is JUST a skeleton...NOT the actual videos that will be there. 
+     
       {
         id: 27,
         title: "God Has Been Trying to Tell You This | Stop Drifting in Your Faith",
@@ -292,6 +292,16 @@
   thumbnail: `https://img.youtube.com/vi/zHBQIl4qkiw/hqdefault.jpg`,
 },
 
-      // above is JUST a skeleton...NOT the actual videos that will be there. 
+{
+  id: 35,
+  title: "Half of the Church Will Cheer the Anti-Christ",
+  creator: "Ashley Hays",
+  category: "Ashley Hays",
+  embed: "https://www.youtube.com/embed/rcd99uS563w?si=AmpiUd9Y2BhTK20u",
+  thumbnail: `https://img.youtube.com/vi/rcd99uS563w/hqdefault.jpg`,
+},
+
+ // Below is JUST a skeleton...NOT the actual videos that will be there. 
+    
      
   ];
