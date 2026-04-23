@@ -5,6 +5,7 @@ import Header from "@/components/Header";
 import Login from "@/components/Login";
 import Feed from "@/components/Feed";
 import SupportSection from "@/components/SupportSection";
+import IntroVideo from "@/components/IntroVideo";
 
 export default function Home() {
   const [user, setUser] = useState<string | null>(null);
@@ -31,7 +32,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-stone-800">
       <Header user={user} setUser={setUser} />
-      
+      <IntroVideo />
       <div className="p-6 max-w-5xl mx-auto">
       <Feed user={user} />
       </div>

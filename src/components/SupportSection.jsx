@@ -15,16 +15,16 @@ export default function SupportSection() {
           </p>
   
           <div style={styles.links}>
-            <a href="https://www.patreon.com/c/TruVine" target="_blank" style={styles.link} onMouseEnter={(e) => (e.target.style.background = "yellow")}
-  onMouseLeave={(e) => (e.target.style.background = "#f5f7fa")}>
+            <a href="https://www.patreon.com/c/TruVine" target="_blank" style={styles.link} onMouseEnter={(e) => (e.target.style.background = "orange", e.target.style.color = "white")}
+  onMouseLeave={(e) => (e.target.style.background = "#f5f7fa", e.target.style.color = "black")}>
               TruVine Patreon
             </a>
             <a href="https://cash.app/$JesusLoveRevealed" target="_blank" style={styles.link} onMouseEnter={(e) => (e.target.style.background = "green", e.target.style.color = "white")}
-  onMouseLeave={(e) => (e.target.style.background = "#f5f7fa")}>
+  onMouseLeave={(e) => (e.target.style.background = "#f5f7fa", e.target.style.color = "black")}>
              TruVine Cash App
             </a>
             <a href="https://buymeacoffee.com/jnutt367m" target="_blank" style={styles.link} onMouseEnter={(e) => (e.target.style.background = "blue", e.target.style.color = "white")}
-  onMouseLeave={(e) => (e.target.style.background = "#f5f7fa")}>
+  onMouseLeave={(e) => (e.target.style.background = "#f5f7fa", e.target.style.color = "black")}>
              TruVine Buy Me a Coffee
             </a>
           </div>
