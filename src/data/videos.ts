@@ -1,22 +1,7 @@
 
   export const videos = [
     
-    {
-      id: 46,
-      title: "James Talarico’s Beautiful Answer to Christian Nationalism ",
-      creator: "Christian Nationalism",
-      category: "Christian Nationalism",
-      embed: "https://www.youtube.com/embed/sa6fiO2EgJ4?si=AmpiUd9Y2BhTK20u",
-      thumbnail: `https://img.youtube.com/vi/sa6fiO2EgJ4/hqdefault.jpg`,
-      },
-      {
-        id: 47,
-        title: "The Truth About Christian Nationalism",
-        creator: "Mr. Beat",
-        category: "Christian Nationalism",
-        embed: "https://www.youtube.com/embed/IfmEll6-sBY?si=AmpiUd9Y2BhTK20u",
-        thumbnail: `https://img.youtube.com/vi/IfmEll6-sBY/hqdefault.jpg`,
-        },
+    
     {
       id: 29,
       title: "GOD DID NOT SAY STOP! HE is BUILDING",
@@ -380,7 +365,22 @@ thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
         thumbnail: `https://img.youtube.com/vi/tWZABAGrJEk/hqdefault.jpg`,
         },
         
-  
+        {
+          id: 46,
+          title: "James Talarico’s Beautiful Answer to Christian Nationalism ",
+          creator: "Christian Nationalism",
+          category: "Christian Nationalism",
+          embed: "https://www.youtube.com/embed/sa6fiO2EgJ4?si=AmpiUd9Y2BhTK20u",
+          thumbnail: `https://img.youtube.com/vi/sa6fiO2EgJ4/hqdefault.jpg`,
+          },
+          {
+            id: 47,
+            title: "The Truth About Christian Nationalism",
+            creator: "Mr. Beat",
+            category: "Christian Nationalism",
+            embed: "https://www.youtube.com/embed/IfmEll6-sBY?si=AmpiUd9Y2BhTK20u",
+            thumbnail: `https://img.youtube.com/vi/IfmEll6-sBY/hqdefault.jpg`,
+            },
       
 
        
