@@ -257,21 +257,31 @@
  // Below is JUST a skeleton...NOT the actual videos that will be there. 
  {
   id: 31,
-  title: "GOD did not say stop! HE is BUILDING",
+  title: "God is Shaping you",
   creator: "ZoTiVAtiOn1",
   category: "ZoTiVAtiOn1",
-  embed: "https://www.youtube.com/embed/e72dNwFCudU?si=AmpiUd9Y2BhTK20u",
-  thumbnail: `https://img.youtube.com/vi/e72dNwFCudU/hqdefault.jpg`,
+  embed: "https://www.youtube.com/embed/IJPJ55CTIMM?si=AmpiUd9Y2BhTK20u",
+  thumbnail: `https://img.youtube.com/vi/IJPJ55CTIMM/hqdefault.jpg`,
 },
 
 {
-  id: 30,
+  id: 32,
   title: "Every Tear Carries a Lesson",
   creator: "ZoTiVAtiOn1",
   category: "ZoTiVAtiOn1",
   embed: "https://www.youtube.com/embed/0sEv1WjXam4?si=AmpiUd9Y2BhTK20u",
   thumbnail: `https://img.youtube.com/vi/0sEv1WjXam4/hqdefault.jpg`,
 },
+
+{
+  id: 33,
+  title: "God Made you this way...to call you! You ARE set apart",
+  creator: "ZoTiVAtiOn1",
+  category: "ZoTiVAtiOn1",
+  embed: "https://www.youtube.com/embed/PejcfNOXin8?si=AmpiUd9Y2BhTK20u",
+  thumbnail: `https://img.youtube.com/vi/PejcfNOXin8/hqdefault.jpg`,
+},
+
 
 
       // above is JUST a skeleton...NOT the actual videos that will be there. 
