@@ -441,5 +441,26 @@ thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
                           embed: "https://www.youtube.com/embed/vZukWuT9lcA?si=AmpiUd9Y2BhTK20u",
                           thumbnail: `https://img.youtube.com/vi/vZukWuT9lcA/hqdefault.jpg`,
                           },
+
+                          {
+                            id: 55,
+                            title: "Christian Nationalism sucks (according to the Bible)",
+                            creator: "Garrison Hayes",
+                            category: "Christian Nationalism",
+                            embed: "https://www.youtube.com/embed/CT8OLQxal38?si=AmpiUd9Y2BhTK20u",
+                            thumbnail: `https://img.youtube.com/vi/CT8OLQxal38/hqdefault.jpg`,
+                            },
+// This is just a stopping point, more videos to be added later tonight!
+
+                            {
+                              id: 56,
+                              title: "Why I Am Not A Christian Nationalist",
+                              creator: "InspiringPhilosophy",
+                              category: "Christian Nationalism",
+                              embed: "https://www.youtube.com/embed/j0xhu4KaLvw?si=AmpiUd9Y2BhTK20u",
+                              thumbnail: `https://img.youtube.com/vi/j0xhu4KaLvw/hqdefault.jpg`,
+                              },
+
+
                         
   ];

@@ -42,7 +42,7 @@ export default function SupportSection() {
     card: {
       maxWidth: "500px",
       width: "100%",
-      background: "#ffffff",
+      background: "slate",
       borderRadius: "20px",
       padding: "2rem",
       textAlign: "center",
