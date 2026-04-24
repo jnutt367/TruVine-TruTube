@@ -450,7 +450,6 @@ thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
                             embed: "https://www.youtube.com/embed/CT8OLQxal38?si=AmpiUd9Y2BhTK20u",
                             thumbnail: `https://img.youtube.com/vi/CT8OLQxal38/hqdefault.jpg`,
                             },
-// This is just a stopping point, more videos to be added later tonight!
 
                             {
                               id: 56,
@@ -461,6 +460,58 @@ thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
                               thumbnail: `https://img.youtube.com/vi/j0xhu4KaLvw/hqdefault.jpg`,
                               },
 
-
+                       // This is just a stopping point, more videos to be added later tonight!
+                       {
+                        id: 57,
+                        title: "How to Read the Bible Overview",
+                        creator: "The Bible Project",
+                        category: "The Bible Project",
+                        embed: "https://www.youtube.com/embed/plSNIwhAn5o?si=AmpiUd9Y2BhTK20u",
+                        thumbnail: `https://img.youtube.com/vi/plSNIwhAn5o/hqdefault.jpg`,
+                        },
+                        {
+                          id: 58,
+                          title: "The Story of the Bible • What It's About From Beginning to End",
+                          creator: "The Bible Project",
+                          category: "The Bible Project",
+                          embed: "https://www.youtube.com/embed/7_CGP-12AE0?si=AmpiUd9Y2BhTK20u",
+                          thumbnail: `https://img.youtube.com/vi/7_CGP-12AE0/hqdefault.jpg`,
+                          },
+    
+                          {
+                            id: 59,
+                            title: "Why the Holy Spirit Isn’t Just a “Force”",
+                            creator: "The Bible Project",
+                            category: "The Bible Project",
+                            embed: "https://www.youtube.com/embed/oNNZO9i1Gjc?si=AmpiUd9Y2BhTK20u",
+                            thumbnail: `https://img.youtube.com/vi/oNNZO9i1Gjc/hqdefault.jpg`,
+                            },
+    
+                            {
+                              id: 60,
+                              title: "How You Know You Belong to God",
+                              creator: "The Bible Project",
+                              category: "The Bible Project",
+                              embed: "https://www.youtube.com/embed/uib2G8GkG60?si=AmpiUd9Y2BhTK20u",
+                              thumbnail: `https://img.youtube.com/vi/uib2G8GkG60/hqdefault.jpg`,
+                              },
+    
+                              {
+                                id: 61,
+                                title: "The Difference Between God’s Tests and the Enemy’s Traps",
+                                creator: "The Bible Project",
+                                category: "The Bible Project",
+                                embed: "https://www.youtube.com/embed/sR4AT0LMJ5c?si=AmpiUd9Y2BhTK20u",
+                                thumbnail: `https://img.youtube.com/vi/sR4AT0LMJ5c/hqdefault.jpg`,
+                                },
+    
+                                {
+                                  id: 62,
+                                  title: "What Mountains Have to Do with Being Close to God",
+                                  creator: "The Bible Project",
+                                  category: "The Bible Project",
+                                  embed: "https://www.youtube.com/embed/CxDIeoVz7_8?si=AmpiUd9Y2BhTK20u",
+                                  thumbnail: `https://img.youtube.com/vi/CxDIeoVz7_8/hqdefault.jpg`,
+                                  },
                         
   ];
