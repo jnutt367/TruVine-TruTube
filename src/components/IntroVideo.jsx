@@ -48,7 +48,7 @@ export default function IntroVideo() {
         width: "100%",          // 👈 add this
         maxWidth: "360px",      // 👈 add this (controls size)
         margin: "0 auto",       // 👈 centers it
-        paddingBottom: "56.25%", // keep this (9:16 ratio)
+        paddingBottom: "35%", // keep this (9:16 ratio)
         height: "500px",
         overflow: "hidden",
         borderRadius: "16px",
