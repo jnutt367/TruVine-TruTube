@@ -529,8 +529,25 @@ thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
                                     thumbnail: `https://img.youtube.com/vi/KUil1m3P2iI/hqdefault.jpg`,
                                     },
 
-                                  
+                                    {
+                                      id: 65,
+                                      title: "WE all fall short... give glory to God 🙏",
+                                      creator: "Jesus' Love Revealed",
+                                      category: "Jesus' Love Revealed",
+                                      embed: "https://www.youtube.com/embed/Cv2Lv-ba9Vc?si=AmpiUd9Y2BhTK20u",
+                                      thumbnail: `https://img.youtube.com/vi/Cv2Lv-ba9Vc/hqdefault.jpg`,
+                                      },
+                                    
+                                    
 
+                                    {
+                                      id: 66,
+                                      title: "We Live by Faith, not by sight.",
+                                      creator: "Jesus' Love Revealed",
+                                      category: "Jesus' Love Revealed",
+                                      embed: "https://www.youtube.com/embed/z6p_6YGhdGo?si=AmpiUd9Y2BhTK20u",
+                                      thumbnail: `https://img.youtube.com/vi/z6p_6YGhdGo/hqdefault.jpg`,
+                                      },
                                     
                                     
 
