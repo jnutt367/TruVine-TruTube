@@ -548,7 +548,16 @@ thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
                                       embed: "https://www.youtube.com/embed/z6p_6YGhdGo?si=AmpiUd9Y2BhTK20u",
                                       thumbnail: `https://img.youtube.com/vi/z6p_6YGhdGo/hqdefault.jpg`,
                                       },
-                                    
-                                    
 
-  ];
+                                      {
+                                        id: 67,
+                                        title: "WORSHIP ME IN SPIRIT AND IN TRUTH ~GOD",
+                                        creator: "Jesus' Love Revealed",
+                                        category: "Jesus' Love Revealed",
+                                        embed: "https://www.youtube.com/embed/1VbsQh3VNnc?si=AmpiUd9Y2BhTK20u",
+                                        thumbnail: `https://img.youtube.com/vi/1VbsQh3VNnc/hqdefault.jpg`,
+                                        },
+
+                                      
+                                      
+                                       ];
