@@ -228,11 +228,11 @@
       },
       {
         id: 27,
-        title: "God Has Been Trying to Tell You This | Stop Drifting in Your Faith",
+        title: "You're Going to Make It",
         creator: "ZoTiVAtiOn1",
         category: "ZoTiVAtiOn1",
-        embed: "https://www.youtube.com/embed/PgGtbSMJmqc?si=AmpiUd9Y2BhTK20u",
-        thumbnail: `https://img.youtube.com/vi/PgGtbSMJmqc/hqdefault.jpg`,
+        embed: "https://www.youtube.com/embed/tcOpP5UH464?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/tcOpP5UH464/hqdefault.jpg`,
       },
       
       {
