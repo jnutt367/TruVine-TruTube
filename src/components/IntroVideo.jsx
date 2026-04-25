@@ -46,7 +46,7 @@ export default function IntroVideo() {
     videoWrapper: {
         position: "relative",
         width: "100%",          // 👈 add this
-        maxWidth: "200px",      // 👈 add this (controls size)
+        maxWidth: "300px",      // 👈 add this (controls size)
         margin: "0 auto",       // 👈 centers it
         paddingBottom: "20%", // keep this (9:16 ratio)
         height: "500px",
