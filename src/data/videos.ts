@@ -1,7 +1,14 @@
 
   export const videos = [
     
-    
+    {
+      id: 64,
+      title: "WE breathe the name of God. YH WH.",
+      creator: "Jesus' Love Revealed",
+      category: "Jesus' Love Revealed",
+      embed: "https://www.youtube.com/embed/5_TzSYJDTJA?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/5_TzSYJDTJA/hqdefault.jpg`,
+      },
     {
       id: 29,
       title: "GOD DID NOT SAY STOP! HE is BUILDING",
@@ -521,5 +528,10 @@ thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
                                     embed: "https://www.youtube.com/embed/KUil1m3P2iI?si=AmpiUd9Y2BhTK20u",
                                     thumbnail: `https://img.youtube.com/vi/KUil1m3P2iI/hqdefault.jpg`,
                                     },
-                          
+
+                                  
+
+                                    
+                                    
+
   ];
