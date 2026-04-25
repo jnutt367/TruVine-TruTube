@@ -574,9 +574,16 @@ thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
                                             embed: "https://www.youtube.com/embed/24cIjv5a0K8?si=AmpiUd9Y2BhTK20u",
                                             thumbnail: `https://img.youtube.com/vi/24cIjv5a0K8/hqdefault.jpg`,
                                             },
-  
-
-
+                                            {
+                                              id: 70,
+                                              title: "Jesus Love Revealed with Jason & Gavin July 30th",
+                                              creator: "Jesus' Love Revealed",
+                                              category: "Jesus' Love Revealed",
+                                              embed: "https://www.youtube.com/embed/q362YewSTFo?si=AmpiUd9Y2BhTK20u",
+                                              thumbnail: `https://img.youtube.com/vi/q362YewSTFo/hqdefault.jpg`,
+                                              },
+                                              
+                                           
                                           
                                                                                 
                                        ];
