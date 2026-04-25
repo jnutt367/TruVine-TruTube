@@ -557,7 +557,26 @@ thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
                                         embed: "https://www.youtube.com/embed/1VbsQh3VNnc?si=AmpiUd9Y2BhTK20u",
                                         thumbnail: `https://img.youtube.com/vi/1VbsQh3VNnc/hqdefault.jpg`,
                                         },
+                                        {
+                                          id: 68,
+                                          title: "HOME. KEEP SEEKING IT. GOD BLESS",
+                                          creator: "ZoTiVAtiOn1",
+                                          category: "ZoTiVAtiOn1",
+                                          embed: "https://www.youtube.com/embed/v5T8UHAwmQU?si=AmpiUd9Y2BhTK20u",
+                                          thumbnail: `https://img.youtube.com/vi/v5T8UHAwmQU/hqdefault.jpg`,
+                                          },
 
-                                      
-                                      
+                                          {
+                                            id: 69,
+                                            title: "June 30 (Like and Subscribe) Becoming Disciples, By following the Way, the Truth and the Life",
+                                            creator: "Jesus' Love Revealed",
+                                            category: "Jesus' Love Revealed",
+                                            embed: "https://www.youtube.com/embed/24cIjv5a0K8?si=AmpiUd9Y2BhTK20u",
+                                            thumbnail: `https://img.youtube.com/vi/24cIjv5a0K8/hqdefault.jpg`,
+                                            },
+  
+
+
+                                          
+                                                                                
                                        ];
