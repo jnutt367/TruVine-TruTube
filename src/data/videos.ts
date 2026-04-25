@@ -513,5 +513,13 @@ thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
                                   embed: "https://www.youtube.com/embed/CxDIeoVz7_8?si=AmpiUd9Y2BhTK20u",
                                   thumbnail: `https://img.youtube.com/vi/CxDIeoVz7_8/hqdefault.jpg`,
                                   },
-                        
+                                  {
+                                    id: 63,
+                                    title: "How Can You Know What’s Right? Here’s What Jesus Thought.",
+                                    creator: "The Bible Project",
+                                    category: "The Bible Project",
+                                    embed: "https://www.youtube.com/embed/KUil1m3P2iI?si=AmpiUd9Y2BhTK20u",
+                                    thumbnail: `https://img.youtube.com/vi/KUil1m3P2iI/hqdefault.jpg`,
+                                    },
+                          
   ];
