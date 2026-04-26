@@ -108,7 +108,7 @@ export default function Feed({ user }: { user: string }) {
 
 <VideoGrid videos={filteredVideos} />
 
-      <div className="bg-white text-blue-600 p-6 rounded-2xl text-shadow-lg">
+      <div className="bg-slate-900 text-black p-6 rounded-2xl text-shadow-lg">
         <h2 className="font-bold mb-4">Share with the Community</h2>
 
         {/* TYPE SELECTOR */}
