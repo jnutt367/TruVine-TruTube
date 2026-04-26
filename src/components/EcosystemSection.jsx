@@ -9,11 +9,11 @@ export default function EcosystemSection() {
   
         <div style={styles.grid}>
           <a href="https://jesus-love-revealed.vercel.app/" target="_blank" style={styles.card}>
-            Jesus Love Revealed
+          💌 Jesus Love Revealed 🕊
           </a>
   
           <a href="https://wordofgod.vercel.app/" target="_blank" style={styles.card}>
-            The Word of God Risen
+          🙇🏾 The Word of God Risen 🙇🏻‍♂️
           </a>
         </div>
       </div>
@@ -22,6 +22,7 @@ export default function EcosystemSection() {
   
   const styles = {
     wrapper: {
+      background: "#2D7C66",
       padding: "1.5rem 1rem",
       textAlign: "center",
       opacity: 0.9,
@@ -36,7 +37,7 @@ export default function EcosystemSection() {
   
     subtext: {
       fontSize: "0.75rem",
-      color: "#888",
+      color: "white",
       marginBottom: "1rem",
     },
   
@@ -49,13 +50,13 @@ export default function EcosystemSection() {
   
     card: {
       padding: "0.7rem 1rem",
-      borderRadius: "12px",
-      background: "#f7f9fc",
+      background: "black",
       textDecoration: "none",
-      color: "#444",
+      color: "white",
       fontSize: "0.8rem",
       minWidth: "160px",
-      border: "1px solid #eef1f5",
+      opacity: 0.9,
+      border: "1px solid white",
       boxShadow: "0 2px 6px rgba(0,0,0,0.03)",
       transition: "all 0.2s ease",
     },
