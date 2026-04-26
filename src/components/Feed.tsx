@@ -108,7 +108,7 @@ export default function Feed({ user }: { user: string }) {
 
 <VideoGrid videos={filteredVideos} />
 
-      <div className="bg-slate-900 text-black p-6 rounded-2xl text-shadow-lg">
+      <div className="bg-slate-900 text-white p-6 rounded-2xl text-shadow-lg">
         <h2 className="font-bold mb-4">Share with the Community</h2>
 
         {/* TYPE SELECTOR */}
@@ -142,7 +142,7 @@ export default function Feed({ user }: { user: string }) {
         </div>
 
         <textarea
-          className="w-full bg-slate-100 p-4 rounded-xl mb-4"
+          className="w-full bg-slate-500 text-white  p-4 rounded-xl mb-4"
           rows={3}
           placeholder="What is God speaking to you?"
           value={input}
@@ -159,7 +159,7 @@ export default function Feed({ user }: { user: string }) {
 
       {/* EMPTY STATE */}
       {posts.length === 0 && (
-        <div className="text-center text-slate-400">
+        <div className="text-center text-slate-500">
           The vine is quiet...
         </div>
       )}
