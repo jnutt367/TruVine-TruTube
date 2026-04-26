@@ -17,6 +17,54 @@
       embed: "https://www.youtube.com/embed/e72dNwFCudU?si=AmpiUd9Y2BhTK20u",
       thumbnail: `https://img.youtube.com/vi/e72dNwFCudU/hqdefault.jpg`,
     },
+
+    {
+      id: 71,
+      title: "Daily Blade Podcast | Faith and the Ballot",
+      creator: "Daily Blade Podcast",
+      category: "Daily Blade Podcast",
+      embed: "https://embed.podcasts.apple.com/us/podcast/343-kyle-thompson-faith-and-the-ballot/id1786417647?i=1000763388989",
+      thumbnail: `https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MjY4OTgwLCJwdXIiOiJibG9iX2lkIn19--9c63c34dbc776e436e2adc4759faba97134343af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/Daily%20Blade%20Logo%20-%20Full%20Color.jpg`,
+      },
+
+      {
+        id: 72,
+        title: "Daily Blade Podcast | Do not neglect to meet together",
+        creator: "Daily Blade Podcast",
+        category: "Daily Blade Podcast",
+        embed: "https://www.buzzsprout.com/2426656/episodes/19024082",
+        thumbnail: `https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MjY4OTgwLCJwdXIiOiJibG9iX2lkIn19--9c63c34dbc776e436e2adc4759faba97134343af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/Daily%20Blade%20Logo%20-%20Full%20Color.jpg`,
+        },
+
+        {
+          id: 73,
+          title: "Daily Blade Podcast | Do All Religions Worship The Same God",
+          creator: "Daily Blade Podcast",
+          category: "Daily Blade Podcast",
+          embed: "https://www.buzzsprout.com/2426656/episodes/19024080",
+          thumbnail: `https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MjY4OTgwLCJwdXIiOiJibG9iX2lkIn19--9c63c34dbc776e436e2adc4759faba97134343af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/Daily%20Blade%20Logo%20-%20Full%20Color.jpg`,
+          },
+  
+          {
+            id: 74,
+            title: "Daily Blade Podcast | Biblical Marriage In A Confused Age",
+            creator: "Daily Blade Podcast",
+            category: "Daily Blade Podcast",
+            embed: "https://www.buzzsprout.com/2426656/episodes/19024079",
+            thumbnail: `https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MjY4OTgwLCJwdXIiOiJibG9iX2lkIn19--9c63c34dbc776e436e2adc4759faba97134343af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/Daily%20Blade%20Logo%20-%20Full%20Color.jpg`,
+            },
+
+            {
+              id: 75,
+              title: "Daily Blade Podcast | Discernment In The Age Of Noise",
+              creator: "Daily Blade Podcast",
+              category: "Daily Blade Podcast",
+              embed: "https://www.buzzsprout.com/2426656/episodes/19024077",
+              thumbnail: `https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MjY4OTgwLCJwdXIiOiJibG9iX2lkIn19--9c63c34dbc776e436e2adc4759faba97134343af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/Daily%20Blade%20Logo%20-%20Full%20Color.jpg`,
+              },
+
+            
+        
     {
         id: 26,
         title: "Unbelievable Bible Stories You Didn't Know Existed!",
@@ -583,7 +631,8 @@ thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
                                               thumbnail: `https://img.youtube.com/vi/q362YewSTFo/hqdefault.jpg`,
                                               },
                                               
-                                           
+                                            
+                                             
                                           
                                                                                 
                                        ];
