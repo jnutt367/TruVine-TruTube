@@ -9,8 +9,14 @@
       embed: "https://www.youtube.com/embed/5_TzSYJDTJA?si=AmpiUd9Y2BhTK20u",
       thumbnail: `https://img.youtube.com/vi/5_TzSYJDTJA/hqdefault.jpg`,
       },
-
-      {
+                     {
+                      id: 2,
+                      title: "Man on the Middle Cross",
+                      creator: "Jason Nutt",
+                      category: "Scripture Shorts",
+                      embed: "https://www.youtube.com/embed/qGslKnBYQEo",
+                      thumbnail: "https://img.youtube.com/vi/qGslKnBYQEo/hqdefault.jpg",
+                    },      {
         id: 81,
         title: "Global Bible Month day 2, Jason reads Jesus Calling.",
         creator: "Jesus' Love Revealed | Global Bible Month 2026",
@@ -139,14 +145,7 @@
                       embed: "https://www.youtube.com/embed/sWYDG1jjczY?si=sQwW26id6aUP31C2",
                       thumbnail: "https://img.youtube.com/vi/sWYDG1jjczY/hqdefault.jpg",
                     },
-                    {
-                      id: 2,
-                      title: "Man on the Middle Cross",
-                      creator: "Jason Nutt",
-                      category: "Scripture Shorts",
-                      embed: "https://www.youtube.com/embed/qGslKnBYQEo",
-                      thumbnail: "https://img.youtube.com/vi/qGslKnBYQEo/hqdefault.jpg",
-                    },
+                   
                     {
                       id: 3,
                       title: "Proverbs",
