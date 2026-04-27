@@ -8,9 +8,9 @@ export default function IntroVideo() {
   
           <div style={styles.videoWrapper}>
             <iframe
-              src="https://www.youtube.com/embed/HIvDMP9vFQw?autoplay=1&mute=1&controls=1&rel=0"
-              title="Intro Video"
-              frameBorder="0"
+              src="https://www.youtube.com/embed/qxZ6b9NNsYw" 
+              title="TruVine public service announcement. the link is in the first comment, AND IN THE DESCRIPTION"
+              frameBorder="10"
               allowFullScreen
               allow="autoplay; encrypted-media"
               style={styles.iframe}
