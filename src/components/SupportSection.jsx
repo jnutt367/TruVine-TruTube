@@ -7,11 +7,11 @@ export default function SupportSection() {
           <p style={styles.title}>Support the Mission 🤍</p>
   
           <p style={styles.text}>
-            If this content has encouraged you, you are welcome to support the mission.
+            If this content has encouraged you, you are welcome to support me here.
           </p>
   
           <p style={styles.subtext}>
-            Every contribution helps spread Jesus hope and love.
+            I also work fulltime, so every contribution helps free time and assets for spreading the word. Thanks!
           </p>
   
           <div style={styles.links}>
