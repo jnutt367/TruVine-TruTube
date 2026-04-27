@@ -1,4 +1,5 @@
-export const videos = [
+
+  export const videos = [
     
     {
       id: 64,
@@ -680,14 +681,14 @@ export const videos = [
           embed: "https://www.youtube.com/embed/v5T8UHAwmQU?si=AmpiUd9Y2BhTK20u",
           thumbnail: `https://img.youtube.com/vi/v5T8UHAwmQU/hqdefault.jpg`,
           },
-
+       
           {
             id: 69,
-            title: "June 30 (Like and Subscribe) Becoming Disciples, By following the Way, the Truth and the Life",
+            title: "Risen in Me! Sing Hallelujah!",
             creator: "Jesus' Love Revealed",
-            category: "Jesus' Love Revealed",
-            embed: "https://www.youtube.com/embed/24cIjv5a0K8?si=AmpiUd9Y2BhTK20u",
-            thumbnail: `https://img.youtube.com/vi/24cIjv5a0K8/hqdefault.jpg`,
+            category: "Scripture Shorts",
+            embed: "https://www.youtube.com/embed/Fgjv6AcO_0I?si=AmpiUd9Y2BhTK20u",
+            thumbnail: `https://img.youtube.com/vi/Fgjv6AcO_0I/hqdefault.jpg`,
             },
             {
               id: 70,
