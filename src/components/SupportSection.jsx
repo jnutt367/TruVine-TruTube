@@ -53,16 +53,16 @@ export default function SupportSection() {
       fontSize: "1.2rem",
       fontWeight: "600",
       marginBottom: "0.5rem",
-      color: "#333",
+      color: "green",
     },
     text: {
       fontSize: "0.95rem",
-      color: "#555",
+      color: "orange",
       marginBottom: "0.5rem",
     },
     subtext: {
       fontSize: "0.85rem",
-      color: "#888",
+      color: "green",
       marginBottom: "1.5rem",
     },
     links: {
