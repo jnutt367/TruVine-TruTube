@@ -1,5 +1,4 @@
-
-  export const videos = [
+export const videos = [
     
     {
       id: 64,
@@ -9,14 +8,25 @@
       embed: "https://www.youtube.com/embed/5_TzSYJDTJA?si=AmpiUd9Y2BhTK20u",
       thumbnail: `https://img.youtube.com/vi/5_TzSYJDTJA/hqdefault.jpg`,
       },
-                     {
-                      id: 2,
-                      title: "Man on the Middle Cross",
-                      creator: "Jason Nutt",
-                      category: "Scripture Shorts",
-                      embed: "https://www.youtube.com/embed/qGslKnBYQEo",
-                      thumbnail: "https://img.youtube.com/vi/qGslKnBYQEo/hqdefault.jpg",
-                    },      {
+
+      {
+        id: 99,
+        title: "Proverbs, allowing the Holy Spirit to Guide This",
+        creator: "Jesus' Love Revealed",
+      category: "Jesus' Love Revealed",
+        embed: "https://www.youtube.com/embed/ebE5i9Fcq9Y?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/ebE5i9Fcq9Y/hqdefault.jpg`,
+        },
+
+      {
+        id: 2,
+        title: "Man on the Middle Cross",
+        creator: "Jason Nutt",
+        category: "Scripture Shorts",
+        embed: "https://www.youtube.com/embed/qGslKnBYQEo",
+        thumbnail: "https://img.youtube.com/vi/qGslKnBYQEo/hqdefault.jpg",
+      },
+      {
         id: 81,
         title: "Global Bible Month day 2, Jason reads Jesus Calling.",
         creator: "Jesus' Love Revealed | Global Bible Month 2026",
@@ -572,262 +582,291 @@
                               thumbnail: `https://img.youtube.com/vi/j0xhu4KaLvw/hqdefault.jpg`,
                               },
 
-                       // This is just a stopping point, more videos to be added later tonight!
-                       {
-                        id: 57,
-                        title: "How to Read the Bible Overview",
-                        creator: "The Bible Project",
-                        category: "The Bible Project",
-                        embed: "https://www.youtube.com/embed/plSNIwhAn5o?si=AmpiUd9Y2BhTK20u",
-                        thumbnail: `https://img.youtube.com/vi/plSNIwhAn5o/hqdefault.jpg`,
+                     
+                {
+                id: 57,
+                title: "How to Read the Bible Overview",
+                creator: "The Bible Project",
+                category: "The Bible Project",
+                embed: "https://www.youtube.com/embed/plSNIwhAn5o?si=AmpiUd9Y2BhTK20u",
+                thumbnail: `https://img.youtube.com/vi/plSNIwhAn5o/hqdefault.jpg`,
+                },
+              {
+                id: 58,
+                title: "The Story of the Bible • What It's About From Beginning to End",
+                creator: "The Bible Project",
+                category: "The Bible Project",
+                embed: "https://www.youtube.com/embed/7_CGP-12AE0?si=AmpiUd9Y2BhTK20u",
+                thumbnail: `https://img.youtube.com/vi/7_CGP-12AE0/hqdefault.jpg`,
+                },
+
+                {
+                  id: 59,
+                  title: "Why the Holy Spirit Isn’t Just a “Force”",
+                  creator: "The Bible Project",
+                  category: "The Bible Project",
+                  embed: "https://www.youtube.com/embed/oNNZO9i1Gjc?si=AmpiUd9Y2BhTK20u",
+                  thumbnail: `https://img.youtube.com/vi/oNNZO9i1Gjc/hqdefault.jpg`,
+                  },
+
+                  {
+                    id: 60,
+                    title: "How You Know You Belong to God",
+                    creator: "The Bible Project",
+                    category: "The Bible Project",
+                    embed: "https://www.youtube.com/embed/uib2G8GkG60?si=AmpiUd9Y2BhTK20u",
+                    thumbnail: `https://img.youtube.com/vi/uib2G8GkG60/hqdefault.jpg`,
+                    },
+
+                    {
+                      id: 61,
+                      title: "The Difference Between God’s Tests and the Enemy’s Traps",
+                      creator: "The Bible Project",
+                      category: "The Bible Project",
+                      embed: "https://www.youtube.com/embed/sR4AT0LMJ5c?si=AmpiUd9Y2BhTK20u",
+                      thumbnail: `https://img.youtube.com/vi/sR4AT0LMJ5c/hqdefault.jpg`,
+                      },
+
+            {
+              id: 62,
+              title: "What Mountains Have to Do with Being Close to God",
+              creator: "The Bible Project",
+              category: "The Bible Project",
+              embed: "https://www.youtube.com/embed/CxDIeoVz7_8?si=AmpiUd9Y2BhTK20u",
+              thumbnail: `https://img.youtube.com/vi/CxDIeoVz7_8/hqdefault.jpg`,
+              },
+              {
+                id: 63,
+                title: "How Can You Know What’s Right? Here’s What Jesus Thought.",
+                creator: "The Bible Project",
+                category: "The Bible Project",
+                embed: "https://www.youtube.com/embed/KUil1m3P2iI?si=AmpiUd9Y2BhTK20u",
+                thumbnail: `https://img.youtube.com/vi/KUil1m3P2iI/hqdefault.jpg`,
+                },
+
+                {
+                  id: 65,
+                  title: "WE all fall short... give glory to God 🙏",
+                  creator: "Jesus' Love Revealed",
+                  category: "Scripture Shorts",
+                  embed: "https://www.youtube.com/embed/Cv2Lv-ba9Vc?si=AmpiUd9Y2BhTK20u",
+                  thumbnail: `https://img.youtube.com/vi/Cv2Lv-ba9Vc/hqdefault.jpg`,
+                  },
+                          
+                          
+
+                  {
+                    id: 66,
+                    title: "We Live by Faith, not by sight.",
+                    creator: "Jesus' Love Revealed",
+                    category: "Scripture Shorts",
+                    embed: "https://www.youtube.com/embed/z6p_6YGhdGo?si=AmpiUd9Y2BhTK20u",
+                    thumbnail: `https://img.youtube.com/vi/z6p_6YGhdGo/hqdefault.jpg`,
+                    },
+
+                    {
+                      id: 67,
+                      title: "WORSHIP ME IN SPIRIT AND IN TRUTH ~GOD",
+                      creator: "Jesus' Love Revealed",
+                      category: "Jesus' Love Revealed",
+                      embed: "https://www.youtube.com/embed/1VbsQh3VNnc?si=AmpiUd9Y2BhTK20u",
+                      thumbnail: `https://img.youtube.com/vi/1VbsQh3VNnc/hqdefault.jpg`,
+                      },
+        {
+          id: 68,
+          title: "HOME. KEEP SEEKING IT. GOD BLESS",
+          creator: "ZoTiVAtiOn1",
+          category: "ZoTiVAtiOn1",
+          embed: "https://www.youtube.com/embed/v5T8UHAwmQU?si=AmpiUd9Y2BhTK20u",
+          thumbnail: `https://img.youtube.com/vi/v5T8UHAwmQU/hqdefault.jpg`,
+          },
+
+          {
+            id: 69,
+            title: "June 30 (Like and Subscribe) Becoming Disciples, By following the Way, the Truth and the Life",
+            creator: "Jesus' Love Revealed",
+            category: "Jesus' Love Revealed",
+            embed: "https://www.youtube.com/embed/24cIjv5a0K8?si=AmpiUd9Y2BhTK20u",
+            thumbnail: `https://img.youtube.com/vi/24cIjv5a0K8/hqdefault.jpg`,
+            },
+            {
+              id: 70,
+              title: "Jesus Love Revealed with Jason & Gavin July 30th",
+              creator: "Jesus' Love Revealed",
+              category: "Jesus' Love Revealed",
+              embed: "https://www.youtube.com/embed/q362YewSTFo?si=AmpiUd9Y2BhTK20u",
+              thumbnail: `https://img.youtube.com/vi/q362YewSTFo/hqdefault.jpg`,
+              },
+                {
+                  id: 82,
+                  title: "Global Bible month challenge Day 1 with Gavin!",
+                  creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                  category: "Jesus' Love Revealed | Global Bible Month 2026",
+                  embed: "https://www.youtube.com/embed/E34gUZGSqIw?si=AmpiUd9Y2BhTK20u",
+                  thumbnail: `https://img.youtube.com/vi/E34gUZGSqIw/hqdefault.jpg`,
+                },
+
+                {
+                  id: 83,
+                  title: "Global Bible Month 2026 Day 2  Scripture Short",
+                  creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                category: "Jesus' Love Revealed | Global Bible Month 2026",
+                  embed: "https://www.youtube.com/embed/G-8rcExz8m8?si=AmpiUd9Y2BhTK20u",
+                  thumbnail: `https://img.youtube.com/vi/G-8rcExz8m8/hqdefault.jpg`,
+                  },
+                  
+                  {
+                    id: 84,
+                    title: "Global Bible Month 2026 Day 3 Remain in Me 🙏",
+                    creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                  category: "Jesus' Love Revealed | Global Bible Month 2026",
+                    embed: "https://www.youtube.com/embed/u_I2AaeJMqU?si=AmpiUd9Y2BhTK20u",
+                    thumbnail: `https://img.youtube.com/vi/u_I2AaeJMqU/hqdefault.jpg`,
+                    },
+                    
+                    {
+                      id: 85,
+                      title: "Global Bible Month 2026 Day 4 Live like Jesus 🕊",
+                      creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                    category: "Jesus' Love Revealed | Global Bible Month 2026",
+                      embed: "https://www.youtube.com/embed/zqk8jVaUaak?si=AmpiUd9Y2BhTK20u",
+                      thumbnail: `https://img.youtube.com/vi/zqk8jVaUaak/hqdefault.jpg`,
+                      },
+                      
+                
+                      {
+                        id: 86,
+                        title: "Global Bible Month 2026 Day 5 Great is the Lord! Greatly to be praised!",
+                        creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                      category: "Jesus' Love Revealed | Global Bible Month 2026",
+                        embed: "https://www.youtube.com/embed/FFEPmPc1cR4?si=AmpiUd9Y2BhTK20u",
+                        thumbnail: `https://img.youtube.com/vi/FFEPmPc1cR4/hqdefault.jpg`,
                         },
+                               
+                                
+                {
+                  id: 87,
+                  title: "Global Bible Month 2026 Day 6 The Steps of a Man",
+                  creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                category: "Jesus' Love Revealed | Global Bible Month 2026",
+                  embed: "https://www.youtube.com/embed/cxTqIEHHVbY?si=AmpiUd9Y2BhTK20u",
+                  thumbnail: `https://img.youtube.com/vi/cxTqIEHHVbY/hqdefault.jpg`,
+                  },
+                  
+            
+                  {
+                    id: 88,
+                    title: "Global Bible Month 2026 Day 7 We Believe, Therefore WE Speak!",
+                    creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                  category: "Jesus' Love Revealed | Global Bible Month 2026",
+                    embed: "https://www.youtube.com/embed/bfxEPKTwQnM?si=AmpiUd9Y2BhTK20u",
+                    thumbnail: `https://img.youtube.com/vi/bfxEPKTwQnM/hqdefault.jpg`,
+                    },
+                    
+              
+                    {
+                      id: 89,
+                      title: "Global Bible Month 2026 Day 8 Challenge: get in the word and make disciples!",
+                      creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                    category: "Jesus' Love Revealed | Global Bible Month 2026",
+                      embed: "https://www.youtube.com/embed/w-HbiC6GuVs?si=AmpiUd9Y2BhTK20u",
+                      thumbnail: `https://img.youtube.com/vi/w-HbiC6GuVs/hqdefault.jpg`,
+                      },
+                      
+                      {
+                        id: 90,
+                        title: "Global Bible Month 2026 Day 9 Does God Keep Some in Darkness?",
+                        creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                      category: "Jesus' Love Revealed | Global Bible Month 2026",
+                        embed: "https://www.youtube.com/embed/jRu3Ga5SfIU?si=AmpiUd9Y2BhTK20u",
+                        thumbnail: `https://img.youtube.com/vi/jRu3Ga5SfIU/hqdefault.jpg`,
+                        },
+                        
                         {
-                          id: 58,
-                          title: "The Story of the Bible • What It's About From Beginning to End",
-                          creator: "The Bible Project",
-                          category: "The Bible Project",
-                          embed: "https://www.youtube.com/embed/7_CGP-12AE0?si=AmpiUd9Y2BhTK20u",
-                          thumbnail: `https://img.youtube.com/vi/7_CGP-12AE0/hqdefault.jpg`,
+                          id: 91,
+                          title: "Global Bible Month 2026 Day 10 a Voice Calling in the Wilderness",
+                          creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                        category: "Jesus' Love Revealed | Global Bible Month 2026",
+                          embed: "https://www.youtube.com/embed/xy3jG2aEoQA?si=AmpiUd9Y2BhTK20u",
+                          thumbnail: `https://img.youtube.com/vi/xy3jG2aEoQA/hqdefault.jpg`,
                           },
-    
+                          
+                    
                           {
-                            id: 59,
-                            title: "Why the Holy Spirit Isn’t Just a “Force”",
-                            creator: "The Bible Project",
-                            category: "The Bible Project",
-                            embed: "https://www.youtube.com/embed/oNNZO9i1Gjc?si=AmpiUd9Y2BhTK20u",
-                            thumbnail: `https://img.youtube.com/vi/oNNZO9i1Gjc/hqdefault.jpg`,
+                            id: 92,
+                            title: "Global Bible Month 2026 Day 11 We Belong to the Light (The Day)",
+                            creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                          category: "Jesus' Love Revealed | Global Bible Month 2026",
+                            embed: "https://www.youtube.com/embed/7ZurB-39S0U?si=AmpiUd9Y2BhTK20u",
+                            thumbnail: `https://img.youtube.com/vi/7ZurB-39S0U/hqdefault.jpg`,
                             },
-    
+                            
+                      
                             {
-                              id: 60,
-                              title: "How You Know You Belong to God",
-                              creator: "The Bible Project",
-                              category: "The Bible Project",
-                              embed: "https://www.youtube.com/embed/uib2G8GkG60?si=AmpiUd9Y2BhTK20u",
-                              thumbnail: `https://img.youtube.com/vi/uib2G8GkG60/hqdefault.jpg`,
+                              id: 93,
+                              title: "Global Bible Month 2026 Day 12 Be Patient. Do Not Payback Wrongs",
+                              creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                            category: "Jesus' Love Revealed | Global Bible Month 2026",
+                              embed: "https://www.youtube.com/embed/0CbrldUa3WE?si=AmpiUd9Y2BhTK20u",
+                              thumbnail: `https://img.youtube.com/vi/0CbrldUa3WE/hqdefault.jpg`,
                               },
-    
+                              
+                        
                               {
-                                id: 61,
-                                title: "The Difference Between God’s Tests and the Enemy’s Traps",
-                                creator: "The Bible Project",
-                                category: "The Bible Project",
-                                embed: "https://www.youtube.com/embed/sR4AT0LMJ5c?si=AmpiUd9Y2BhTK20u",
-                                thumbnail: `https://img.youtube.com/vi/sR4AT0LMJ5c/hqdefault.jpg`,
+                                id: 94,
+                                title: "Global Bible Month 2026 Day 13 We are in Him and He is in US!!",
+                                creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                              category: "Jesus' Love Revealed | Global Bible Month 2026",
+                                embed: "https://www.youtube.com/embed/20750sHu5w4?si=AmpiUd9Y2BhTK20u",
+                                thumbnail: `https://img.youtube.com/vi/20750sHu5w4/hqdefault.jpg`,
                                 },
-    
+
+
                                 {
-                                  id: 62,
-                                  title: "What Mountains Have to Do with Being Close to God",
-                                  creator: "The Bible Project",
-                                  category: "The Bible Project",
-                                  embed: "https://www.youtube.com/embed/CxDIeoVz7_8?si=AmpiUd9Y2BhTK20u",
-                                  thumbnail: `https://img.youtube.com/vi/CxDIeoVz7_8/hqdefault.jpg`,
+                                  id: 95,
+                                  title: "Global Bible Month 2026 Day 13 Part 2 He is Coming!",
+                                  creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                                category: "Jesus' Love Revealed | Global Bible Month 2026",
+                                  embed: "https://www.youtube.com/embed/QJ2Yx08LDqo?si=AmpiUd9Y2BhTK20u",
+                                  thumbnail: `https://img.youtube.com/vi/QJ2Yx08LDqo/hqdefault.jpg`,
                                   },
+                                  
                                   {
-                                    id: 63,
-                                    title: "How Can You Know What’s Right? Here’s What Jesus Thought.",
-                                    creator: "The Bible Project",
-                                    category: "The Bible Project",
-                                    embed: "https://www.youtube.com/embed/KUil1m3P2iI?si=AmpiUd9Y2BhTK20u",
-                                    thumbnail: `https://img.youtube.com/vi/KUil1m3P2iI/hqdefault.jpg`,
+                                    id: 96,
+                                    title: "Global Bible Month 2026 Day 14 Some Misunderstood Paul...",
+                                    creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                                  category: "Jesus' Love Revealed | Global Bible Month 2026",
+                                    embed: "https://www.youtube.com/embed/ZEEdzo0MZyE?si=AmpiUd9Y2BhTK20u",
+                                    thumbnail: `https://img.youtube.com/vi/ZEEdzo0MZyE/hqdefault.jpg`,
                                     },
-
+                                        
                                     {
-                                      id: 65,
-                                      title: "WE all fall short... give glory to God 🙏",
-                                      creator: "Jesus' Love Revealed",
-                                      category: "Scripture Shorts",
-                                      embed: "https://www.youtube.com/embed/Cv2Lv-ba9Vc?si=AmpiUd9Y2BhTK20u",
-                                      thumbnail: `https://img.youtube.com/vi/Cv2Lv-ba9Vc/hqdefault.jpg`,
+                                      id: 97,
+                                      title: "Global Bible Month 2026 Day 14 Part 2 They Persih Because They Refuse to Love the Truth..& so be SAVED",
+                                      creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                                    category: "Jesus' Love Revealed | Global Bible Month 2026",
+                                      embed: "https://www.youtube.com/embed/urXfsHUyo38?si=AmpiUd9Y2BhTK20u",
+                                      thumbnail: `https://img.youtube.com/vi/urXfsHUyo38/hqdefault.jpg`,
                                       },
-                                    
-                                    
 
-                                    {
-                                      id: 66,
-                                      title: "We Live by Faith, not by sight.",
-                                      creator: "Jesus' Love Revealed",
-                                      category: "Scripture Shorts",
-                                      embed: "https://www.youtube.com/embed/z6p_6YGhdGo?si=AmpiUd9Y2BhTK20u",
-                                      thumbnail: `https://img.youtube.com/vi/z6p_6YGhdGo/hqdefault.jpg`,
-                                      },
 
                                       {
-                                        id: 67,
-                                        title: "WORSHIP ME IN SPIRIT AND IN TRUTH ~GOD",
-                                        creator: "Jesus' Love Revealed",
-                                        category: "Jesus' Love Revealed",
-                                        embed: "https://www.youtube.com/embed/1VbsQh3VNnc?si=AmpiUd9Y2BhTK20u",
-                                        thumbnail: `https://img.youtube.com/vi/1VbsQh3VNnc/hqdefault.jpg`,
+                                        id: 98,
+                                        title: "Global Bible Month 2026 Day 15 Part 1 By the Command of God our Savior and of Christ Jesus OUR Hope!",
+                                        creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                                      category: "Jesus' Love Revealed | Global Bible Month 2026",
+                                        embed: "https://www.youtube.com/embed/dr7dXeXvrU8?si=AmpiUd9Y2BhTK20u",
+                                        thumbnail: `https://img.youtube.com/vi/dr7dXeXvrU8/hqdefault.jpg`,
                                         },
-                                        {
-                                          id: 68,
-                                          title: "HOME. KEEP SEEKING IT. GOD BLESS",
-                                          creator: "ZoTiVAtiOn1",
-                                          category: "ZoTiVAtiOn1",
-                                          embed: "https://www.youtube.com/embed/v5T8UHAwmQU?si=AmpiUd9Y2BhTK20u",
-                                          thumbnail: `https://img.youtube.com/vi/v5T8UHAwmQU/hqdefault.jpg`,
-                                          },
-
-                                          {
-                                            id: 69,
-                                            title: "June 30 (Like and Subscribe) Becoming Disciples, By following the Way, the Truth and the Life",
-                                            creator: "Jesus' Love Revealed",
-                                            category: "Jesus' Love Revealed",
-                                            embed: "https://www.youtube.com/embed/24cIjv5a0K8?si=AmpiUd9Y2BhTK20u",
-                                            thumbnail: `https://img.youtube.com/vi/24cIjv5a0K8/hqdefault.jpg`,
-                                            },
-                                            {
-                                              id: 70,
-                                              title: "Jesus Love Revealed with Jason & Gavin July 30th",
-                                              creator: "Jesus' Love Revealed",
-                                              category: "Jesus' Love Revealed",
-                                              embed: "https://www.youtube.com/embed/q362YewSTFo?si=AmpiUd9Y2BhTK20u",
-                                              thumbnail: `https://img.youtube.com/vi/q362YewSTFo/hqdefault.jpg`,
-                                              },
-                                                {
-                                                  id: 82,
-                                                  title: "Global Bible month challenge Day 1 with Gavin!",
-                                                  creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                  category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                  embed: "https://www.youtube.com/embed/E34gUZGSqIw?si=AmpiUd9Y2BhTK20u",
-                                                  thumbnail: `https://img.youtube.com/vi/E34gUZGSqIw/hqdefault.jpg`,
-                                                },
-                               
-                                                {
-                                                  id: 83,
-                                                  title: "Global Bible Month 2026 Day 2  Scripture Short",
-                                                  creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                  embed: "https://www.youtube.com/embed/G-8rcExz8m8?si=AmpiUd9Y2BhTK20u",
-                                                  thumbnail: `https://img.youtube.com/vi/G-8rcExz8m8/hqdefault.jpg`,
-                                                  },
-                                                  
-                                                  {
-                                                    id: 84,
-                                                    title: "Global Bible Month 2026 Day 3 Remain in Me 🙏",
-                                                    creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                  category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                    embed: "https://www.youtube.com/embed/u_I2AaeJMqU?si=AmpiUd9Y2BhTK20u",
-                                                    thumbnail: `https://img.youtube.com/vi/u_I2AaeJMqU/hqdefault.jpg`,
-                                                    },
-                                                    
-                                                    {
-                                                      id: 85,
-                                                      title: "Global Bible Month 2026 Day 4 Live like Jesus 🕊",
-                                                      creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                    category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                      embed: "https://www.youtube.com/embed/zqk8jVaUaak?si=AmpiUd9Y2BhTK20u",
-                                                      thumbnail: `https://img.youtube.com/vi/zqk8jVaUaak/hqdefault.jpg`,
-                                                      },
-                                                      
-                                               
-                                                      {
-                                                        id: 86,
-                                                        title: "Global Bible Month 2026 Day 5 Great is the Lord! Greatly to be praised!",
-                                                        creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                      category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                        embed: "https://www.youtube.com/embed/FFEPmPc1cR4?si=AmpiUd9Y2BhTK20u",
-                                                        thumbnail: `https://img.youtube.com/vi/FFEPmPc1cR4/hqdefault.jpg`,
-                                                        },
-                                                        // The below have NOT yet been added in github.  UPDATES IN GITHUB FOR NOW. WILL NOT ALLOW PUSH FROM CLI
-                                                        
-                                                        {
-                                                          id: 87,
-                                                          title: "Global Bible Month 2026 Day 6 The Steps of a Man",
-                                                          creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                        category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                          embed: "https://www.youtube.com/embed/cxTqIEHHVbY?si=AmpiUd9Y2BhTK20u",
-                                                          thumbnail: `https://img.youtube.com/vi/cxTqIEHHVbY/hqdefault.jpg`,
-                                                          },
-                                                          
-                                                   
-                                                          {
-                                                            id: 88,
-                                                            title: "Global Bible Month 2026 Day 7 We Believe, Therefore WE Speak!",
-                                                            creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                          category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                            embed: "https://www.youtube.com/embed/bfxEPKTwQnM?si=AmpiUd9Y2BhTK20u",
-                                                            thumbnail: `https://img.youtube.com/vi/bfxEPKTwQnM/hqdefault.jpg`,
-                                                            },
-                                                            
-                                                     
-                                                            {
-                                                              id: 89,
-                                                              title: "Global Bible Month 2026 Day 8",
-                                                              creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                            category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                              embed: "https://www.youtube.com/embed/q362YewSTFo?si=AmpiUd9Y2BhTK20u",
-                                                              thumbnail: `https://img.youtube.com/vi/q362YewSTFo/hqdefault.jpg`,
-                                                              },
-                                                              
-                                                              {
-                                                                id: 90,
-                                                                title: "Global Bible Month 2026 Day 9",
-                                                                creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                              category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                                embed: "https://www.youtube.com/embed/q362YewSTFo?si=AmpiUd9Y2BhTK20u",
-                                                                thumbnail: `https://img.youtube.com/vi/q362YewSTFo/hqdefault.jpg`,
-                                                                },
-                                                                
-                                                                {
-                                                                  id: 91,
-                                                                  title: "Global Bible Month 2026 Day 10",
-                                                                  creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                                category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                                  embed: "https://www.youtube.com/embed/q362YewSTFo?si=AmpiUd9Y2BhTK20u",
-                                                                  thumbnail: `https://img.youtube.com/vi/q362YewSTFo/hqdefault.jpg`,
-                                                                  },
-                                                                  
-                                                           
-                                                                  {
-                                                                    id: 92,
-                                                                    title: "Global Bible Month 2026 Day 11",
-                                                                    creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                                  category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                                    embed: "https://www.youtube.com/embed/q362YewSTFo?si=AmpiUd9Y2BhTK20u",
-                                                                    thumbnail: `https://img.youtube.com/vi/q362YewSTFo/hqdefault.jpg`,
-                                                                    },
-                                                                    
-                                                             
-                                                                    {
-                                                                      id: 93,
-                                                                      title: "Global Bible Month 2026 Day 12",
-                                                                      creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                                    category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                                      embed: "https://www.youtube.com/embed/q362YewSTFo?si=AmpiUd9Y2BhTK20u",
-                                                                      thumbnail: `https://img.youtube.com/vi/q362YewSTFo/hqdefault.jpg`,
-                                                                      },
-                                                                      
-                                                               
-                                                                      {
-                                                                        id: 94,
-                                                                        title: "Global Bible Month 2026 Day 13",
-                                                                        creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                                      category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                                        embed: "https://www.youtube.com/embed/q362YewSTFo?si=AmpiUd9Y2BhTK20u",
-                                                                        thumbnail: `https://img.youtube.com/vi/q362YewSTFo/hqdefault.jpg`,
-                                                                        },
 
 
-                                                                        {
-                                                                          id: 95,
-                                                                          title: "Global Bible Month 2026 Day 14",
-                                                                          creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                                        category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                                          embed: "https://www.youtube.com/embed/q362YewSTFo?si=AmpiUd9Y2BhTK20u",
-                                                                          thumbnail: `https://img.youtube.com/vi/q362YewSTFo/hqdefault.jpg`,
-                                                                          },
-                                                                          
-                                                                          {
-                                                                            id: 96,
-                                                                            title: "Global Bible Month 2026 Day 15",
-                                                                            creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                                          category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                                                            embed: "https://www.youtube.com/embed/q362YewSTFo?si=AmpiUd9Y2BhTK20u",
-                                                                            thumbnail: `https://img.youtube.com/vi/q362YewSTFo/hqdefault.jpg`,
-                                                                            },
-                                                                                                             
+
+                                                         
+                     
+
+                        
+
+
+
+
                                        ];
