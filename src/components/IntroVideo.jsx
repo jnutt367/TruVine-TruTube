@@ -10,7 +10,7 @@ export default function IntroVideo() {
             <iframe
               src="https://www.youtube.com/embed/qxZ6b9NNsYw" 
               title="TruVine public service announcement. the link is in the first comment, AND IN THE DESCRIPTION"
-              frameBorder="10"
+              frameBorder="0"
               allowFullScreen
               allow="autoplay; encrypted-media"
               style={styles.iframe}
