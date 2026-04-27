@@ -109,7 +109,7 @@ export default function Feed({ user }: { user: string }) {
 <VideoGrid videos={filteredVideos} />
 
       <div className="bg-slate-900 text-emerald-600 p-6 rounded-2xl text-shadow-lg">
-        <h2 className="font-bold mb-4 ">🙇🏾 📝 Let's Help Each Other: Through FELLOWSHIP 🙇🏻‍♂️ 💌</h2>
+        <h2 className="font-bold mb-4 ">🙇🏾 Let's Help Each Other: Through FELLOWSHIP 🙇🏻‍♂️ </h2>
 
         {/* TYPE SELECTOR */}
         <div className="flex gap-2 mb-4">
@@ -144,7 +144,7 @@ export default function Feed({ user }: { user: string }) {
         <textarea
           className="w-full bg-emerald-700 text-white  p-4 rounded-xl mb-4"
           rows={3}
-          placeholder="What is God speaking to you?"
+          placeholder="📝  What is God speaking to you? 💌  " 
           value={input}
           onChange={(e) => setInput(e.target.value)}
         />
