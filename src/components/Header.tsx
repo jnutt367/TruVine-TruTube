@@ -15,14 +15,14 @@ export default function Header({
   }
 
   return (
- <header className="bg-emerald-800 text-emerald-100 p-4">
+    <header className="bg-emerald-800 text-emerald-100 p-4">
       <div className="flex justify-between items-center max-w-5xl mx-auto">
         <h1 className="font-black text-3xl pr-5">TruVINE</h1>
         
         <h5>🍃🍂 An Ecosystem, not an ego-System 🍁 </h5>
         
         <div className="flex items-center gap-3">
-          <div className="w-8 h-8 bg-blue-500 rounded-full flex items-center justify-center font-bold">
+          <div className="w-6 h-6 bg-emerald-500 rounded-full flex items-center justify-center font-bold">
             {initial}
           </div>
 
