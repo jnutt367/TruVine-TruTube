@@ -11,7 +11,7 @@ export default function SupportSection() {
           </p>
   
           <p style={styles.subtext}>
-            I also work fulltime, so every contribution helps free time and assets for spreading the word. Thanks!
+            I also work fulltime, so every contribution helps free time and assets for spreading the word & building things like this🕊 Thanks!
           </p>
   
           <div style={styles.links}>
