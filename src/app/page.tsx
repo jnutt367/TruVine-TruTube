@@ -44,14 +44,14 @@ export default function Home() {
       
       <div className="p-6 max-w-5xl mx-auto">
       <Header user={user} setUser={setUser} />
- <EcosystemSection />
-        <IntroVideo />
-        
+      <EcosystemSection />
+      <IntroVideo />
+      
       <br></br>
       <SupportIcons />
       <br></br>
       <Feed user={user} />
-     
+      
       <SupportIcons />
       <SupportSection />
       
