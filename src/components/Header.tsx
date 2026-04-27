@@ -19,7 +19,8 @@ export default function Header({
       <div className="flex justify-between items-center max-w-5xl mx-auto">
         <h1 className="font-black text-3xl">TruVINE</h1>
         
-       <h5>🍃🍂 An Ecosystem, not an ego-System 🍁 </h5>
+        <h5>🍃🍂 An Ecosystem, not an ego-System 🍁 </h5>
+        
         <div className="flex items-center gap-3">
           <div className="w-8 h-8 bg-blue-500 rounded-full flex items-center justify-center font-bold">
             {initial}
@@ -27,14 +28,17 @@ export default function Header({
 
           <span className="text-xs">{user}</span>
 
-          <button
+          
+        </div>
+       
+      </div>
+      <button
             onClick={logout}
-            className="text-xs bg-red-500 px-2 py-1 rounded"
+            className="text-xs bg-emerald-500 px-2 py-1 rounded"
           >
             Logout
           </button>
-        </div>
-      </div>
+
     </header>
   );
 }
