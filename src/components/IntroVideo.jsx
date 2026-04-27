@@ -32,7 +32,7 @@ export default function IntroVideo() {
       display: "flex",
       justifyContent: "center",
     },
-    content: {
+     content: {
       maxWidth: "700px",
       width: "100%",
       textAlign: "center",
@@ -45,11 +45,11 @@ export default function IntroVideo() {
 
     videoWrapper: {
         position: "relative",
-        width: "100%",          // 👈 add this
+        width: "90%",          // 👈 add this
         maxWidth: "300px",      // 👈 add this (controls size)
         margin: "0 auto",       // 👈 centers it
         paddingBottom: "20%", // keep this (9:16 ratio)
-        height: "500px",
+        height: "300px",
         overflow: "hidden",
         borderRadius: "16px",
       },
@@ -62,7 +62,8 @@ export default function IntroVideo() {
       height: "100%",
     },
     text: {
+      marginTop: "25px", 
       fontSize: "0.95rem",
-      color: "#2D7C66",
+      color: "grey",
     },
   };
