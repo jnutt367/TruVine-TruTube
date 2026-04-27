@@ -108,15 +108,15 @@ export default function Feed({ user }: { user: string }) {
 
 <VideoGrid videos={filteredVideos} />
 
-      <div className="bg-slate-900 text-white p-6 rounded-2xl text-shadow-lg">
-        <h2 className="font-bold mb-4">Share with the Community</h2>
+      <div className="bg-slate-900 text-emerald-600 p-6 rounded-2xl text-shadow-lg">
+        <h2 className="font-bold mb-4 ">🙇🏾 📝 Let's Help Each Other: Through FELLOWSHIP 🙇🏻‍♂️ 💌</h2>
 
         {/* TYPE SELECTOR */}
         <div className="flex gap-2 mb-4">
           <button
             onClick={() => setType("post")}
             className={`text-xs px-3 py-1 rounded text-white ${
-              type === "post" ? "bg-blue-600" : "bg-blue-400"
+              type === "post" ? "bg-emerald-600" : "bg-emerald-700"
             }`}
           >
             Post
@@ -125,7 +125,7 @@ export default function Feed({ user }: { user: string }) {
           <button
             onClick={() => setType("prayer")}
             className={`text-xs px-3 py-1 rounded text-white ${
-              type === "prayer" ? "bg-orange-600" : "bg-orange-400"
+              type === "prayer" ? "bg-red-600" : "bg-red-700"
             }`}
           >
             Prayer
@@ -134,7 +134,7 @@ export default function Feed({ user }: { user: string }) {
           <button
             onClick={() => setType("testimony")}
             className={`text-xs px-3 py-1 rounded text-white ${
-              type === "testimony" ? "bg-green-700" : "bg-green-500"
+              type === "testimony" ? "bg-amber-600" : "bg-amber-700"
             }`}
           >
             Testimony
@@ -142,7 +142,7 @@ export default function Feed({ user }: { user: string }) {
         </div>
 
         <textarea
-          className="w-full bg-slate-500 text-white  p-4 rounded-xl mb-4"
+          className="w-full bg-emerald-700 text-white  p-4 rounded-xl mb-4"
           rows={3}
           placeholder="What is God speaking to you?"
           value={input}
@@ -195,7 +195,7 @@ export default function Feed({ user }: { user: string }) {
         // TESTIMONY
         if (item.type === "testimony") {
           return (
-            <div key={item.id} className="bg-green-700 text-white p-6 rounded-2xl">
+            <div key={item.id} className="bg-emerald-700 text-white p-6 rounded-2xl">
               <div className="flex justify-between mb-2">
                 <span className="text-xs font-bold">
                   ✨ Testimony • {item.user}
