@@ -35,7 +35,7 @@ export default function Home() {
   }
 
   return (
-    <main className="min-h-screen bg-black">
+    <main className="min-h-screen bg-conic from-sky-200 to-black to-50%">
 
 
       
