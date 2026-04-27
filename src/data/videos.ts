@@ -20,12 +20,13 @@
 
     {
       id: 71,
-      title: "Daily Blade Podcast | Faith and the Ballot",
-      creator: "Daily Blade Podcast",
-      category: "Daily Blade Podcast",
-      embed: "https://embed.podcasts.apple.com/us/podcast/343-kyle-thompson-faith-and-the-ballot/id1786417647?i=1000763388989",
-      thumbnail: `https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MjY4OTgwLCJwdXIiOiJibG9iX2lkIn19--9c63c34dbc776e436e2adc4759faba97134343af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/Daily%20Blade%20Logo%20-%20Full%20Color.jpg`,
-      },
+      title: "Isaiah 40:31 & Isaiah 6 — Before You Rise, You Must Be Prepared",
+      creator: "Trumpet of Glory",
+      category: "Trumpet of Glory",
+      embed: "https://www.youtube.com/embed/tdeKx3oHLes?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/tdeKx3oHLes/hqdefault.jpg`,
+     },
+
 
       {
         id: 72,
