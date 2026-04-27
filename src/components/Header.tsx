@@ -15,9 +15,9 @@ export default function Header({
   }
 
   return (
-    <header className="bg-emerald-800 text-white p-4">
+ <header className="bg-emerald-800 text-emerald-100 p-4">
       <div className="flex justify-between items-center max-w-5xl mx-auto">
-        <h1 className="font-black text-3xl">TruVINE</h1>
+        <h1 className="font-black text-3xl pr-5">TruVINE</h1>
         
         <h5>🍃🍂 An Ecosystem, not an ego-System 🍁 </h5>
         
