@@ -6,7 +6,7 @@ import { SiCashapp } from "react-icons/si";
 export default function SupportIcons() {
   return (
     <div style={styles.wrapper}>
-      <p style={styles.text}>Support the mission</p>
+    
 
       <div style={styles.iconRow}>
         <a
