@@ -35,7 +35,7 @@ export default function Home() {
   }
 
   return (
-    <main className="min-h-screen bg-conic-180 from-black via-indigo-50 to-black to-55%">
+    <main className="min-h-screen bg-conic-180 from-emerald-800 via-emerald-200 to-emerald-900 to-55%">
 
 
       
