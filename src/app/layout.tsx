@@ -46,12 +46,12 @@ export default function Home() {
       <Header user={user} setUser={setUser} />
 
       <IntroVideo />
-      <EcosystemSection />
+     
       <br></br>
       <SupportIcons />
       <br></br>
       <Feed user={user} />
-      
+       <EcosystemSection />
       <SupportIcons />
       <SupportSection />
       
