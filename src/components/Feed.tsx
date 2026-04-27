@@ -102,13 +102,13 @@ export default function Feed({ user }: { user: string }) {
   onChange={(e) => setQuery(e.target.value)}
 />
       {/* CREATE BOX */}
-      <h2 className="text-blue-300 font-bold mt-6 mb-2 text-shadow-lg">
+      <h2 className="text-emerald-600 font-bold mt-6 mb-2 text-shadow-lg">
         <span className="text-3xl"> 🎥   TruTUBE</span>    Videos/Library 
 </h2>
 
 <VideoGrid videos={filteredVideos} />
 
-      <div className="bg-slate-900 text-emerald-100 p-6 rounded-2xl text-shadow-lg">
+      <div className="bg-slate-900 text-emerald-100 p-6 rounded-2xl text-shadow-xx-lg">
         <h2 className="font-bold mb-4 underline">🙇🏾 .. FELLOWSHIP .. 🙇🏻‍♂️ </h2>
 
         {/* TYPE SELECTOR */}
