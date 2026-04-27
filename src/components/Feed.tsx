@@ -96,8 +96,8 @@ export default function Feed({ user }: { user: string }) {
   return (
     <div className="space-y-6">
 <input
-  className="w-full p-3 mb-4 rounded-xl bg-teal-700 text-black text-blue-300-shadow-lg"
-  placeholder="TYPE HERE TO SEARCH..."
+  className="w-full p-3 mb-4 max-w-96 bg-emerald-100 text-black"
+  placeholder="🕵🏻‍♂️ SEARCH VIDEOS..."
   value={query}
   onChange={(e) => setQuery(e.target.value)}
 />
