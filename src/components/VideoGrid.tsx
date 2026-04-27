@@ -25,7 +25,7 @@ export default function VideoGrid({ videos }: { videos: Video[] }) {
 
           return (
             <div key={category}>
-              <h3 className="text-white font-bold mb-3">{category}</h3>
+              <h3 className="text-black font-bold mb-3">{category}</h3>
 
               <div className="flex gap-4 overflow-x-auto pb-2">
                 {rowVideos.map((video) => (
@@ -41,7 +41,7 @@ export default function VideoGrid({ videos }: { videos: Video[] }) {
     alt={video.title}
   />
 
-  <div className="absolute inset-0 flex items-center justify-center text-white text-2xl bg-black/30">
+  <div className="absolute inset-0 flex items-center justify-center text-green-100 text-2xl bg-black/30">
     ▶
   </div>
 </div>
