@@ -1,33 +1,64 @@
-import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
-import "./globals.css";
+"use client";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
+import { useEffect, useState } from "react";
+import Header from "@/components/Header";
+import Login from "@/components/Login";
+import Feed from "@/components/Feed";
+import SupportSection from "@/components/SupportSection";
+import IntroVideo from "@/components/IntroVideo";
+import SupportIcons from "@/components/SupportIcons";
+import EcosystemSection from "@/components/EcosystemSection";
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
 
-export const metadata: Metadata = {
-  title: "TruVine Discipleship EcoSystem",
-  description: "A Place where all who are seeking the truth about Jesus are welcome! Lay your burdens down. He will carry you.",
-};
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+
+export default function Home() {
+  const [user, setUser] = useState<string | null>(null);
+  const [ready, setReady] = useState(false);
+
+  useEffect(() => {
+    const saved = localStorage.getItem("truvine_user");
+    if (saved) setUser(saved);
+  
+    setReady(true);
+  }, []);
+  if (!ready) {
+    return (
+      <div className="p-10 bg-slate-900 text-white">
+        Loading TruVine...
+      </div>
+    );
+  }
+
+  if (!user) {
+    return <Login setUser={setUser} />;
+  }
+
   return (
-    <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col">{children}</body>
-    </html>
+    <main className="min-h-screen bg-conic-180 from-emerald-900 via-emerald-100 to-emerald-900 to-55%">
+
+
+      
+
+      
+      
+      <div className="p-6 max-w-5xl mx-auto">
+      <Header user={user} setUser={setUser} />
+
+      <IntroVideo />
+      <EcosystemSection />
+      <br></br>
+      <SupportIcons />
+      <br></br>
+      <Feed user={user} />
+      
+      <SupportIcons />
+      <SupportSection />
+      
+      </div>
+
+      
+     
+    </main>
   );
 }
