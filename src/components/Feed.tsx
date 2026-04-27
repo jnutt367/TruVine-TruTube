@@ -151,7 +151,7 @@ export default function Feed({ user }: { user: string }) {
 
         <button
           onClick={handleSubmit}
-          className="bg-blue-600 text-white px-6 py-2 rounded"
+          className="bg-emerald-800 text-white px-6 py-2 rounded"
         >
           Submit
         </button>
@@ -159,7 +159,7 @@ export default function Feed({ user }: { user: string }) {
 
       {/* EMPTY STATE */}
       {posts.length === 0 && (
-        <div className="text-center text-slate-500">
+        <div className="text-center text-slate-100">
           The vine is quiet...
         </div>
       )}
