@@ -28,10 +28,10 @@ export default function EcosystemSection() {
       opacity: 0.9,
     },
   
-    label: {
+     label: {
       fontSize: "0.85rem",
       fontWeight: "500",
-      color: "#555",
+      color: "gold",
       marginBottom: "0.2rem",
     },
   
