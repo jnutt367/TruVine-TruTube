@@ -18,7 +18,24 @@
         embed: "https://www.youtube.com/embed/ebE5i9Fcq9Y?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/ebE5i9Fcq9Y/hqdefault.jpg`,
         },
+  {
+        id: 101,
+        title: "Before I Formed You  — I Knew You! ",
+        creator: "Trumpet of Glory",
+      category: "Trumpet of Glory",
+        embed: "https://www.youtube.com/embed/vOLGe3Y4K1Q?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/vOLGe3Y4K1Q/hqdefault.jpg`,
+        },
 
+        {
+          id: 102,
+          title: "Before You Rise On Wings Like Eagles, You Wait On The Lord",
+          creator: "MusicBliss",
+          category: "Trumpet of Glory",
+          embed: "https://www.youtube.com/embed/Lp58QrZF1YQ?si=AmpiUd9Y2BhTK20u",
+          thumbnail: `https://img.youtube.com/vi/Lp58QrZF1YQ/hqdefault.jpg`,
+          },
+            
       {
         id: 2,
         title: "Man on the Middle Cross",
