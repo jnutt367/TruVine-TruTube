@@ -1,6 +1,4 @@
-
-
-  export const videos = [
+export const videos = [
     
     {
       id: 104,
@@ -12,7 +10,46 @@
       link: "https://jesus-love-revealed.vercel.app/",
      },
 
+     {
+      id: 108,
+      title: "God will lead you to new people! 💙",
+      creator: "Scripture Shorts",
+      category: "Scripture Shorts",
+      embed: "https://www.youtube.com/embed/jOjT2m2tOPE?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/jOjT2m2tOPE/hqdefault.jpg`,
+      link: "https://jesus-love-revealed.vercel.app/",
+       },
+
+       {
+        id: 109,
+        title: "For all have sinned and fall short of the glory of God.",
+        creator: "Scripture Shorts",
+        category: "Scripture Shorts",
+        embed: "https://www.youtube.com/embed/Cv2Lv-ba9Vc?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/Cv2Lv-ba9Vc/hqdefault.jpg`,
+        link: "https://jesus-love-revealed.vercel.app/",
+         },
+     {
+      id: 105,
+      title: "'Jesus is NOT a white man, like me.'",
+      creator: "Paul Bernard II",
+      category: "Paul Bernard II",
+      embed: "https://www.youtube.com/embed/JQVgK5ekSSI?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/JQVgK5ekSSI/hqdefault.jpg`,
+     },
+
+     {
+      id: 106,
+      title: "SPEND TIME WITH ME.🙏-GOD",
+      creator: "Jesus' Love Revealed",
+      category: "Jesus' Love Revealed",
+      embed: "https://www.youtube.com/embed/gJzs_-OcRQ8?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/gJzs_-OcRQ8/hqdefault.jpg`,
+     },
+
     
+     
+
     {
       id: 64,
       title: "WE breathe the name of God. YH WH.",
@@ -106,6 +143,18 @@
                        },
 
 
+                       {
+                        id: 107,
+                        title: "EVERY married couple NEEDS to hear this...⏳",
+                        creator: "Paul Bernard II",
+                        category: "Paul Bernard II",
+                        embed: "https://www.youtube.com/embed/h4E6_9iYGSo?si=AmpiUd9Y2BhTK20u",
+                        thumbnail: `https://img.youtube.com/vi/h4E6_9iYGSo/hqdefault.jpg`,
+                       },
+                  
+
+
+
       {
         id: 99,
         title: "Proverbs, allowing the Holy Spirit to Guide This",
@@ -115,14 +164,7 @@
         thumbnail: `https://img.youtube.com/vi/ebE5i9Fcq9Y/hqdefault.jpg`,
         },
 
-      {
-        id: 2,
-        title: "Man on the Middle Cross",
-        creator: "Jason Nutt",
-        category: "Scripture Shorts",
-        embed: "https://www.youtube.com/embed/qGslKnBYQEo",
-        thumbnail: "https://img.youtube.com/vi/qGslKnBYQEo/hqdefault.jpg",
-      },
+     
       {
         id: 81,
         title: "Global Bible Month day 2, Jason reads Jesus Calling.",
@@ -200,6 +242,8 @@
                       embed: "https://www.youtube.com/embed/iccoD8zxbqw?si=7yo68-kQZNxtwscy",
                       thumbnail: "https://img.youtube.com/vi/iccoD8zxbqw/hqdefault.jpg",
                     },
+                 
+
                     {
                         id: 4,
                         title: "Part 1: The Event That Everyone “Feels” Is Coming-",
@@ -573,50 +617,50 @@
                     embed: "https://www.youtube.com/embed/2B8dSFijByQ?si=AmpiUd9Y2BhTK20u",
                     thumbnail: `https://img.youtube.com/vi/2B8dSFijByQ/hqdefault.jpg`,
                     },
-                    {
-                      id: 52,
-                      title: "WATCH Israel Closely Dear Christian... (Prophecy Explained)",
-                      creator: "AoC Network",
-                      category: "End Times",
-                      embed: "https://www.youtube.com/embed/_tjdbw5NDLU?si=AmpiUd9Y2BhTK20u",
-                      thumbnail: `https://img.youtube.com/vi/_tjdbw5NDLU/hqdefault.jpg`,
-                      },
+          {
+            id: 52,
+            title: "WATCH Israel Closely Dear Christian... (Prophecy Explained)",
+            creator: "AoC Network",
+            category: "End Times",
+            embed: "https://www.youtube.com/embed/_tjdbw5NDLU?si=AmpiUd9Y2BhTK20u",
+            thumbnail: `https://img.youtube.com/vi/_tjdbw5NDLU/hqdefault.jpg`,
+            },
 
-                      {
-                        id: 53,
-                        title: "This is Why Prophecy is Unfolding FAST! (Jared Kushner, Digital ID, Israel Peace, etc..)",
-                        creator: "AoC Network",
-                        category: "End Times",
-                        embed: "https://www.youtube.com/embed/w6T0FrKckpw?si=AmpiUd9Y2BhTK20u",
-                        thumbnail: `https://img.youtube.com/vi/w6T0FrKckpw/hqdefault.jpg`,
-                        },
+            {
+              id: 53,
+              title: "This is Why Prophecy is Unfolding FAST! (Jared Kushner, Digital ID, Israel Peace, etc..)",
+              creator: "AoC Network",
+              category: "End Times",
+              embed: "https://www.youtube.com/embed/w6T0FrKckpw?si=AmpiUd9Y2BhTK20u",
+              thumbnail: `https://img.youtube.com/vi/w6T0FrKckpw/hqdefault.jpg`,
+              },
 
-                        {
-                          id: 54,
-                          title: "Baptist leader speaks out: 'Christian nationalism is not Christianity",
-                          creator: "CNN",
-                          category: "Christian Nationalism",
-                          embed: "https://www.youtube.com/embed/vZukWuT9lcA?si=AmpiUd9Y2BhTK20u",
-                          thumbnail: `https://img.youtube.com/vi/vZukWuT9lcA/hqdefault.jpg`,
-                          },
+              {
+                id: 54,
+                title: "Baptist leader speaks out: 'Christian nationalism is not Christianity",
+                creator: "CNN",
+                category: "Christian Nationalism",
+                embed: "https://www.youtube.com/embed/vZukWuT9lcA?si=AmpiUd9Y2BhTK20u",
+                thumbnail: `https://img.youtube.com/vi/vZukWuT9lcA/hqdefault.jpg`,
+                },
 
-                          {
-                            id: 55,
-                            title: "Christian Nationalism sucks (according to the Bible)",
-                            creator: "Garrison Hayes",
-                            category: "Christian Nationalism",
-                            embed: "https://www.youtube.com/embed/CT8OLQxal38?si=AmpiUd9Y2BhTK20u",
-                            thumbnail: `https://img.youtube.com/vi/CT8OLQxal38/hqdefault.jpg`,
-                            },
+                {
+                  id: 55,
+                  title: "Christian Nationalism sucks (according to the Bible)",
+                  creator: "Garrison Hayes",
+                  category: "Christian Nationalism",
+                  embed: "https://www.youtube.com/embed/CT8OLQxal38?si=AmpiUd9Y2BhTK20u",
+                  thumbnail: `https://img.youtube.com/vi/CT8OLQxal38/hqdefault.jpg`,
+                  },
 
-                            {
-                              id: 56,
-                              title: "Why I Am Not A Christian Nationalist",
-                              creator: "InspiringPhilosophy",
-                              category: "Christian Nationalism",
-                              embed: "https://www.youtube.com/embed/j0xhu4KaLvw?si=AmpiUd9Y2BhTK20u",
-                              thumbnail: `https://img.youtube.com/vi/j0xhu4KaLvw/hqdefault.jpg`,
-                              },
+                  {
+                    id: 56,
+                    title: "Why I Am Not A Christian Nationalist",
+                    creator: "InspiringPhilosophy",
+                    category: "Christian Nationalism",
+                    embed: "https://www.youtube.com/embed/j0xhu4KaLvw?si=AmpiUd9Y2BhTK20u",
+                    thumbnail: `https://img.youtube.com/vi/j0xhu4KaLvw/hqdefault.jpg`,
+                    },
 
                      
                 {
@@ -838,80 +882,85 @@
                             },
                             
                       
-                            {
-                              id: 93,
-                              title: "Global Bible Month 2026 Day 12 Be Patient. Do Not Payback Wrongs",
-                              creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                            category: "Jesus' Love Revealed | Global Bible Month 2026",
-                              embed: "https://www.youtube.com/embed/0CbrldUa3WE?si=AmpiUd9Y2BhTK20u",
-                              thumbnail: `https://img.youtube.com/vi/0CbrldUa3WE/hqdefault.jpg`,
-                              },
-                              
+                       {
+                        id: 93,
+                        title: "Global Bible Month 2026 Day 12 Be Patient. Do Not Payback Wrongs",
+                        creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                      category: "Jesus' Love Revealed | Global Bible Month 2026",
+                        embed: "https://www.youtube.com/embed/0CbrldUa3WE?si=AmpiUd9Y2BhTK20u",
+                        thumbnail: `https://img.youtube.com/vi/0CbrldUa3WE/hqdefault.jpg`,
+                        },
                         
-                              {
-                                id: 94,
-                                title: "Global Bible Month 2026 Day 13 We are in Him and He is in US!!",
-                                creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                              category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                embed: "https://www.youtube.com/embed/20750sHu5w4?si=AmpiUd9Y2BhTK20u",
-                                thumbnail: `https://img.youtube.com/vi/20750sHu5w4/hqdefault.jpg`,
-                                },
+                  
+                        {
+                        id: 94,
+                        title: "Global Bible Month 2026 Day 13 We are in Him and He is in US!!",
+                        creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                      category: "Jesus' Love Revealed | Global Bible Month 2026",
+                        embed: "https://www.youtube.com/embed/20750sHu5w4?si=AmpiUd9Y2BhTK20u",
+                        thumbnail: `https://img.youtube.com/vi/20750sHu5w4/hqdefault.jpg`,
+                        },
 
 
-                                {
-                                  id: 95,
-                                  title: "Global Bible Month 2026 Day 13 Part 2 He is Coming!",
-                                  creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                  embed: "https://www.youtube.com/embed/QJ2Yx08LDqo?si=AmpiUd9Y2BhTK20u",
-                                  thumbnail: `https://img.youtube.com/vi/QJ2Yx08LDqo/hqdefault.jpg`,
-                                  },
+                        {
+                          id: 95,
+                          title: "Global Bible Month 2026 Day 13 Part 2 He is Coming!",
+                          creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                        category: "Jesus' Love Revealed | Global Bible Month 2026",
+                          embed: "https://www.youtube.com/embed/QJ2Yx08LDqo?si=AmpiUd9Y2BhTK20u",
+                          thumbnail: `https://img.youtube.com/vi/QJ2Yx08LDqo/hqdefault.jpg`,
+                          },
                                   
-                                  {
-                                    id: 96,
-                                    title: "Global Bible Month 2026 Day 14 Some Misunderstood Paul...",
-                                    creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                  category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                    embed: "https://www.youtube.com/embed/ZEEdzo0MZyE?si=AmpiUd9Y2BhTK20u",
-                                    thumbnail: `https://img.youtube.com/vi/ZEEdzo0MZyE/hqdefault.jpg`,
-                                    },
+                          {
+                            id: 96,
+                            title: "Global Bible Month 2026 Day 14 Some Misunderstood Paul...",
+                            creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                          category: "Jesus' Love Revealed | Global Bible Month 2026",
+                            embed: "https://www.youtube.com/embed/ZEEdzo0MZyE?si=AmpiUd9Y2BhTK20u",
+                            thumbnail: `https://img.youtube.com/vi/ZEEdzo0MZyE/hqdefault.jpg`,
+                            },
                                         
-                                    {
-                                      id: 97,
-                                      title: "Global Bible Month 2026 Day 14 Part 2 They Persih Because They Refuse to Love the Truth..& so be SAVED",
-                                      creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                    category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                      embed: "https://www.youtube.com/embed/urXfsHUyo38?si=AmpiUd9Y2BhTK20u",
-                                      thumbnail: `https://img.youtube.com/vi/urXfsHUyo38/hqdefault.jpg`,
-                                      },
+                          {
+                            id: 97,
+                            title: "Global Bible Month 2026 Day 14 Part 2 They Persih Because They Refuse to Love the Truth..& so be SAVED",
+                            creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                          category: "Jesus' Love Revealed | Global Bible Month 2026",
+                            embed: "https://www.youtube.com/embed/urXfsHUyo38?si=AmpiUd9Y2BhTK20u",
+                            thumbnail: `https://img.youtube.com/vi/urXfsHUyo38/hqdefault.jpg`,
+                            },
 
 
-                                      {
-                                        id: 98,
-                                        title: "Global Bible Month 2026 Day 15 Part 1 By the Command of God our Savior and of Christ Jesus OUR Hope!",
-                                        creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                                      category: "Jesus' Love Revealed | Global Bible Month 2026",
-                                        embed: "https://www.youtube.com/embed/dr7dXeXvrU8?si=AmpiUd9Y2BhTK20u",
-                                        thumbnail: `https://img.youtube.com/vi/dr7dXeXvrU8/hqdefault.jpg`,
-                                        },
+                          {
+                            id: 98,
+                            title: "Global Bible Month 2026 Day 15 Part 1 By the Command of God our Savior and of Christ Jesus OUR Hope!",
+                            creator: "Jesus' Love Revealed | Global Bible Month 2026",
+                          category: "Jesus' Love Revealed | Global Bible Month 2026",
+                            embed: "https://www.youtube.com/embed/dr7dXeXvrU8?si=AmpiUd9Y2BhTK20u",
+                            thumbnail: `https://img.youtube.com/vi/dr7dXeXvrU8/hqdefault.jpg`,
+                            },
 
                                        
-                                        {
-                                          id: 100,
-                                          title: "God Says: Worship ME Only.",
-                                          creator: "Jesus' Love Revealed",
-                                        category: "Jesus' Love Revealed",
-                                          embed: "https://www.youtube.com/embed/eq-Q-4gDFxM?si=AmpiUd9Y2BhTK20u",
-                                          thumbnail: `https://img.youtube.com/vi/eq-Q-4gDFxM/hqdefault.jpg`,
-                                          },
+                          {
+                            id: 100,
+                            title: "God Says: Worship ME Only.",
+                            creator: "Jesus' Love Revealed",
+                          category: "Jesus' Love Revealed",
+                            embed: "https://www.youtube.com/embed/eq-Q-4gDFxM?si=AmpiUd9Y2BhTK20u",
+                            thumbnail: `https://img.youtube.com/vi/eq-Q-4gDFxM/hqdefault.jpg`,
+                            },
 
-                                        
-                                          
-                                          
-                                         
-                        
-
-
+                            {
+                              id: 2,
+                              title: "Man on the Middle Cross",
+                              creator: "Jason Nutt",
+                              category: "Scripture Shorts",
+                              embed: "https://www.youtube.com/embed/qGslKnBYQEo",
+                              thumbnail: "https://img.youtube.com/vi/qGslKnBYQEo/hqdefault.jpg",
+                            },
+        
+                                      
+                            
+                              
 
 
                                        ];
