@@ -16,9 +16,12 @@ export const videos = [
       category: "Jesus' Love Revealed",
       embed: "https://www.youtube.com/embed/vdaQL1_J8XI?si=AmpiUd9Y2BhTK20u",
       thumbnail: `https://img.youtube.com/vi/vdaQL1_J8XI/hqdefault.jpg`,
-      link: "https://jesus-love-revealed.vercel.app/",
+      link: "https://tru-vine-tru-tube.vercel.app/",
      },
      
+     
+
+
      {
       id: 108,
       title: "God will lead you to new people! 💙",
@@ -36,6 +39,20 @@ export const videos = [
         embed: "https://www.youtube.com/embed/4M9BsOvx6cs?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/4M9BsOvx6cs/hqdefault.jpg`,
         },
+
+        {
+          id: 119,
+          title: "Reminder That We Get To Meet Jesus Soon",
+          creator: "Ashley Hays",
+          category: "Ashley Hays",
+          embed: "https://www.youtube.com/embed/lj95fWAd6oY?si=AmpiUd9Y2BhTK20u",
+          thumbnail: `https://img.youtube.com/vi/lj95fWAd6oY/hqdefault.jpg`,
+          link: "https://tru-vine-tru-tube.vercel.app/",
+         },
+         
+         
+
+
         {
           id: 113,
           title: "The Wisdom of “You Shall Have No Other Gods",
