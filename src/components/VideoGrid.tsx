@@ -45,10 +45,20 @@ export default function VideoGrid({ videos }: { videos: Video[] }) {
     ▶
   </div>
 </div>
-                    <div className="p-3 text-white">
-                      <p className="text-sm font-bold">{video.title}</p>
-                      <p className="text-xs opacity-70">{video.creator}</p>
-                    </div>
+                   <div className="p-4 text-white">
+  <h2 className="font-bold text-lg">{video.title}</h2>
+  <p className="text-sm opacity-70">{video.creator}</p>
+
+  {video.link && (
+    <button
+      onClick={() => window.open(video.link, "_blank")}
+      className="mt-4 bg-green-600 hover:bg-emerald-700 px-4 py-2 rounded-lg font-semibold"
+    >
+      Try the App →
+    </button>
+  )}
+</div>
+                    
                   </div>
                 ))}
               </div>
