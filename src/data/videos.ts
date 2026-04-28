@@ -1,6 +1,17 @@
 export const videos = [
     
-    {
+   
+     {
+      id: 118,
+      title: "TruVine is the App, built to bring clarity, truth, and the Word of God into one place.",
+      creator: "Jesus' Love Revealed",
+      category: "Jesus' Love Revealed",
+      embed: "https://www.youtube.com/embed/vdaQL1_J8XI?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/vdaQL1_J8XI/hqdefault.jpg`,
+      link: "https://tru-vine-tru-tube.vercel.app/",
+     },
+     
+     {
       id: 104,
       title: "The App called: Jesus' Love Revealed| Trivia & Biblical Timeline. Link is Above Intro Video.",
       creator: "Jesus' Love Revealed",
@@ -9,17 +20,6 @@ export const videos = [
       thumbnail: `https://img.youtube.com/vi/-TZZH5sVdAQ/hqdefault.jpg`,
       link: "https://jesus-love-revealed.vercel.app/",
      },
-     {
-      id: 118,
-      title: "An App (THIS!) built to bring clarity, truth, and the Word of God into one place.",
-      creator: "Jesus' Love Revealed",
-      category: "Jesus' Love Revealed",
-      embed: "https://www.youtube.com/embed/vdaQL1_J8XI?si=AmpiUd9Y2BhTK20u",
-      thumbnail: `https://img.youtube.com/vi/vdaQL1_J8XI/hqdefault.jpg`,
-      link: "https://tru-vine-tru-tube.vercel.app/",
-     },
-     
-     
 
 
      {
@@ -29,7 +29,6 @@ export const videos = [
       category: "Scripture Shorts",
       embed: "https://www.youtube.com/embed/jOjT2m2tOPE?si=AmpiUd9Y2BhTK20u",
       thumbnail: `https://img.youtube.com/vi/jOjT2m2tOPE/hqdefault.jpg`,
-      link: "https://jesus-love-revealed.vercel.app/",
        },
        {
         id: 110,
@@ -47,7 +46,6 @@ export const videos = [
           category: "Ashley Hays",
           embed: "https://www.youtube.com/embed/lj95fWAd6oY?si=AmpiUd9Y2BhTK20u",
           thumbnail: `https://img.youtube.com/vi/lj95fWAd6oY/hqdefault.jpg`,
-          link: "https://tru-vine-tru-tube.vercel.app/",
          },
          
          
@@ -125,7 +123,6 @@ export const videos = [
         category: "Scripture Shorts",
         embed: "https://www.youtube.com/embed/Cv2Lv-ba9Vc?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/Cv2Lv-ba9Vc/hqdefault.jpg`,
-        link: "https://jesus-love-revealed.vercel.app/",
          },
 
          {
