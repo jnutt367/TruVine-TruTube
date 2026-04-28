@@ -9,7 +9,16 @@ export const videos = [
       thumbnail: `https://img.youtube.com/vi/-TZZH5sVdAQ/hqdefault.jpg`,
       link: "https://jesus-love-revealed.vercel.app/",
      },
-
+     {
+      id: 118,
+      title: "An App (THIS!) built to bring clarity, truth, and the Word of God into one place.",
+      creator: "Jesus' Love Revealed",
+      category: "Jesus' Love Revealed",
+      embed: "https://www.youtube.com/embed/vdaQL1_J8XI?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/vdaQL1_J8XI/hqdefault.jpg`,
+      link: "https://jesus-love-revealed.vercel.app/",
+     },
+     
      {
       id: 108,
       title: "God will lead you to new people! 💙",
@@ -45,32 +54,33 @@ export const videos = [
             thumbnail: `https://img.youtube.com/vi/YMTR7M33eIQ/hqdefault.jpg`,
             },
 
+        {
+          id: 115,
+          title: "Why this Hebrew Word Can Mean Something Good – or Something Terrible",
+          creator: "The Bible Project",
+          category: "The Bible Project Hebrew Words",
+          embed: "https://www.youtube.com/embed/hhkafDU0XF0?si=AmpiUd9Y2BhTK20u",
+          thumbnail: `https://img.youtube.com/vi/hhkafDU0XF0/hqdefault.jpg`,
+          },
+          {
+            id: 116,
+            title: "Why 'Remember' Means So Much in the Bible",
+            creator: "The Bible Project",
+            category: "The Bible Project Hebrew Words",
+            embed: "https://www.youtube.com/embed/YoOgGeDfXDk?si=AmpiUd9Y2BhTK20u",
+            thumbnail: `https://img.youtube.com/vi/YoOgGeDfXDk/hqdefault.jpg`,
+            },
+
             {
-              id: 115,
-              title: "Why this Hebrew Word Can Mean Something Good – or Something Terrible",
-              creator: "The Bible Project",
-              category: "The Bible Project Hebrew Words",
-              embed: "https://www.youtube.com/embed/hhkafDU0XF0?si=AmpiUd9Y2BhTK20u",
-              thumbnail: `https://img.youtube.com/vi/hhkafDU0XF0/hqdefault.jpg`,
+              id: 117,
+              title: "THE LIVING WATER",
+              creator: "Scripture Shorts",
+              category: "Scripture Shorts",
+              embed: "https://www.youtube.com/embed/cPuD_ky6NY0?si=AmpiUd9Y2BhTK20u",
+              thumbnail: `https://img.youtube.com/vi/cPuD_ky6NY0/hqdefault.jpg`,
               },
-              {
-                id: 116,
-                title: "Why 'Remember' Means So Much in the Bible",
-                creator: "The Bible Project",
-                category: "The Bible Project Hebrew Words",
-                embed: "https://www.youtube.com/embed/YoOgGeDfXDk?si=AmpiUd9Y2BhTK20u",
-                thumbnail: `https://img.youtube.com/vi/YoOgGeDfXDk/hqdefault.jpg`,
-                },
 
-             
-
-
-
-
-
-
-
-
+          
         {
           id: 111,
           title: "2nd Commandment: No Idols",
