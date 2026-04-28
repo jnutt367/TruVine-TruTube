@@ -19,7 +19,78 @@ export const videos = [
       thumbnail: `https://img.youtube.com/vi/jOjT2m2tOPE/hqdefault.jpg`,
       link: "https://jesus-love-revealed.vercel.app/",
        },
+       {
+        id: 110,
+        title: "Learn the Purpose of Every Command in the Bible In 5 Minutes",
+        creator: "The Bible Project",
+        category: "The Bible Project",
+        embed: "https://www.youtube.com/embed/4M9BsOvx6cs?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/4M9BsOvx6cs/hqdefault.jpg`,
+        },
+        {
+          id: 113,
+          title: "The Wisdom of “You Shall Have No Other Gods",
+          creator: "The Bible Project",
+          category: "The Bible Project",
+          embed: "https://www.youtube.com/embed/JGI8nNVkZpA?si=AmpiUd9Y2BhTK20u",
+          thumbnail: `https://img.youtube.com/vi/JGI8nNVkZpA/hqdefault.jpg`,
+          },
 
+          {
+            id: 114,
+            title: "This Hebrew Word Is Translated as “Sign”",
+            creator: "The Bible Project",
+            category: "The Bible Project Hebrew Words",
+            embed: "https://www.youtube.com/embed/YMTR7M33eIQ?si=AmpiUd9Y2BhTK20u",
+            thumbnail: `https://img.youtube.com/vi/YMTR7M33eIQ/hqdefault.jpg`,
+            },
+
+            {
+              id: 115,
+              title: "Why this Hebrew Word Can Mean Something Good – or Something Terrible",
+              creator: "The Bible Project",
+              category: "The Bible Project Hebrew Words",
+              embed: "https://www.youtube.com/embed/hhkafDU0XF0?si=AmpiUd9Y2BhTK20u",
+              thumbnail: `https://img.youtube.com/vi/hhkafDU0XF0/hqdefault.jpg`,
+              },
+              {
+                id: 116,
+                title: "Why 'Remember' Means So Much in the Bible",
+                creator: "The Bible Project",
+                category: "The Bible Project Hebrew Words",
+                embed: "https://www.youtube.com/embed/YoOgGeDfXDk?si=AmpiUd9Y2BhTK20u",
+                thumbnail: `https://img.youtube.com/vi/YoOgGeDfXDk/hqdefault.jpg`,
+                },
+
+             
+
+
+
+
+
+
+
+
+        {
+          id: 111,
+          title: "2nd Commandment: No Idols",
+          creator: "The Bible Project",
+          category: "The Bible Project",
+          embed: "https://www.youtube.com/embed/vXHDUs28rPM?si=AmpiUd9Y2BhTK20u",
+          thumbnail: `https://img.youtube.com/vi/vXHDUs28rPM/hqdefault.jpg`,
+          },
+
+          
+        {
+          id: 112,
+          title: "3rd Commandment: Do Not Carry the Name in Vain",
+          creator: "The Bible Project",
+          category: "The Bible Project",
+          embed: "https://www.youtube.com/embed/elhazm4fZeE?si=AmpiUd9Y2BhTK20u",
+          thumbnail: `https://img.youtube.com/vi/elhazm4fZeE/hqdefault.jpg`,
+          },
+
+        
        {
         id: 109,
         title: "For all have sinned and fall short of the glory of God.",
@@ -29,6 +100,20 @@ export const videos = [
         thumbnail: `https://img.youtube.com/vi/Cv2Lv-ba9Vc/hqdefault.jpg`,
         link: "https://jesus-love-revealed.vercel.app/",
          },
+
+         {
+          id: 72,
+          title: "If Psalm 119 dropped as a UK Grime record | Jireh | BSB Full Audio Bible",
+          creator: "Rythm and Bible",
+          category: "Rythm and Bible",
+          embed: "https://www.youtube.com/embed/6lX1wxVJ4ow?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/6lX1wxVJ4ow/hqdefault.jpg`,
+            },
+
+
+
+
+
      {
       id: 105,
       title: "'Jesus is NOT a white man, like me.'",
@@ -59,14 +144,7 @@ export const videos = [
       thumbnail: `https://img.youtube.com/vi/5_TzSYJDTJA/hqdefault.jpg`,
       },
 
-      {
-        id: 72,
-        title: "If Psalm 119 dropped as a UK Grime record | Jireh | BSB Full Audio Bible",
-        creator: "Rythm and Bible",
-        category: "Rythm and Bible",
-        embed: "https://www.youtube.com/embed/6lX1wxVJ4ow?si=AmpiUd9Y2BhTK20u",
-      thumbnail: `https://img.youtube.com/vi/6lX1wxVJ4ow/hqdefault.jpg`,
-          },
+     
 
         {
           id: 73,
@@ -723,6 +801,10 @@ export const videos = [
                 embed: "https://www.youtube.com/embed/KUil1m3P2iI?si=AmpiUd9Y2BhTK20u",
                 thumbnail: `https://img.youtube.com/vi/KUil1m3P2iI/hqdefault.jpg`,
                 },
+
+              
+
+
 
                 {
                   id: 65,
