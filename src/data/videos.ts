@@ -11,6 +11,89 @@
       },
 
       {
+        id: 72,
+        title: "If Psalm 119 dropped as a UK Grime record | Jireh | BSB Full Audio Bible",
+        creator: "Rythm and Bible",
+        category: "Rythm and Bible",
+        embed: "https://www.youtube.com/embed/6lX1wxVJ4ow?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/6lX1wxVJ4ow/hqdefault.jpg`,
+          },
+
+        {
+          id: 73,
+          title: "If Colossians Was Actually Written as a Boom Bap Jazz Hip Hop Album | Full BSB Audio Bible",
+          creator: "Rythm and Bible",
+          category: "Rythm and Bible",
+          embed: "https://www.youtube.com/embed/U09RxsB0cis?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/U09RxsB0cis/hqdefault.jpg`,
+        },
+  
+          {
+            id: 74,
+            title: "Philippians hits completely different over a boom bap beat | Full ESV Audio Bible",
+            creator: "Rythm and Bible",
+            category: "Rythm and Bible",
+            embed: "https://www.youtube.com/embed/xcWM5A0O0DU?si=AmpiUd9Y2BhTK20u",
+            thumbnail: `https://img.youtube.com/vi/xcWM5A0O0DU/hqdefault.jpg`,
+            },
+
+            {
+              id: 75,
+              title: "If James Was Actually Written as an Acoustic R&B Record | Zion | Full BSB Audio Bible",
+              creator: "Rythm and Bible",
+              category: "Rythm and Bible",
+              embed: "https://www.youtube.com/embed/yXMsZ8I-y3I?si=AmpiUd9Y2BhTK20u",
+              thumbnail: `https://img.youtube.com/vi/yXMsZ8I-y3I/hqdefault.jpg`,
+                 },
+
+              {
+                id: 76,
+                title: "If Paul wrote Ephesians as a Christian Hip Hop artist | Ephesians Full Audio Bible | ESV",
+                creator: "Rythm and Bible",
+                category: "Rythm and Bible",
+                embed: "https://www.youtube.com/embed/Mjui5VcdE1o?si=AmpiUd9Y2BhTK20u",
+                thumbnail: `https://img.youtube.com/vi/Mjui5VcdE1o/hqdefault.jpg`,
+                },
+
+                {
+                  id: 77,
+                  title: "1 Peter but make it Gospel Boom Bap | Full R&B Audio Bible (BSB Translation)",
+                  creator: "Rythm and Bible",
+                  category: "Rythm and Bible",
+                  embed: "https://www.youtube.com/embed/oPdGoM5w5aY?si=AmpiUd9Y2BhTK20u",
+                  thumbnail: `https://img.youtube.com/vi/oPdGoM5w5aY/hqdefault.jpg`,
+                     },
+  //   ---------------------------------------- 
+                  {
+                    id: 78,
+                    title: "1 Timothy like you've never heard it | Blessed | Gospel Boom Bap | Full ESV Audio Bible 🔥",
+                    creator: "Rythm and Bible",
+                    category: "Rythm and Bible",
+                    embed: "https://www.youtube.com/embed/ZjO_-T-WJAY?si=AmpiUd9Y2BhTK20u",
+                    thumbnail: `https://img.youtube.com/vi/ZjO_-T-WJAY/hqdefault.jpg`,
+                  },
+
+
+                    {
+                      id: 79,
+                      title: "Ephesians Like You've Never Heard It — Gospel, R&B & Hip Hop | Full Audio Bible ESV",
+                      creator: "Rythm and Bible",
+                      category: "Rythm and Bible",
+                      embed: "https://www.youtube.com/embed/XAMFSqhhKlY?si=AmpiUd9Y2BhTK20u",
+                      thumbnail: `https://img.youtube.com/vi/XAMFSqhhKlY/hqdefault.jpg`,
+                    },
+
+
+                      {
+                        id: 80,
+                        title: "If Galatians Was Actually Written as a Boom Bap Album | Rapha | Full Audio Bible",
+                        creator: "Rythm and Bible",
+                        category: "Rythm and Bible",
+                        embed: "https://www.youtube.com/embed/jHoyT-MSyPs?si=AmpiUd9Y2BhTK20u",
+                        thumbnail: `https://img.youtube.com/vi/jHoyT-MSyPs/hqdefault.jpg`,
+                       },
+
+      {
         id: 99,
         title: "Proverbs, allowing the Holy Spirit to Guide This",
         creator: "Jesus' Love Revealed",
@@ -18,24 +101,7 @@
         embed: "https://www.youtube.com/embed/ebE5i9Fcq9Y?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/ebE5i9Fcq9Y/hqdefault.jpg`,
         },
-  {
-        id: 101,
-        title: "Before I Formed You  — I Knew You! ",
-        creator: "Trumpet of Glory",
-      category: "Trumpet of Glory",
-        embed: "https://www.youtube.com/embed/vOLGe3Y4K1Q?si=AmpiUd9Y2BhTK20u",
-        thumbnail: `https://img.youtube.com/vi/vOLGe3Y4K1Q/hqdefault.jpg`,
-        },
 
-        {
-          id: 102,
-          title: "Before You Rise On Wings Like Eagles, You Wait On The Lord",
-          creator: "MusicBliss",
-          category: "Trumpet of Glory",
-          embed: "https://www.youtube.com/embed/Lp58QrZF1YQ?si=AmpiUd9Y2BhTK20u",
-          thumbnail: `https://img.youtube.com/vi/Lp58QrZF1YQ/hqdefault.jpg`,
-          },
-            
       {
         id: 2,
         title: "Man on the Middle Cross",
@@ -53,6 +119,25 @@
         thumbnail: `https://img.youtube.com/vi/j3VqYS8x0No/hqdefault.jpg`,
         },
        
+        {
+          id: 103,
+          title: "Before I Formed You  — I Knew You! ",
+          creator: "Trumpet of Glory",
+        category: "Trumpet of Glory",
+          embed: "https://www.youtube.com/embed/vOLGe3Y4K1Q?si=AmpiUd9Y2BhTK20u",
+          thumbnail: `https://img.youtube.com/vi/vOLGe3Y4K1Q/hqdefault.jpg`,
+          },
+  
+          {
+            id: 102,
+            title: "Before You Rise On Wings Like Eagles, You Wait On The Lord",
+            creator: "MusicBliss",
+            category: "Trumpet of Glory",
+            embed: "https://www.youtube.com/embed/Lp58QrZF1YQ?si=AmpiUd9Y2BhTK20u",
+            thumbnail: `https://img.youtube.com/vi/Lp58QrZF1YQ/hqdefault.jpg`,
+            },
+          
+
 
     {
       id: 29,
@@ -71,89 +156,9 @@
       embed: "https://www.youtube.com/embed/tdeKx3oHLes?si=AmpiUd9Y2BhTK20u",
       thumbnail: `https://img.youtube.com/vi/tdeKx3oHLes/hqdefault.jpg`,
      },
+// After listening to this, it sounds like it has a political agenda for sure. So , No then. TO BE CLEAR ---> THIS: "Rythm and Bible | Do not neglect to meet together"
+// I am replacing with   
 
-      {
-        id: 72,
-        title: "Daily Blade Podcast | Do not neglect to meet together",
-        creator: "Daily Blade Podcast",
-        category: "Daily Blade Podcast",
-        embed: "https://www.buzzsprout.com/2426656/episodes/19024082",
-        thumbnail: `https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MjY4OTgwLCJwdXIiOiJibG9iX2lkIn19--9c63c34dbc776e436e2adc4759faba97134343af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/Daily%20Blade%20Logo%20-%20Full%20Color.jpg`,
-        },
-
-        {
-          id: 73,
-          title: "Daily Blade Podcast | Do All Religions Worship The Same God",
-          creator: "Daily Blade Podcast",
-          category: "Daily Blade Podcast",
-          embed: "https://www.buzzsprout.com/2426656/episodes/19024080",
-          thumbnail: `https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MjY4OTgwLCJwdXIiOiJibG9iX2lkIn19--9c63c34dbc776e436e2adc4759faba97134343af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/Daily%20Blade%20Logo%20-%20Full%20Color.jpg`,
-          },
-  
-          {
-            id: 74,
-            title: "Daily Blade Podcast | Biblical Marriage In A Confused Age",
-            creator: "Daily Blade Podcast",
-            category: "Daily Blade Podcast",
-            embed: "https://www.buzzsprout.com/2426656/episodes/19024079",
-            thumbnail: `https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MjY4OTgwLCJwdXIiOiJibG9iX2lkIn19--9c63c34dbc776e436e2adc4759faba97134343af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/Daily%20Blade%20Logo%20-%20Full%20Color.jpg`,
-            },
-
-            {
-              id: 75,
-              title: "Daily Blade Podcast | Discernment In The Age Of Noise",
-              creator: "Daily Blade Podcast",
-              category: "Daily Blade Podcast",
-              embed: "https://www.buzzsprout.com/2426656/episodes/19024077",
-              thumbnail: `https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MjY4OTgwLCJwdXIiOiJibG9iX2lkIn19--9c63c34dbc776e436e2adc4759faba97134343af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/Daily%20Blade%20Logo%20-%20Full%20Color.jpg`,
-              },
-
-              {
-                id: 76,
-                title: "Daily Blade Podcast | Your Money Follows Your Worship And So Does Your Heart",
-                creator: "Daily Blade Podcast",
-                category: "Daily Blade Podcast",
-                embed: "https://www.buzzsprout.com/2426656/episodes/18965613",
-                thumbnail: `https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MjY4OTgwLCJwdXIiOiJibG9iX2lkIn19--9c63c34dbc776e436e2adc4759faba97134343af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/Daily%20Blade%20Logo%20-%20Full%20Color.jpg`,
-                },
-  
-                {
-                  id: 77,
-                  title: "Daily Blade Podcast | Real Brotherhood Means Stepping In Before You’re Asked",
-                  creator: "Daily Blade Podcast",
-                  category: "Daily Blade Podcast",
-                  embed: "https://www.buzzsprout.com/2426656/episodes/18965583",
-                  thumbnail: `https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MjY4OTgwLCJwdXIiOiJibG9iX2lkIn19--9c63c34dbc776e436e2adc4759faba97134343af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/Daily%20Blade%20Logo%20-%20Full%20Color.jpg`,
-                  },
-
-                  {
-                    id: 78,
-                    title: "Daily Blade Podcast | Comparison Kills Joy",
-                    creator: "Daily Blade Podcast",
-                    category: "Daily Blade Podcast",
-                    embed: "https://www.buzzsprout.com/2426656/episodes/18965667",
-                    thumbnail: `https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MjY4OTgwLCJwdXIiOiJibG9iX2lkIn19--9c63c34dbc776e436e2adc4759faba97134343af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/Daily%20Blade%20Logo%20-%20Full%20Color.jpg`,
-                    },
-
-
-                    {
-                      id: 79,
-                      title: "Daily Blade Podcast | Fruit Of The Spirit, Not Self-Help",
-                      creator: "Daily Blade Podcast",
-                      category: "Daily Blade Podcast",
-                      embed: "https://www.buzzsprout.com/2426656/episodes/18965610",
-                      thumbnail: `https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MjY4OTgwLCJwdXIiOiJibG9iX2lkIn19--9c63c34dbc776e436e2adc4759faba97134343af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/Daily%20Blade%20Logo%20-%20Full%20Color.jpg`,
-                      },
-
-
-                      {
-                        id: 80,
-                        title: "Daily Blade Podcast | Freedom In Christ Without A License To Sin",
-                        creator: "Daily Blade Podcast",
-                        category: "Daily Blade Podcast",
-                        embed: "https://www.buzzsprout.com/2426656/episodes/18965609",
-                        thumbnail: `https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MjY4OTgwLCJwdXIiOiJibG9iX2lkIn19--9c63c34dbc776e436e2adc4759faba97134343af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzYwMCw2MDAseyJjcm9wIjoiY2VudHJlIn1dLCJzYXZlciI6eyJxdWFsaXR5Ijo2MH0sImNvbG91cnNwYWNlIjoic3JnYiJ9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0b154cb6b88107719b1a277923d35676ba5519cc/Daily%20Blade%20Logo%20-%20Full%20Color.jpg`,
-                        },
 
 
 
@@ -877,8 +882,8 @@
                                         thumbnail: `https://img.youtube.com/vi/dr7dXeXvrU8/hqdefault.jpg`,
                                         },
 
-
-         {
+                                       
+                                        {
                                           id: 100,
                                           title: "God Says: Worship ME Only.",
                                           creator: "Jesus' Love Revealed",
@@ -886,10 +891,11 @@
                                           embed: "https://www.youtube.com/embed/eq-Q-4gDFxM?si=AmpiUd9Y2BhTK20u",
                                           thumbnail: `https://img.youtube.com/vi/eq-Q-4gDFxM/hqdefault.jpg`,
                                           },
-           
-                                                                              
-                     
 
+                                        
+                                          
+                                          
+                                         
                         
 
 
