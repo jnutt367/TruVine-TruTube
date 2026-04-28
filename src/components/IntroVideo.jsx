@@ -8,8 +8,8 @@ export default function IntroVideo() {
   
           <div style={styles.videoWrapper}>
             <iframe
-              src="https://www.youtube.com/embed/qxZ6b9NNsYw" 
-              title="TruVine public service announcement. the link is in the first comment, AND IN THE DESCRIPTION"
+              src="https://www.youtube.com/embed/vdaQL1_J8XI" 
+              title="An App (THIS!) built to bring clarity, truth, and the Word of God into one place."
               frameBorder="0"
               allowFullScreen
               allow="autoplay; encrypted-media"
