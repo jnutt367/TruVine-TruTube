@@ -9,7 +9,8 @@ type Video = {
   category: string;
   embed: string;
   thumbnail: string; // 👈 THIS MUST EXIST
-};
+  link?: string; // 👈 add this
+  };
 
 export default function VideoGrid({ videos }: { videos: Video[] }) {
   const [activeVideo, setActiveVideo] = useState<Video | null>(null);
