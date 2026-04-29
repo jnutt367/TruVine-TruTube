@@ -18,7 +18,7 @@ export default function EcosystemSection() {
   href="/foundations" target="_blank" style={styles.card}
   
 >
-  7-Day Guide
+  5 Weeks ( Build a Better Walk ) with GOD
 </Link>
 
           <a href="https://wordofgod.vercel.app/" target="_blank" style={styles.card}>
