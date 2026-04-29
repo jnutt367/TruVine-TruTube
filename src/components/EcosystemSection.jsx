@@ -1,10 +1,12 @@
+import Link from "next/link";
+
 export default function EcosystemSection() {
     return (
       <div style={styles.wrapper}>
         <p style={styles.label}>Explore the ecosystem</p>
   
         <p style={styles.subtext}>
-          Connected platforms for growing in God’s Word.
+          Visit These Connected platforms to Grow in God’s Word and Knowledge.
         </p>
   
         <div style={styles.grid}>
@@ -12,6 +14,13 @@ export default function EcosystemSection() {
           💌 Jesus Love Revealed 🕊
           </a>
   
+          <Link
+  href="/foundations" target="_blank" style={styles.card}
+  
+>
+  7-Day Guide
+</Link>
+
           <a href="https://wordofgod.vercel.app/" target="_blank" style={styles.card}>
           🙇🏾 The Word of God Risen 🙇🏻‍♂️
           </a>
@@ -28,7 +37,7 @@ export default function EcosystemSection() {
       opacity: 0.9,
     },
   
-     label: {
+    label: {
       fontSize: "0.85rem",
       fontWeight: "500",
       color: "gold",
