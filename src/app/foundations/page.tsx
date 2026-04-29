@@ -1,5 +1,3 @@
-
-
 export default function FoundationsPage() {
     return (
       <div className="min-h-screen bg-white text-gray-900 px-6 py-12 max-w-3xl mx-auto">
@@ -10,12 +8,12 @@ export default function FoundationsPage() {
         </h1>
   
         <p className="text-lg mb-6">
-          A simple 7-day guided walk to help you grow closer to God,
+          A simple 5 week guided walk, to help you grow closer to God,
           understand your faith, and stay consistent in His Word.
         </p>
   
         <a
-          href="#"
+          href="https://jesus-love-revealed.vercel.app/course-index.html"
           className="bg-black text-white px-6 py-3 rounded-xl inline-block mb-10"
         >
           Get the Guide — $9.99
@@ -81,10 +79,10 @@ export default function FoundationsPage() {
         {/* CTA */}
         <div className="text-center mt-12">
           <a
-            href="#"
+            href="https://jesus-love-revealed.vercel.app/course-index.html"
             className="bg-black text-white px-8 py-4 rounded-xl text-lg"
           >
-            Start Your 7-Day Walk — $9.99
+            Start Your 5 week Walk — $9.99
           </a>
   
           <p className="text-sm mt-4 text-gray-500">
