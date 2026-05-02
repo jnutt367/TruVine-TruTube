@@ -8,13 +8,14 @@ export default function IntroVideo() {
   
           <div style={styles.videoWrapper}>
             <iframe
-              src="https://www.youtube.com/embed/vdaQL1_J8XI" 
-              title="An App (THIS!) built to bring clarity, truth, and the Word of God into one place."
+              src="https://www.youtube.com/embed/cbKHO6qCotQ" 
+              title="📖 This is TruVine -- A Growing, Jesus following, Ecosystem"
               frameBorder="0"
               allowFullScreen
               allow="autoplay; encrypted-media"
               style={styles.iframe}
             />
+          
           </div>
   
           <p style={styles.text}>
@@ -32,7 +33,7 @@ export default function IntroVideo() {
       display: "flex",
       justifyContent: "center",
     },
-     content: {
+    content: {
       maxWidth: "700px",
       width: "100%",
       textAlign: "center",
@@ -64,6 +65,6 @@ export default function IntroVideo() {
     text: {
       marginTop: "25px", 
       fontSize: "0.95rem",
-      color: "grey",
+      color: "black",
     },
   };
