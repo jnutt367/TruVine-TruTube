@@ -10,18 +10,18 @@ export default function EcosystemSection() {
         </p>
   
         <div style={styles.grid}>
-          <a href="https://jesus-love-revealed.vercel.app/" target="_blank" style={styles.card}>
+          <a href="https://jesus-love-revealed.vercel.app/" style={styles.card}>
           💌 Jesus Love Revealed 🕊
           </a>
   
           <Link
-  href="/foundations" target="_blank" style={styles.card}
+  href="/foundations" style={styles.card}
   
 >
   5 Weeks ( Build a Better Walk ) with GOD
 </Link>
 
-          <a href="https://wordofgod.vercel.app/" target="_blank" style={styles.card}>
+          <a href="https://wordofgod.vercel.app/" style={styles.card}>
           🙇🏾 The Word of God Risen 🙇🏻‍♂️
           </a>
         </div>
