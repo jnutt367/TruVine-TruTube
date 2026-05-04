@@ -1,3 +1,5 @@
+// components/IntroVideo.jsx
+
 export default function IntroVideo() {
     return (
       <div style={styles.container}>
@@ -66,8 +68,8 @@ export default function IntroVideo() {
     text: {
       marginTop: "25px", 
       fontSize: "0.95rem",
-      color: "white",
-      fontFamily: "cursive",
-
+      color: "#228B22",
+      textShadow: "1px 0.2px 0.2px gold",
+      
     },
   };
