@@ -1,4 +1,5 @@
-export const videos = [
+
+  export const videos = [
     
    
      {
@@ -38,6 +39,62 @@ export const videos = [
       embed: "https://www.youtube.com/embed/jOjT2m2tOPE?si=AmpiUd9Y2BhTK20u",
       thumbnail: `https://img.youtube.com/vi/jOjT2m2tOPE/hqdefault.jpg`,
        },
+
+       {
+        id: 130,
+        title: "Jesus’ Perspective on Wealth in 6 Minutes",
+        creator: "The Bible Project",
+        category: "The Bible Project",
+        embed: "https://www.youtube.com/embed/GpqOdHV3dmU?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/GpqOdHV3dmU/hqdefault.jpg`,
+        },
+
+        {
+          id: 131,
+          title: "Jesus Explains What the Path to True Life is Like",
+          creator: "The Bible Project",
+          category: "The Bible Project",
+          embed: "https://www.youtube.com/embed/0iJ1-_nH47c?si=AmpiUd9Y2BhTK20u",
+          thumbnail: `https://img.youtube.com/vi/0iJ1-_nH47c/hqdefault.jpg`,
+          },
+
+          {
+            id: 132,
+            title: "Comment “AMEN” if this was for you🧠🖤",
+            creator: "POWARFUL",
+            category: "POWARFUL",
+            embed: "https://www.youtube.com/embed/a0lRwVMItos?si=AmpiUd9Y2BhTK20u",
+            thumbnail: `https://img.youtube.com/vi/a0lRwVMItos/hqdefault.jpg`,
+            },
+           
+            {
+              id: 133,
+              title: "Comment “AMEN” if this was for you🧠",
+              creator: "POWARFUL",
+              category: "POWARFUL",
+              embed: "https://www.youtube.com/embed/5MXdnD7-cUg?si=AmpiUd9Y2BhTK20u",
+              thumbnail: `https://img.youtube.com/vi/5MXdnD7-cUg/hqdefault.jpg`,
+              },
+              {
+                id: 134,
+                title: "Comment “AMEN” is this was for you 🧠🖤",
+                creator: "POWARFUL",
+                category: "POWARFUL",
+                embed: "https://www.youtube.com/embed/LaoUew-SBSI?si=AmpiUd9Y2BhTK20u",
+                thumbnail: `https://img.youtube.com/vi/LaoUew-SBSI/hqdefault.jpg`,
+                },
+                {
+                  id: 135,
+                  title: "Comment “AMEN” if this was for you🧠🖤 #powarful #philipanthonymitchell",
+                  creator: "POWARFUL",
+                  category: "POWARFUL",
+                  embed: "https://www.youtube.com/embed/4SOfui_skSY?si=AmpiUd9Y2BhTK20u",
+                  thumbnail: `https://img.youtube.com/vi/4SOfui_skSY/hqdefault.jpg`,
+                  },
+    
+
+
+           
        {
         id: 110,
         title: "Learn the Purpose of Every Command in the Bible In 5 Minutes",
@@ -47,6 +104,7 @@ export const videos = [
         thumbnail: `https://img.youtube.com/vi/4M9BsOvx6cs/hqdefault.jpg`,
         },
 
+      
         {
           id: 119,
           title: "Reminder That We Get To Meet Jesus Soon",
@@ -1045,6 +1103,177 @@ export const videos = [
                             thumbnail: `https://img.youtube.com/vi/dr7dXeXvrU8/hqdefault.jpg`,
                             },
 
+                            {
+                              id: 136,
+                              title: "Global Bible month day 15 part 2!",
+                              creator: "Jesus' Love Revealed",
+                              category: "(JLR)| Global Bible Month 2026",
+                              embed: "https://www.youtube.com/embed/XkVZSEkoq50?si=AmpiUd9Y2BhTK20u",
+                              thumbnail: `https://img.youtube.com/vi/XkVZSEkoq50/hqdefault.jpg`,
+                              },
+          
+          
+                            {
+                              id: 137,
+                              title: "Global Bible Month Challenge Day 16! Part 1",
+                              creator: "Jesus' Love Revealed",
+                              category: "(JLR)| Global Bible Month 2026",
+                              embed: "https://www.youtube.com/embed/iY4KhqlolHA?si=AmpiUd9Y2BhTK20u",
+                              thumbnail: `https://img.youtube.com/vi/iY4KhqlolHA/hqdefault.jpg`,
+                              },
+          
+          
+                            
+                                {
+                                  id: 138,
+                                  title: "Global Bible Month Challenge Day 16 part 2!",
+                                  creator: "Jesus' Love Revealed",
+                                  category: "(JLR)| Global Bible Month 2026",
+                                  embed: "https://www.youtube.com/embed/Wk4gzeRh1uM?si=AmpiUd9Y2BhTK20u",
+                                  thumbnail: `https://img.youtube.com/vi/Wk4gzeRh1uM/hqdefault.jpg`,
+                                  },
+          
+                                  {
+                                    id: 139,
+                                    title: "Global Bible Month Challenge day 17!",
+                                    creator: "Jesus' Love Revealed",
+                                    category: "(JLR)| Global Bible Month 2026",
+                                    embed: "https://www.youtube.com/embed/PvAP6mkK41E?si=AmpiUd9Y2BhTK20u",
+                                    thumbnail: `https://img.youtube.com/vi/PvAP6mkK41E/hqdefault.jpg`,
+                                    },
+          
+                                    {
+                                      id: 140,
+                                      title: "GLOBAL BIBLE MONTH CHALLENGE DAY 18! Keep Going 😁🙏💪",
+                                      creator: "Jesus' Love Revealed",
+                                      category: "(JLR)| Global Bible Month 2026",
+                                      embed: "https://www.youtube.com/embed/2EEYAmdcmUg?si=AmpiUd9Y2BhTK20u",
+                                      thumbnail: `https://img.youtube.com/vi/2EEYAmdcmUg/hqdefault.jpg`,
+                                      },
+          
+          
+                                      {
+                                        id: 141,
+                                        title: "GLOBAL BIBLE MONTH CHALLENGE DAY 18! Part 2",
+                                        creator: "Jesus' Love Revealed",
+                                        category: "(JLR)| Global Bible Month 2026",
+                                        embed: "https://www.youtube.com/embed/1xdR-EHamsI?si=AmpiUd9Y2BhTK20u",
+                                        thumbnail: `https://img.youtube.com/vi/1xdR-EHamsI/hqdefault.jpg`,
+                                        },   
+          
+                                        {
+                                          id: 142,
+                                          title: "Global Bible Month Day 19",
+                                          creator: "Jesus' Love Revealed",
+                                          category: "(JLR)| Global Bible Month 2026",
+                                          embed: "https://www.youtube.com/embed/3aa-bq37J_E?si=AmpiUd9Y2BhTK20u",
+                                          thumbnail: `https://img.youtube.com/vi/3aa-bq37J_E/hqdefault.jpg`,
+                                          },
+          
+                                          {
+                                            id: 143,
+                                            title: "Global Bible Month Day 20",
+                                            creator: "Jesus' Love Revealed",
+                                            category: "(JLR)| Global Bible Month 2026",
+                                            embed: "https://www.youtube.com/embed/mIVR2lap-pA?si=AmpiUd9Y2BhTK20u",
+                                            thumbnail: `https://img.youtube.com/vi/mIVR2lap-pA/hqdefault.jpg`,
+                                            },
+          
+          
+                                            {
+                                              id: 144,
+                                              title: "Global Bible Month Day 21",
+                                              creator: "Jesus' Love Revealed",
+                                              category: "(JLR)| Global Bible Month 2026",
+                                              embed: "https://www.youtube.com/embed/LURYV4fGWKs?si=AmpiUd9Y2BhTK20u",
+                                              thumbnail: `https://img.youtube.com/vi/LURYV4fGWKs/hqdefault.jpg`,
+                                              },
+          
+          
+                                              {
+                                                id: 145,
+                                                title: "Global Bible Month Challenge Day 22! My Testimony!",
+                                                creator: "Jesus' Love Revealed",
+                                                category: "(JLR)| Global Bible Month 2026",
+                                                embed: "https://www.youtube.com/embed/h16I2vvDwy4?si=AmpiUd9Y2BhTK20u",
+                                                thumbnail: `https://img.youtube.com/vi/h16I2vvDwy4/hqdefault.jpg`,
+                                                },
+          
+          
+                                                {
+                                                  id: 146,
+                                                  title: "Global Bible Month Challenge Day 23",
+                                                  creator: "Jesus' Love Revealed",
+                                                  category: "(JLR)| Global Bible Month 2026",
+                                                  embed: "https://www.youtube.com/embed/e7mw9eoXssg?si=AmpiUd9Y2BhTK20u",
+                                                  thumbnail: `https://img.youtube.com/vi/e7mw9eoXssg/hqdefault.jpg`,
+                                                  },
+          
+          
+                                                  {
+                                                    id: 147,
+                                                    title: "Global Bible Month Challenge Day 24",
+                                                    creator: "Jesus' Love Revealed",
+                                                    category: "(JLR)| Global Bible Month 2026",
+                                                    embed: "https://www.youtube.com/embed/FeruNTYt-Ns?si=AmpiUd9Y2BhTK20u",
+                                                    thumbnail: `https://img.youtube.com/vi/FeruNTYt-Ns/hqdefault.jpg`,
+                                                    },
+
+                                                    {
+                                                      id: 148,
+                                                      title: "Global Bible Month Challenge Day 25 GIVE!",
+                                                      creator: "Jesus' Love Revealed",
+                                                      category: "(JLR)| Global Bible Month 2026",
+                                                      embed: "https://www.youtube.com/embed/6CHCTHm0coU?si=AmpiUd9Y2BhTK20u",
+                                                      thumbnail: `https://img.youtube.com/vi/6CHCTHm0coU/hqdefault.jpg`,
+                                                      },
+
+                                                      {
+                                                        id: 149,
+                                                        title: "Global Bible Month Challenge Day 26 Hebrews 8 —",
+                                                        creator: "Jesus' Love Revealed",
+                                                        category: "(JLR)| Global Bible Month 2026",
+                                                        embed: "https://www.youtube.com/embed/IrJxfK7dT-4?si=AmpiUd9Y2BhTK20u",
+                                                        thumbnail: `https://img.youtube.com/vi/IrJxfK7dT-4/hqdefault.jpg`,
+                                                        },
+
+                                                        {
+                                                          id: 150,
+                                                          title: "Global Bible Month Challenge Day 27 Thanksgiving!",
+                                                          creator: "Jesus' Love Revealed",
+                                                          category: "(JLR)| Global Bible Month 2026",
+                                                          embed: "https://www.youtube.com/embed/gEzvkau5Vg8?si=AmpiUd9Y2BhTK20u",
+                                                          thumbnail: `https://img.youtube.com/vi/gEzvkau5Vg8/hqdefault.jpg`,
+                                                          },
+
+                                                          {
+                                                            id: 151,
+                                                            title: "Global Bible Month Challenge Day 28!",
+                                                            creator: "Jesus' Love Revealed",
+                                                            category: "(JLR)| Global Bible Month 2026",
+                                                            embed: "https://www.youtube.com/embed/iro8Vd-a9Mk?si=AmpiUd9Y2BhTK20u",
+                                                            thumbnail: `https://img.youtube.com/vi/iro8Vd-a9Mk/hqdefault.jpg`,
+                                                            },
+
+
+                                                            {
+                                                              id: 152,
+                                                              title: "Global Bible Month Challenge Day 29 'Covered by the Blood'",
+                                                              creator: "Jesus' Love Revealed",
+                                                              category: "(JLR)| Global Bible Month 2026",
+                                                              embed: "https://www.youtube.com/embed/9lslVQOCBus?si=AmpiUd9Y2BhTK20u",
+                                                              thumbnail: `https://img.youtube.com/vi/9lslVQOCBus/hqdefault.jpg`,
+                                                              },
+    
+                                                              {
+                                                                id: 153,
+                                                                title: "Global Bible Month Challenge Day 30",
+                                                                creator: "Jesus' Love Revealed",
+                                                                category: "(JLR)| Global Bible Month 2026",
+                                                                embed: "https://www.youtube.com/embed/t87uankJvSM?si=AmpiUd9Y2BhTK20u",
+                                                                thumbnail: `https://img.youtube.com/vi/t87uankJvSM/hqdefault.jpg`,
+                                                                },
+                                                    
                                        
                           {
                             id: 100,
