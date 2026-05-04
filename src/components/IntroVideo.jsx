@@ -68,7 +68,7 @@ export default function IntroVideo() {
     text: {
       marginTop: "25px", 
       fontSize: "0.95rem",
-      color: "#228B22",
+      color: "gold",
       textShadow: "1px 0.2px 0.2px gold",
       
     },
