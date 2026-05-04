@@ -1,40 +1,73 @@
-"use client";
+// components/IntroVideo.jsx
 
-import { useState } from "react";
-
-export default function Login({ setUser }: { setUser: (name: string) => void }) {
-  const [name, setName] = useState("");
-
-  function handleLogin() {
-    if (!name.trim()) return;
-
-    localStorage.setItem("truvine_user", name);
-    setUser(name); // 🔥 instant login (no reload)
-  }
-
-  return (
-    <div className="fixed inset-0 bg-slate-950 flex items-center justify-center p-4">
-      <div className="bg-white p-10 rounded-3xl shadow-2xl max-w-sm w-full text-center">
-        <h2 className="text-2xl font-black mb-2">Welcome</h2>
-        <p className="text-slate-500 mb-6 text-sm">
-          Join the Jesus Love Revealed community
-        </p>
-
-        <input
-          type="text"
-          placeholder="Your Name"
-          className="w-full bg-slate-100 p-3 rounded-xl mb-4 text-center font-bold"
-          value={name}
-          onChange={(e) => setName(e.target.value)}
-        />
-
-        <button
-          onClick={handleLogin}
-          className="w-full bg-blue-600 text-black py-3 rounded-xl font-bold"
-        >
-          Launch App
-        </button>
+export default function IntroVideo() {
+    return (
+      <div style={styles.container}>
+        <div style={styles.content}>
+          <h2 style={styles.title}>Welcome to the Vine</h2>
+  
+          <div style={styles.videoWrapper}>
+            <iframe
+              src="https://www.youtube.com/embed/cbKHO6qCotQ" 
+              title="📖 This is TruVine -- A Growing, Jesus following, Ecosystem"
+              frameBorder="0"
+              allowFullScreen
+              allow="autoplay; encrypted-media"
+              style={styles.iframe}
+            />
+          
+          </div>
+  
+          <p style={styles.text}>
+            A place to explore God’s Word, grow in your faith, and be part of a
+            connected community centered on Jesus Christ. Check out the, all Christ leading, TruTUBE experience!
+          </p>
+        </div>
       </div>
-    </div>
-  );
-}
+    );
+  }
+  
+  const styles = {
+    container: {
+      backgroundColor: "black",
+      padding: "2rem 1rem",
+      display: "flex",
+      justifyContent: "center",
+      color: "white",
+    },
+    content: {
+      maxWidth: "700px",
+      width: "100%",
+      textAlign: "center",
+      
+    },
+    title: {
+      color: "#2D7C66",
+      marginBottom: "1rem",
+      fontSize: "1.5rem",
+    },
+
+    videoWrapper: {
+        position: "relative",
+        width: "90%",          // 👈 add this
+        maxWidth: "300px",      // 👈 add this (controls size)
+        margin: "0 auto",       // 👈 centers it
+        paddingBottom: "20%", // keep this (9:16 ratio)
+        height: "300px",
+        overflow: "hidden",
+        borderRadius: "16px",
+      },
+
+    iframe: {
+      position: "absolute",
+      top: 0,
+      left: 0,
+      width: "100%",
+      height: "100%",
+    },
+    text: {
+      marginTop: "25px", 
+      fontSize: "0.95rem",
+      color: "white",
+    },
+  };
