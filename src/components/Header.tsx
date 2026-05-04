@@ -22,7 +22,7 @@ export default function Header({
       <div className="flex justify-between items-center max-w-5xl mx-auto">
         <h1 className="font-black text-3xl pr-5">TruVINE</h1>
         
-        <h5>🍃🍂 An Ecosystem, not an ego-System 🍁 </h5>
+        <h5 style={styles.subtext}>🍃 An Ecosystem, not an ego-System 🍁 </h5>
         
 
 
@@ -47,3 +47,10 @@ export default function Header({
     </header>
   );
 }
+
+const styles = {
+  subtext: {
+    fontSize: "0.8rem",
+    fontFamily: "cursive",
+  }
+};
