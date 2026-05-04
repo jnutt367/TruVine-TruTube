@@ -5,11 +5,12 @@ export const videos = [
       id: 118,
       title: "For I am not ashamed of this good news about Christ 🙏 Romans 1:16",
       creator: "Jesus' Love Revealed",
-      category: "Jesus' Love Revealed",
+      category: "Scripture Shorts (JLR)",
       embed: "https://www.youtube.com/embed/UpxQThJMra8?si=AmpiUd9Y2BhTK20u",
       thumbnail: `https://img.youtube.com/vi/UpxQThJMra8/hqdefault.jpg`,
       
      },
+    
      {
       id: 104,
       title: "The App called: Jesus' Love Revealed| Trivia & Biblical Timeline. Link is Above Intro Video.",
@@ -20,12 +21,20 @@ export const videos = [
       link: "https://jesus-love-revealed.vercel.app/",
      },
 
-
+     {
+      id: 81,
+      title: "Global Bible Month day 2, Jesus Calling.",
+      creator: "(JLR)| Global Bible Month 2026",
+      category: "(JLR)| Global Bible Month 2026",
+      embed: "https://www.youtube.com/embed/j3VqYS8x0No?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/j3VqYS8x0No/hqdefault.jpg`,
+      },
+     
      {
       id: 108,
       title: "God will lead you to new people! 💙",
-      creator: "Scripture Shorts",
-      category: "Scripture Shorts",
+      creator: "Scripture Shorts (JLR)",
+      category: "Scripture Shorts (JLR)",
       embed: "https://www.youtube.com/embed/jOjT2m2tOPE?si=AmpiUd9Y2BhTK20u",
       thumbnail: `https://img.youtube.com/vi/jOjT2m2tOPE/hqdefault.jpg`,
        },
@@ -88,8 +97,8 @@ export const videos = [
             {
               id: 117,
               title: "THE LIVING WATER",
-              creator: "Scripture Shorts",
-              category: "Scripture Shorts",
+              creator: "Scripture Shorts (JLR)",
+              category: "Scripture Shorts (JLR)",
               embed: "https://www.youtube.com/embed/cPuD_ky6NY0?si=AmpiUd9Y2BhTK20u",
               thumbnail: `https://img.youtube.com/vi/cPuD_ky6NY0/hqdefault.jpg`,
               },
@@ -118,8 +127,8 @@ export const videos = [
        {
         id: 109,
         title: "For all have sinned and fall short of the glory of God.",
-        creator: "Scripture Shorts",
-        category: "Scripture Shorts",
+        creator: "Scripture Shorts (JLR)",
+        category: "Scripture Shorts (JLR)",
         embed: "https://www.youtube.com/embed/Cv2Lv-ba9Vc?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/Cv2Lv-ba9Vc/hqdefault.jpg`,
          },
@@ -266,15 +275,7 @@ export const videos = [
         },
 
      
-      {
-        id: 81,
-        title: "Global Bible Month day 2, Jason reads Jesus Calling.",
-        creator: "Jesus' Love Revealed | Global Bible Month 2026",
-        category: "Jesus' Love Revealed | Global Bible Month 2026",
-        embed: "https://www.youtube.com/embed/j3VqYS8x0No?si=AmpiUd9Y2BhTK20u",
-        thumbnail: `https://img.youtube.com/vi/j3VqYS8x0No/hqdefault.jpg`,
-        },
-       
+     
         {
           id: 103,
           title: "Before I Formed You  — I Knew You! ",
@@ -389,7 +390,7 @@ export const videos = [
                         id: 9,
                         title: "The Lord is My Shepard",
                         creator: "Jason Nutt",
-                        category: "Scripture Shorts",
+                        category: "Scripture Shorts (JLR)",
                         embed: "https://www.youtube.com/embed/WlmKeOjGyuM",
                         thumbnail: "https://img.youtube.com/vi/WlmKeOjGyuM/hqdefault.jpg",
                       },
@@ -397,7 +398,7 @@ export const videos = [
                         id: 10,
                         title: "ACTIVATE! Holy Spirit.",
                         creator: "Jason Nutt",
-                        category: "Scripture Shorts",
+                        category: "Scripture Shorts (JLR)",
                         embed: "https://www.youtube.com/embed/12eUSzd0MFc",
                         thumbnail: "https://img.youtube.com/vi/12eUSzd0MFc/hqdefault.jpg",
                       },
@@ -405,7 +406,7 @@ export const videos = [
                         id: 11,
                         title: "Let it Shine!",
                         creator: "Jason Nutt",
-                        category: "Scripture Shorts",
+                        category: "Scripture Shorts (JLR)",
                         embed: "https://www.youtube.com/embed/aeL-AqoGeIc",
                         thumbnail: "https://img.youtube.com/vi/aeL-AqoGeIc/hqdefault.jpg",
                       },
@@ -413,7 +414,7 @@ export const videos = [
                         id: 12,
                         title: "Believe in God!",
                         creator: "Jason Nutt",
-                        category: "Scripture Shorts",
+                        category: "Scripture Shorts (JLR)",
                         embed: "https://www.youtube.com/embed/5z4Ykzlqk2w",
                         thumbnail: "https://img.youtube.com/vi/5z4Ykzlqk2w/hqdefault.jpg",
                       },
@@ -833,7 +834,7 @@ export const videos = [
                   id: 65,
                   title: "WE all fall short... give glory to God 🙏",
                   creator: "Jesus' Love Revealed",
-                  category: "Scripture Shorts",
+                  category: "Scripture Shorts (JLR)",
                   embed: "https://www.youtube.com/embed/Cv2Lv-ba9Vc?si=AmpiUd9Y2BhTK20u",
                   thumbnail: `https://img.youtube.com/vi/Cv2Lv-ba9Vc/hqdefault.jpg`,
                   },
@@ -844,7 +845,7 @@ export const videos = [
                     id: 66,
                     title: "We Live by Faith, not by sight.",
                     creator: "Jesus' Love Revealed",
-                    category: "Scripture Shorts",
+                    category: "Scripture Shorts (JLR)",
                     embed: "https://www.youtube.com/embed/z6p_6YGhdGo?si=AmpiUd9Y2BhTK20u",
                     thumbnail: `https://img.youtube.com/vi/z6p_6YGhdGo/hqdefault.jpg`,
                     },
@@ -870,7 +871,7 @@ export const videos = [
             id: 69,
             title: "Risen in Me! Sing Hallelujah!",
             creator: "Jesus' Love Revealed",
-            category: "Scripture Shorts",
+            category: "Scripture Shorts (JLR)",
             embed: "https://www.youtube.com/embed/Fgjv6AcO_0I?si=AmpiUd9Y2BhTK20u",
             thumbnail: `https://img.youtube.com/vi/Fgjv6AcO_0I/hqdefault.jpg`,
             },
@@ -884,36 +885,36 @@ export const videos = [
               },
                 {
                   id: 82,
-                  title: "Global Bible month challenge Day 1 with Gavin!",
-                  creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                  category: "Jesus' Love Revealed | Global Bible Month 2026",
+                  title: "Global Bible month challenge Day 1",
+                  creator: "(JLR)| Global Bible Month 2026",
+                  category: "(JLR)| Global Bible Month 2026",
                   embed: "https://www.youtube.com/embed/E34gUZGSqIw?si=AmpiUd9Y2BhTK20u",
                   thumbnail: `https://img.youtube.com/vi/E34gUZGSqIw/hqdefault.jpg`,
                 },
 
                 {
                   id: 83,
-                  title: "Global Bible Month 2026 Day 2  Scripture Short",
-                  creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                category: "Jesus' Love Revealed | Global Bible Month 2026",
+                  title: "Global Bible Month 2026 Day 2",
+                  creator: "(JLR)| Global Bible Month 2026",
+                category: "(JLR)| Global Bible Month 2026",
                   embed: "https://www.youtube.com/embed/G-8rcExz8m8?si=AmpiUd9Y2BhTK20u",
                   thumbnail: `https://img.youtube.com/vi/G-8rcExz8m8/hqdefault.jpg`,
                   },
                   
                   {
                     id: 84,
-                    title: "Global Bible Month 2026 Day 3 Remain in Me 🙏",
-                    creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                  category: "Jesus' Love Revealed | Global Bible Month 2026",
+                    title: "Global Bible Month 2026 Day 3",
+                    creator: "(JLR)| Global Bible Month 2026",
+                  category: "(JLR)| Global Bible Month 2026",
                     embed: "https://www.youtube.com/embed/u_I2AaeJMqU?si=AmpiUd9Y2BhTK20u",
                     thumbnail: `https://img.youtube.com/vi/u_I2AaeJMqU/hqdefault.jpg`,
                     },
                     
                     {
                       id: 85,
-                      title: "Global Bible Month 2026 Day 4 Live like Jesus 🕊",
-                      creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                    category: "Jesus' Love Revealed | Global Bible Month 2026",
+                      title: "Global Bible Month 2026 Day 4",
+                      creator: "(JLR)| Global Bible Month 2026",
+                    category: "(JLR)| Global Bible Month 2026",
                       embed: "https://www.youtube.com/embed/zqk8jVaUaak?si=AmpiUd9Y2BhTK20u",
                       thumbnail: `https://img.youtube.com/vi/zqk8jVaUaak/hqdefault.jpg`,
                       },
@@ -921,9 +922,9 @@ export const videos = [
                 
                       {
                         id: 86,
-                        title: "Global Bible Month 2026 Day 5 Great is the Lord! Greatly to be praised!",
-                        creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                      category: "Jesus' Love Revealed | Global Bible Month 2026",
+                        title: "Global Bible Month 2026 Day 5",
+                        creator: "(JLR)| Global Bible Month 2026",
+                      category: "(JLR)| Global Bible Month 2026",
                         embed: "https://www.youtube.com/embed/FFEPmPc1cR4?si=AmpiUd9Y2BhTK20u",
                         thumbnail: `https://img.youtube.com/vi/FFEPmPc1cR4/hqdefault.jpg`,
                         },
@@ -931,9 +932,9 @@ export const videos = [
                                 
                 {
                   id: 87,
-                  title: "Global Bible Month 2026 Day 6 The Steps of a Man",
-                  creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                category: "Jesus' Love Revealed | Global Bible Month 2026",
+                  title: "Global Bible Month 2026 Day 6",
+                  creator: "(JLR)| Global Bible Month 2026",
+                category: "(JLR)| Global Bible Month 2026",
                   embed: "https://www.youtube.com/embed/cxTqIEHHVbY?si=AmpiUd9Y2BhTK20u",
                   thumbnail: `https://img.youtube.com/vi/cxTqIEHHVbY/hqdefault.jpg`,
                   },
@@ -941,9 +942,9 @@ export const videos = [
             
                   {
                     id: 88,
-                    title: "Global Bible Month 2026 Day 7 We Believe, Therefore WE Speak!",
-                    creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                  category: "Jesus' Love Revealed | Global Bible Month 2026",
+                    title: "Global Bible Month 2026 Day 7",
+                    creator: "(JLR)| Global Bible Month 2026",
+                  category: "(JLR)| Global Bible Month 2026",
                     embed: "https://www.youtube.com/embed/bfxEPKTwQnM?si=AmpiUd9Y2BhTK20u",
                     thumbnail: `https://img.youtube.com/vi/bfxEPKTwQnM/hqdefault.jpg`,
                     },
@@ -951,27 +952,27 @@ export const videos = [
               
                     {
                       id: 89,
-                      title: "Global Bible Month 2026 Day 8 Challenge: get in the word and make disciples!",
-                      creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                    category: "Jesus' Love Revealed | Global Bible Month 2026",
+                      title: "Global Bible Month 2026 Day 8",
+                      creator: "(JLR)| Global Bible Month 2026",
+                    category: "(JLR)| Global Bible Month 2026",
                       embed: "https://www.youtube.com/embed/w-HbiC6GuVs?si=AmpiUd9Y2BhTK20u",
                       thumbnail: `https://img.youtube.com/vi/w-HbiC6GuVs/hqdefault.jpg`,
                       },
                       
                       {
                         id: 90,
-                        title: "Global Bible Month 2026 Day 9 Does God Keep Some in Darkness?",
-                        creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                      category: "Jesus' Love Revealed | Global Bible Month 2026",
+                        title: "Global Bible Month 2026 Day 9",
+                        creator: "(JLR)| Global Bible Month 2026",
+                      category: "(JLR)| Global Bible Month 2026",
                         embed: "https://www.youtube.com/embed/jRu3Ga5SfIU?si=AmpiUd9Y2BhTK20u",
                         thumbnail: `https://img.youtube.com/vi/jRu3Ga5SfIU/hqdefault.jpg`,
                         },
                         
                         {
                           id: 91,
-                          title: "Global Bible Month 2026 Day 10 a Voice Calling in the Wilderness",
-                          creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                        category: "Jesus' Love Revealed | Global Bible Month 2026",
+                          title: "Global Bible Month 2026 Day 10",
+                          creator: "(JLR)| Global Bible Month 2026",
+                        category: "(JLR)| Global Bible Month 2026",
                           embed: "https://www.youtube.com/embed/xy3jG2aEoQA?si=AmpiUd9Y2BhTK20u",
                           thumbnail: `https://img.youtube.com/vi/xy3jG2aEoQA/hqdefault.jpg`,
                           },
@@ -979,9 +980,9 @@ export const videos = [
                     
                           {
                             id: 92,
-                            title: "Global Bible Month 2026 Day 11 We Belong to the Light (The Day)",
-                            creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                          category: "Jesus' Love Revealed | Global Bible Month 2026",
+                            title: "Global Bible Month 2026 Day 11",
+                            creator: "(JLR)| Global Bible Month 2026",
+                          category: "(JLR)| Global Bible Month 2026",
                             embed: "https://www.youtube.com/embed/7ZurB-39S0U?si=AmpiUd9Y2BhTK20u",
                             thumbnail: `https://img.youtube.com/vi/7ZurB-39S0U/hqdefault.jpg`,
                             },
@@ -989,9 +990,9 @@ export const videos = [
                       
                        {
                         id: 93,
-                        title: "Global Bible Month 2026 Day 12 Be Patient. Do Not Payback Wrongs",
-                        creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                      category: "Jesus' Love Revealed | Global Bible Month 2026",
+                        title: "Global Bible Month 2026 Day 12",
+                        creator: "(JLR)| Global Bible Month 2026",
+                      category: "(JLR)| Global Bible Month 2026",
                         embed: "https://www.youtube.com/embed/0CbrldUa3WE?si=AmpiUd9Y2BhTK20u",
                         thumbnail: `https://img.youtube.com/vi/0CbrldUa3WE/hqdefault.jpg`,
                         },
@@ -999,9 +1000,9 @@ export const videos = [
                   
                         {
                         id: 94,
-                        title: "Global Bible Month 2026 Day 13 We are in Him and He is in US!!",
-                        creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                      category: "Jesus' Love Revealed | Global Bible Month 2026",
+                        title: "Global Bible Month 2026 Day 13",
+                        creator: "(JLR)| Global Bible Month 2026",
+                      category: "(JLR)| Global Bible Month 2026",
                         embed: "https://www.youtube.com/embed/20750sHu5w4?si=AmpiUd9Y2BhTK20u",
                         thumbnail: `https://img.youtube.com/vi/20750sHu5w4/hqdefault.jpg`,
                         },
@@ -1009,27 +1010,27 @@ export const videos = [
 
                         {
                           id: 95,
-                          title: "Global Bible Month 2026 Day 13 Part 2 He is Coming!",
-                          creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                        category: "Jesus' Love Revealed | Global Bible Month 2026",
+                          title: "Global Bible Month 2026 Day 13 Part 2",
+                          creator: "(JLR)| Global Bible Month 2026",
+                        category: "(JLR)| Global Bible Month 2026",
                           embed: "https://www.youtube.com/embed/QJ2Yx08LDqo?si=AmpiUd9Y2BhTK20u",
                           thumbnail: `https://img.youtube.com/vi/QJ2Yx08LDqo/hqdefault.jpg`,
                           },
                                   
                           {
                             id: 96,
-                            title: "Global Bible Month 2026 Day 14 Some Misunderstood Paul...",
-                            creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                          category: "Jesus' Love Revealed | Global Bible Month 2026",
+                            title: "Global Bible Month 2026 Day 14",
+                            creator: "(JLR)| Global Bible Month 2026",
+                          category: "(JLR)| Global Bible Month 2026",
                             embed: "https://www.youtube.com/embed/ZEEdzo0MZyE?si=AmpiUd9Y2BhTK20u",
                             thumbnail: `https://img.youtube.com/vi/ZEEdzo0MZyE/hqdefault.jpg`,
                             },
                                         
                           {
                             id: 97,
-                            title: "Global Bible Month 2026 Day 14 Part 2 They Persih Because They Refuse to Love the Truth..& so be SAVED",
-                            creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                          category: "Jesus' Love Revealed | Global Bible Month 2026",
+                            title: "Global Bible Month 2026 Day 14 Part 2",
+                            creator: "(JLR)| Global Bible Month 2026",
+                          category: "(JLR)| Global Bible Month 2026",
                             embed: "https://www.youtube.com/embed/urXfsHUyo38?si=AmpiUd9Y2BhTK20u",
                             thumbnail: `https://img.youtube.com/vi/urXfsHUyo38/hqdefault.jpg`,
                             },
@@ -1037,9 +1038,9 @@ export const videos = [
 
                           {
                             id: 98,
-                            title: "Global Bible Month 2026 Day 15 Part 1 By the Command of God our Savior and of Christ Jesus OUR Hope!",
-                            creator: "Jesus' Love Revealed | Global Bible Month 2026",
-                          category: "Jesus' Love Revealed | Global Bible Month 2026",
+                            title: "Global Bible Month 2026 Day 15 Part 1",
+                            creator: "(JLR)| Global Bible Month 2026",
+                          category: "(JLR)| Global Bible Month 2026",
                             embed: "https://www.youtube.com/embed/dr7dXeXvrU8?si=AmpiUd9Y2BhTK20u",
                             thumbnail: `https://img.youtube.com/vi/dr7dXeXvrU8/hqdefault.jpg`,
                             },
@@ -1058,14 +1059,95 @@ export const videos = [
                               id: 2,
                               title: "Man on the Middle Cross",
                               creator: "Jason Nutt",
-                              category: "Scripture Shorts",
+                              category: "Scripture Shorts (JLR)",
                               embed: "https://www.youtube.com/embed/qGslKnBYQEo",
                               thumbnail: "https://img.youtube.com/vi/qGslKnBYQEo/hqdefault.jpg",
                             },
-        
-                                      
+
+                            {
+                              id: 120,
+                              title: "Mark Of The Beast Lie is HERE",
+                              creator: "Ashley Hays",
+                              category: "Ashley Hays",
+                              embed: "https://www.youtube.com/embed/pAXADswN0Jw",
+                              thumbnail: "https://img.youtube.com/vi/pAXADswN0Jw/hqdefault.jpg",
+                            },
+
+
+                            {
+                              id: 121,
+                              title: "White House Shooting/Pride Festival At Sodom/Missing Scientists",
+                              creator: "Ashley Hays",
+                              category: "Ashley Hays",
+                              embed: "https://www.youtube.com/embed/OsG_LXirOOI",
+                              thumbnail: "https://img.youtube.com/vi/OsG_LXirOOI/hqdefault.jpg",
+                            },
+
+                            {
+                              id: 122,
+                              title: "",
+                              creator: "Ashley Hays",
+                              category: "Ashley Hays",
+                              embed: "https://www.youtube.com/embed/pAXADswN0Jw",
+                              thumbnail: "https://img.youtube.com/vi/pAXADswN0Jw/hqdefault.jpg",
+                            },
+
+                            {
+                              id: 123,
+                              title: "",
+                              creator: "Ashley Hays",
+                              category: "Ashley Hays",
+                              embed: "https://www.youtube.com/embed/pAXADswN0Jw",
+                              thumbnail: "https://img.youtube.com/vi/pAXADswN0Jw/hqdefault.jpg",
+                            },
+
+                            {
+                              id: 124,
+                              title: "",
+                              creator: "Ashley Hays",
+                              category: "Ashley Hays",
+                              embed: "https://www.youtube.com/embed/pAXADswN0Jw",
+                              thumbnail: "https://img.youtube.com/vi/pAXADswN0Jw/hqdefault.jpg",
+                            },
+
+                            
+                            {
+                              id: 125,
+                              title: "",
+                              creator: "Ashley Hays",
+                              category: "Ashley Hays",
+                              embed: "https://www.youtube.com/embed/pAXADswN0Jw",
+                              thumbnail: "https://img.youtube.com/vi/pAXADswN0Jw/hqdefault.jpg",
+                            },
+
+                            {
+                              id: 126,
+                              title: "",
+                              creator: "Ashley Hays",
+                              category: "Ashley Hays",
+                              embed: "https://www.youtube.com/embed/pAXADswN0Jw",
+                              thumbnail: "https://img.youtube.com/vi/pAXADswN0Jw/hqdefault.jpg",
+                            },
+                            
                             
                               
+                            {
+                              id: 127,
+                              title: "",
+                              creator: "Ashley Hays",
+                              category: "Ashley Hays",
+                              embed: "https://www.youtube.com/embed/pAXADswN0Jw",
+                              thumbnail: "https://img.youtube.com/vi/pAXADswN0Jw/hqdefault.jpg",
+                            },
 
+                            {
+                              id: 128,
+                              title: "",
+                              creator: "Ashley Hays",
+                              category: "Ashley Hays",
+                              embed: "https://www.youtube.com/embed/pAXADswN0Jw",
+                              thumbnail: "https://img.youtube.com/vi/pAXADswN0Jw/hqdefault.jpg",
+                            },
 
                                        ];
+
