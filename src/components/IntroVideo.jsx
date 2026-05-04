@@ -20,7 +20,7 @@ export default function IntroVideo() {
   
           <p style={styles.text}>
             A place to explore God’s Word, grow in your faith, and be part of a
-            connected community centered on Jesus Christ.
+            connected community centered on Jesus Christ. Check out the, all Christ leading, TruTUBE experience!
           </p>
         </div>
       </div>
@@ -29,14 +29,17 @@ export default function IntroVideo() {
   
   const styles = {
     container: {
+      backgroundColor: "black",
       padding: "2rem 1rem",
       display: "flex",
       justifyContent: "center",
+      color: "white",
     },
     content: {
       maxWidth: "700px",
       width: "100%",
       textAlign: "center",
+      
     },
     title: {
       color: "#2D7C66",
@@ -65,6 +68,6 @@ export default function IntroVideo() {
     text: {
       marginTop: "25px", 
       fontSize: "0.95rem",
-      color: "black",
+      color: "white",
     },
   };
