@@ -1,8 +1,17 @@
-
-  export const videos = [
+export const videos = [
     
    
-     {
+    {
+      id: 81,
+      title: "Global Bible Month day 2, Jesus Calling.",
+      creator: "(JLR)| Global Bible Month Challenge 2026 all 30 Days!",
+      category: "(JLR)| Global Bible Month Challenge 2026 all 30 Days!",
+      embed: "https://www.youtube.com/embed/j3VqYS8x0No?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/j3VqYS8x0No/hqdefault.jpg`,
+      },
+    
+    
+    {
       id: 118,
       title: "For I am not ashamed of this good news about Christ 🙏 Romans 1:16",
       creator: "Jesus' Love Revealed",
@@ -22,14 +31,7 @@
       link: "https://jesus-love-revealed.vercel.app/",
      },
 
-     {
-      id: 81,
-      title: "Global Bible Month day 2, Jesus Calling.",
-      creator: "(JLR)| Global Bible Month Challenge 2026 all 30 Days!",
-      category: "(JLR)| Global Bible Month Challenge 2026 all 30 Days!",
-      embed: "https://www.youtube.com/embed/j3VqYS8x0No?si=AmpiUd9Y2BhTK20u",
-      thumbnail: `https://img.youtube.com/vi/j3VqYS8x0No/hqdefault.jpg`,
-      },
+    
      
      {
       id: 108,
@@ -57,6 +59,15 @@
           embed: "https://www.youtube.com/embed/0iJ1-_nH47c?si=AmpiUd9Y2BhTK20u",
           thumbnail: `https://img.youtube.com/vi/0iJ1-_nH47c/hqdefault.jpg`,
           },
+          {
+            id: 154,
+            title: "The Church's BIGGEST Deception Has Already Begun",
+            creator: "Kay Podgee",
+            category: "Kay Podgee",
+            embed: "https://www.youtube.com/embed/FM4ddhn0Dac?si=AmpiUd9Y2BhTK20u",
+            thumbnail: `https://img.youtube.com/vi/FM4ddhn0Dac/hqdefault.jpg`,
+            },
+
 
           {
             id: 132,
@@ -181,6 +192,17 @@
           thumbnail: `https://img.youtube.com/vi/elhazm4fZeE/hqdefault.jpg`,
           },
 
+          {
+            id: 154,
+            title: "  4th Commandment: Remember the Sabbath",
+            creator: "The Bible Project",
+            category: "The Bible Project",
+            embed: "https://www.youtube.com/embed/VsAmFJ6quZk?si=AmpiUd9Y2BhTK20u",
+            thumbnail: `https://img.youtube.com/vi/VsAmFJ6quZk/hqdefault.jpg`,
+            },
+        
+
+         
         
        {
         id: 109,
@@ -653,54 +675,59 @@
             embed: "https://www.youtube.com/embed/MuAJFMCjleY?si=AmpiUd9Y2BhTK20u",
             thumbnail: `https://img.youtube.com/vi/MuAJFMCjleY/hqdefault.jpg`,
           },
+
+         
+          
+          // Kay Podgee
           {
-          id: 37,
-          title: "The Ethiopian Bible EXPOSES The Mark of The Beast!",
-          creator: "Kay Podgee",
-          category: "Kay Podgee",
-          embed: "https://www.youtube.com/embed/AAQfFQUfDcY?si=AmpiUd9Y2BhTK20u",
-          thumbnail: `https://img.youtube.com/vi/AAQfFQUfDcY/hqdefault.jpg`,
-          },
-          {
-          id: 38,
-            title: "Secular Music is Bad",
+            id: 37,
+            title: "The Ethiopian Bible EXPOSES The Mark of The Beast!",
             creator: "Kay Podgee",
             category: "Kay Podgee",
-            embed: "https://www.youtube.com/embed/kjqXyRN4NLA?si=AmpiUd9Y2BhTK20u",
-            thumbnail: `https://img.youtube.com/vi/kjqXyRN4NLA/hqdefault.jpg`,
-          },
-          {
-          id: 39,
-          title: "Secular Music is Bad part 2",
-          creator: "Kay Podgee",
-          category: "Kay Podgee",
-          embed: "https://www.youtube.com/embed/u3f5rTlFjto?si=AmpiUd9Y2BhTK20u",
-          thumbnail: `https://img.youtube.com/vi/u3f5rTlFjto/hqdefault.jpg`,
-          },
-          {
-          id: 40,
-          title: "Polaris = North Star = God's Throne Room",
-          creator: "Kay Podgee",
-          category: "Kay Podgee",
-          embed: "https://www.youtube.com/embed/66fLbZLiS_Q?si=AmpiUd9Y2BhTK20u",
-          thumbnail: `https://img.youtube.com/vi/66fLbZLiS_Q/hqdefault.jpg`,
-          },
-          {
-          id: 41,
-          title: "Space Force says: READ ENOCH! OK!",
-          creator: "Kay Podgee",
-          category: "Kay Podgee",
-          embed: "https://www.youtube.com/embed/k4VMRrdD3aI?si=AmpiUd9Y2BhTK20u",
-          thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
-          },
+            embed: "https://www.youtube.com/embed/AAQfFQUfDcY?si=AmpiUd9Y2BhTK20u",
+            thumbnail: `https://img.youtube.com/vi/AAQfFQUfDcY/hqdefault.jpg`,
+            },
+            {
+            id: 38,
+              title: "Secular Music April 13, 2026",
+              creator: "Kay Podgee",
+              category: "Kay Podgee",
+              embed: "https://www.youtube.com/embed/kjqXyRN4NLA?si=AmpiUd9Y2BhTK20u",
+              thumbnail: `https://img.youtube.com/vi/kjqXyRN4NLA/hqdefault.jpg`,
+            },
+            {
+            id: 39,
+            title: "Secular Music April 13, 2026 pt 2",
+            creator: "Kay Podgee",
+            category: "Kay Podgee",
+            embed: "https://www.youtube.com/embed/u3f5rTlFjto?si=AmpiUd9Y2BhTK20u",
+            thumbnail: `https://img.youtube.com/vi/u3f5rTlFjto/hqdefault.jpg`,
+            },
+            {
+            id: 40,
+            title: "Polaris = God's Throne Room Full vid on her page!",
+            creator: "Kay Podgee",
+            category: "Kay Podgee",
+            embed: "https://www.youtube.com/embed/66fLbZLiS_Q?si=AmpiUd9Y2BhTK20u",
+            thumbnail: `https://img.youtube.com/vi/66fLbZLiS_Q/hqdefault.jpg`,
+            },
+            {
+            id: 41,
+            title: "Space Force Connected to Apocryphal Book?!",
+            creator: "Kay Podgee",
+            category: "Kay Podgee",
+            embed: "https://www.youtube.com/embed/k4VMRrdD3aI?si=AmpiUd9Y2BhTK20u",
+            thumbnail: `https://img.youtube.com/vi/k4VMRrdD3aI/hqdefault.jpg`,
+            },
           {
             id: 42,
-            title: "The Truth about the J's",
+            title: "The Truth about the J's, March 4, 2026",
             creator: "Kay Podgee",
             category: "Kay Podgee",
             embed: "https://www.youtube.com/embed/x4iN0xJ4Vy4?si=AmpiUd9Y2BhTK20u",
             thumbnail: `https://img.youtube.com/vi/x4iN0xJ4Vy4/hqdefault.jpg`,
             },
+            // ------------------Kay Podgee ------------------------------------------------------------------
             {
               id: 43,
               title: "GOD SAYS COME TO ME!",
@@ -1273,14 +1300,7 @@
                                                                 embed: "https://www.youtube.com/embed/t87uankJvSM?si=AmpiUd9Y2BhTK20u",
                                                                 thumbnail: `https://img.youtube.com/vi/t87uankJvSM/hqdefault.jpg`,
                                                                 },
-                                                                {
-                                                                  id: 154,
-                                                                  title: "The Church's BIGGEST Deception Has Already Begun",
-                                                                  creator: "Kay Podgee",
-                                                                  category: "Kay Podgee",
-                                                                  embed: "https://www.youtube.com/embed/FM4ddhn0Dac?si=AmpiUd9Y2BhTK20u",
-                                                                  thumbnail: `https://img.youtube.com/vi/FM4ddhn0Dac/hqdefault.jpg`,
-                                                                  },
+                                                               
   
                                                                 
 
@@ -1392,4 +1412,3 @@
                             },
 
                                        ];
-
