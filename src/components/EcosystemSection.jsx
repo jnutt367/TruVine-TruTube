@@ -31,10 +31,11 @@ export default function EcosystemSection() {
   
   const styles = {
     wrapper: {
-      background: "#2D7C66",
+      background: "black",
       padding: "1.5rem 1rem",
       textAlign: "center",
       opacity: 0.9,
+      border: "2px solid #2D7C66",
     },
   
     label: {
@@ -64,9 +65,11 @@ export default function EcosystemSection() {
       color: "white",
       fontSize: "0.8rem",
       minWidth: "160px",
-      opacity: 0.9,
-      border: "1px solid white",
+      opacity: 1,
       boxShadow: "0 2px 6px rgba(0,0,0,0.03)",
       transition: "all 0.2s ease",
+
     },
+
+    
   };
