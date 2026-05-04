@@ -51,6 +51,6 @@ export default function Header({
 const styles = {
   subtext: {
     fontSize: "0.8rem",
-    fontFamily: "cursive",
+    fontFamily: "helvetica",
   }
 };
