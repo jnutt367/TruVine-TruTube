@@ -1,21 +1,18 @@
-// components/IntroVideo.jsx
-
 export default function IntroVideo() {
     return (
       <div style={styles.container}>
         <div style={styles.content}>
-          <h2 style={styles.title}>Welcome to the Vine</h2>
-  
+       <h2 style={styles.title}>Welcome to the Vine</h2>
           <div style={styles.videoWrapper}>
             <iframe
-              src="https://www.youtube.com/embed/cbKHO6qCotQ" 
-              title="📖 This is TruVine -- A Growing, Jesus following, Ecosystem"
+              src="https://www.youtube.com/embed/vdaQL1_J8XI" 
+              title="📖 This is TruVine -- A Growing Ecosystem of Jesus followers"
               frameBorder="0"
               allowFullScreen
               allow="autoplay; encrypted-media"
               style={styles.iframe}
             />
-          
+         
           </div>
   
           <p style={styles.text}>
@@ -45,6 +42,7 @@ export default function IntroVideo() {
       color: "#2D7C66",
       marginBottom: "1rem",
       fontSize: "1.5rem",
+      fontFamily: "cursive",
     },
 
     videoWrapper: {
@@ -69,5 +67,7 @@ export default function IntroVideo() {
       marginTop: "25px", 
       fontSize: "0.95rem",
       color: "white",
+      fontFamily: "cursive",
+
     },
   };
