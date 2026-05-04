@@ -3,14 +3,13 @@ export const videos = [
    
      {
       id: 118,
-      title: "TruVine is the App, built to bring clarity, truth, and the Word of God into one place.",
+      title: "For I am not ashamed of this good news about Christ 🙏 Romans 1:16",
       creator: "Jesus' Love Revealed",
       category: "Jesus' Love Revealed",
-      embed: "https://www.youtube.com/embed/vdaQL1_J8XI?si=AmpiUd9Y2BhTK20u",
-      thumbnail: `https://img.youtube.com/vi/vdaQL1_J8XI/hqdefault.jpg`,
-      link: "https://tru-vine-tru-tube.vercel.app/",
+      embed: "https://www.youtube.com/embed/UpxQThJMra8?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/UpxQThJMra8/hqdefault.jpg`,
+      
      },
-     
      {
       id: 104,
       title: "The App called: Jesus' Love Revealed| Trivia & Biblical Timeline. Link is Above Intro Video.",
