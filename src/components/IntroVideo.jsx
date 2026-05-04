@@ -7,14 +7,14 @@ export default function IntroVideo() {
        <h2 style={styles.title}>Welcome to the Vine</h2>
           <div style={styles.videoWrapper}>
             <iframe
-              src="https://www.youtube.com/embed/vdaQL1_J8XI" 
-              title="📖 This is TruVine -- A Growing Ecosystem of Jesus followers"
+              src="https://www.youtube.com/embed/Q2UM6OqmAvs"
+              title="Building a Bible Habit? I built an app for that! 📲"
               frameBorder="0"
               allowFullScreen
               allow="autoplay; encrypted-media"
               style={styles.iframe}
             />
-         
+        
           </div>
   
           <p style={styles.text}>
