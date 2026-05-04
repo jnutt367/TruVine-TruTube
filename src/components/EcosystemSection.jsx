@@ -24,6 +24,13 @@ export default function EcosystemSection() {
           <a href="https://wordofgod.vercel.app/" style={styles.card}>
           🙇🏾 The Word of God Risen 🙇🏻‍♂️
           </a>
+
+          <Link
+  href="https://cash.app/$JesusLoveRevealed" style={styles.card}
+  
+>
+💌 🕊 👊 💸 Or give  Here! 💲 💵 💰 🧧 🖥
+</Link>
         </div>
       </div>
     );
