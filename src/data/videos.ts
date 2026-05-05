@@ -9,8 +9,44 @@ export const videos = [
       embed: "https://www.youtube.com/embed/j3VqYS8x0No?si=AmpiUd9Y2BhTK20u",
       thumbnail: `https://img.youtube.com/vi/j3VqYS8x0No/hqdefault.jpg`,
       },
-    
-    
+      {
+        id: 156,
+        title: "HOLY Spirit 🌅 SHARE Your Faith!",
+        creator: "Jesus' Love Revealed",
+        category: "Scripture Shorts (JLR)",
+        embed: "https://www.youtube.com/embed/N7VPW9eZ3P4?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/N7VPW9eZ3P4/hqdefault.jpg`,
+        
+       },
+       {
+        id: 155,
+        title: "I will fear NO Evil. 🦅",
+        creator: "Jesus' Love Revealed",
+        category: "Scripture Shorts (JLR)",
+        embed: "https://www.youtube.com/embed/GNeou7j-yzk?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/GNeou7j-yzk/hqdefault.jpg`,
+       },
+
+       {
+        id: 157,
+        title: "God Got me STILL",
+        creator: "Jesus' Love Revealed",
+        category: "Scripture Shorts (JLR)",
+        embed: "https://www.youtube.com/embed/VqJzcDyS2r0?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/VqJzcDyS2r0/hqdefault.jpg`,
+       },
+
+       {
+        id: 158,
+        title: "Set FREE!!",
+        creator: "Jesus' Love Revealed",
+        category: "Scripture Shorts (JLR)",
+        embed: "https://www.youtube.com/embed/w8Zhdqgeq4o?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/w8Zhdqgeq4o/hqdefault.jpg`,
+       },
+
+       
+      
     {
       id: 118,
       title: "For I am not ashamed of this good news about Christ 🙏 Romans 1:16",
