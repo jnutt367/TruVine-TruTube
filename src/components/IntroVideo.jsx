@@ -7,8 +7,8 @@ export default function IntroVideo() {
        <h2 style={styles.title}>Welcome to the Vine</h2>
           <div style={styles.videoWrapper}>
             <iframe
-              src="https://www.youtube.com/embed/Q2UM6OqmAvs"
-              title="Building a Bible Habit? I built an app for that! 📲"
+              src="https://www.youtube.com/embed/n8jOYOfD5Oo"
+              title="THE KING IS COMING"
               frameBorder="0"
               allowFullScreen
               allow="autoplay; encrypted-media"
