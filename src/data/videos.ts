@@ -216,11 +216,11 @@ export const videos = [
                     embed: "https://www.youtube.com/embed/cvEdmYKN8VE?si=AmpiUd9Y2BhTK20u",
                     thumbnail: `https://img.youtube.com/vi/cvEdmYKN8VE/hqdefault.jpg`,
                     },   
-                    {
+                        {
                     id: 161,
                     title: "JESUS GAVE THE HOLY SPIRIT A PRONOUN (HE!)",
-                    creator: "POWERFUL",
-                    category: "POWERFUL",
+                    creator: "POWARFUL",
+                    category: "POWARFUL",
                     embed: "https://www.youtube.com/embed/Y7t5ZjzgxU0?si=AmpiUd9Y2BhTK20u",
                     thumbnail: `https://img.youtube.com/vi/Y7t5ZjzgxU0/hqdefault.jpg`,
                     },   
