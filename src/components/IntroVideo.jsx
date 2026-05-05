@@ -42,10 +42,11 @@ export default function IntroVideo() {
       
     },
     title: {
-      color: "#2D7C66",
+      color: "white",
       marginBottom: "1rem",
       fontSize: "1.5rem",
       fontFamily: "cursive",
+      textShadow: "1px 1px 2px #2D7C66",
     },
 
     videoWrapper: {
@@ -69,8 +70,7 @@ export default function IntroVideo() {
     text: {
       marginTop: "25px", 
       fontSize: "0.95rem",
-      color: "#2D7C66",
-      textShadow: "1px 1px 1px white",
-      
+      color: "white",
+      textShadow: "1px 1px 2px #2D7C66",
     },
   };
