@@ -93,33 +93,33 @@ export default function TruVineHome() {
           { id: "E34gUZGSqIw", title: "Day 1" },
           { id: "G-8rcExz8m8", title: "Day 2" },
           { id: "u_I2AaeJMqU", title: "Day 3" },
-          { id: "hhkafDU0XF0", title: "Day 4" },
-          { id: "hhkafDU0XF0", title: "Day 5" },
-          { id: "hhkafDU0XF0", title: "Day 6" },
-          { id: "hhkafDU0XF0", title: "Day 7" },
-          { id: "hhkafDU0XF0", title: "Day 8" },
-          { id: "hhkafDU0XF0", title: "Day 9" },
-          { id: "hhkafDU0XF0", title: "Day 10" },
-          { id: "hhkafDU0XF0", title: "Day 11" },
-          { id: "hhkafDU0XF0", title: "Day 12" },
-          { id: "hhkafDU0XF0", title: "Day 13" },
-          { id: "hhkafDU0XF0", title: "Day 14" },
-          { id: "hhkafDU0XF0", title: "Day 15" },
-          { id: "hhkafDU0XF0", title: "Day 16" },
-          { id: "hhkafDU0XF0", title: "Day 17" },
-          { id: "hhkafDU0XF0", title: "Day 18" },
-          { id: "hhkafDU0XF0", title: "Day 19" },
-          { id: "hhkafDU0XF0", title: "Day 20" },
-          { id: "hhkafDU0XF0", title: "Day 21" },
-          { id: "hhkafDU0XF0", title: "Day 22" },
-          { id: "hhkafDU0XF0", title: "Day 23" },
-          { id: "hhkafDU0XF0", title: "Day 24" },
-          { id: "hhkafDU0XF0", title: "Day 25" },
-          { id: "hhkafDU0XF0", title: "Day 26" },
-          { id: "hhkafDU0XF0", title: "Day 27" },
-          { id: "hhkafDU0XF0", title: "Day 28" },
-          { id: "hhkafDU0XF0", title: "Day 29" },
-          { id: "hhkafDU0XF0", title: "Day 30" },
+          { id: "zqk8jVaUaak", title: "Day 4" },
+          { id: "FFEPmPc1cR4", title: "Day 5" },
+          { id: "cxTqIEHHVbY", title: "Day 6" },
+          { id: "bfxEPKTwQnM", title: "Day 7" },
+          { id: "w-HbiC6GuVs", title: "Day 8" },
+          { id: "jRu3Ga5SfIU", title: "Day 9" },
+          { id: "xy3jG2aEoQA", title: "Day 10" },
+          { id: "7ZurB-39S0U", title: "Day 11" },
+          { id: "0CbrldUa3WE", title: "Day 12" },
+          { id: "20750sHu5w4", title: "Day 13" },
+          { id: "ZEEdzo0MZyE", title: "Day 14" },
+          { id: "dr7dXeXvrU8", title: "Day 15" },
+          { id: "iY4KhqlolHA", title: "Day 16" },
+          { id: "PvAP6mkK41E", title: "Day 17" },
+          { id: "2EEYAmdcmUg", title: "Day 18" },
+          { id: "3aa-bq37J_E", title: "Day 19" },
+          { id: "mIVR2lap-pA", title: "Day 20" },
+          { id: "LURYV4fGWKs", title: "Day 21" },
+          { id: "h16I2vvDwy4", title: "Day 22" },
+          { id: "e7mw9eoXssg", title: "Day 23" },
+          { id: "FeruNTYt-Ns", title: "Day 24" },
+          { id: "6CHCTHm0coU", title: "Day 25" },
+          { id: "IrJxfK7dT-4", title: "Day 26" },
+          { id: "gEzvkau5Vg8", title: "Day 27" },
+          { id: "iro8Vd-a9Mk", title: "Day 28" },
+          { id: "9lslVQOCBus", title: "Day 29" },
+          { id: "t87uankJvSM", title: "Day 30" },
 
 
 
@@ -127,11 +127,15 @@ export default function TruVineHome() {
       />
 
       <VideoRow
-        title="🙏 Prayer & Encouragement"
+        title="Featured Channel 🙏 Scripture Shorts"
         videos={[
-          { id: "hhkafDU0XF0", title: "Morning Prayer" },
-          { id: "hhkafDU0XF0", title: "Peace in Trials" },
-          { id: "hhkafDU0XF0", title: "Strength in Christ" },
+          { id: "N7VPW9eZ3P4", title: "🌅 SHARE Your Faith!" },
+          { id: "GNeou7j-yzk", title: "I will fear NO Evil. 🦅" },
+          { id: "VqJzcDyS2r0", title: "God got me STILL" },
+          { id: "N7VPW9eZ3P4", title: "🌅 SHARE Your Faith!" },
+          { id: "GNeou7j-yzk", title: "I will fear NO Evil. 🦅" },
+          { id: "VqJzcDyS2r0", title: "God got me STILL" },
+
         ]}
       />
 
@@ -208,7 +212,8 @@ const styles = {
 
   title: {
     fontSize: "2rem",
-    marginBottom: "20rem",
+    marginBottom: "23rem",
+    fontFamily:"cursive",
   },
 
   text: {
