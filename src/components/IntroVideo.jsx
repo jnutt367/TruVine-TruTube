@@ -6,25 +6,19 @@ export default function IntroVideo() {
   return (
     <div style={styles.hero}>
       
-      {/* Background OR Active Video */}
-      {!playWithSound ? (
-        <iframe
-          src="https://www.youtube.com/embed/B0JO8BNRyfE?autoplay=1&mute=1&controls=0&loop=1&playlist=B0JO8BNRyfE"
-          title="Background Video"
-          frameBorder="0"
-          allow="autoplay; encrypted-media"
-          style={styles.video}
-        />
-      ) : (
-        <iframe
-          src="https://www.youtube.com/embed/B0JO8BNRyfE?autoplay=1"
-          title="Main Video"
-          frameBorder="0"
-          allow="autoplay; encrypted-media"
-          allowFullScreen
-          style={styles.video}
-        />
-      )}
+      {/* Video */}
+      <iframe
+        src={
+          playWithSound
+            ? "https://www.youtube.com/embed/B0JO8BNRyfE?autoplay=1"
+            : "https://www.youtube.com/embed/B0JO8BNRyfE?autoplay=1&mute=1&controls=0&loop=1&playlist=B0JO8BNRyfE"
+        }
+        title="Intro Video"
+        frameBorder="0"
+        allow="autoplay; encrypted-media"
+        allowFullScreen
+        style={styles.video}
+      />
 
       {/* Overlay */}
       <div style={styles.overlay} />
@@ -37,16 +31,17 @@ export default function IntroVideo() {
           Explore God’s Word. Grow your faith. Connect with a Christ-centered community.
           TruTUBE is a carefully curated, Christ-led video library designed to help you live out the truth of Jesus daily.
         </p>
-
-        {!playWithSound && (
-          <button
-            style={styles.button}
-            onClick={() => setPlayWithSound(true)}
-          >
-            ▶ Watch with Sound
-          </button>
-        )}
       </div>
+
+      {/* 🔥 Mobile-Safe Button (always visible) */}
+      {!playWithSound && (
+        <button
+          style={styles.button}
+          onClick={() => setPlayWithSound(true)}
+        >
+          ▶ Watch with Sound
+        </button>
+      )}
     </div>
   );
 }
@@ -55,7 +50,8 @@ const styles = {
   hero: {
     position: "relative",
     width: "100%",
-    height: "80vh",
+    height: "70vh", // mobile friendly
+    minHeight: "500px",
     overflow: "hidden",
     color: "white",
   },
@@ -77,37 +73,48 @@ const styles = {
     height: "100%",
     background:
       "linear-gradient(to top, rgba(0,0,0,0.85), rgba(0,0,0,0.4), rgba(0,0,0,0.85))",
+    pointerEvents: "none", // 🔑 ensures button works
   },
 
   content: {
     position: "relative",
     zIndex: 2,
     maxWidth: "700px",
-    padding: "2rem",
-    top: "80%",
-    transform: "translateY(-50%)",
+    padding: "1.5rem",
+    margin: "0 auto",
+    textAlign: "center",
+    top: "40%",
+    transform: "translateY(-40%)",
   },
 
   title: {
-    fontSize: "2.5rem",
+    fontSize: "2.2rem",
     fontWeight: "700",
-    marginBottom: "1rem",
+    marginBottom: "25rem",
+    fontFamily: "cursive",
+    color: "silver",
+    textShodow: "3px 3px 3px solid #447d77",
   },
 
   text: {
-    fontSize: "1.1rem",
+    fontSize: "1rem",
     lineHeight: "1.6",
-    marginBottom: "1.5rem",
-    color: "#e5e5e5",
+    color: "silver",
+    
   },
 
   button: {
-    padding: "0.75rem 1.5rem",
+    position: "absolute",
+    bottom: "25px", // 👈 always visible on mobile
+    left: "50%",
+    transform: "translateX(-50%)",
+    padding: "0.9rem 1.6rem",
     fontSize: "1rem",
     borderRadius: "999px",
     border: "none",
     background: "#2D7C66",
     color: "white",
     cursor: "pointer",
+    zIndex: 3,
   },
 };
