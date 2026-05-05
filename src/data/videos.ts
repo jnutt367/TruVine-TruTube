@@ -11,7 +11,7 @@ export const videos = [
       },
       {
         id: 156,
-        title: "HOLY Spirit 🌅 SHARE Your Faith!",
+        title: " 🌅 SHARE Your Faith!",
         creator: "Jesus' Love Revealed",
         category: "Scripture Shorts (JLR)",
         embed: "https://www.youtube.com/embed/N7VPW9eZ3P4?si=AmpiUd9Y2BhTK20u",
@@ -49,7 +49,7 @@ export const videos = [
       
     {
       id: 118,
-      title: "For I am not ashamed of this good news about Christ 🙏 Romans 1:16",
+      title: "Not ashamed  Romans 1:16",
       creator: "Jesus' Love Revealed",
       category: "Scripture Shorts (JLR)",
       embed: "https://www.youtube.com/embed/UpxQThJMra8?si=AmpiUd9Y2BhTK20u",
@@ -59,7 +59,7 @@ export const videos = [
     
      {
       id: 104,
-      title: "The App called: Jesus' Love Revealed| Trivia & Biblical Timeline. Link is Above Intro Video.",
+      title: "The App: Jesus' Love Revealed",
       creator: "Jesus' Love Revealed",
       category: "Jesus' Love Revealed",
       embed: "https://www.youtube.com/embed/-TZZH5sVdAQ?si=AmpiUd9Y2BhTK20u",
@@ -132,7 +132,7 @@ export const videos = [
                 },
                 {
                   id: 135,
-                  title: "Comment “AMEN” if this was for you🧠🖤 #powarful #philipanthonymitchell",
+                  title: "Comment “AMEN” if this was for you🧠🖤",
                   creator: "POWARFUL",
                   category: "POWARFUL",
                   embed: "https://www.youtube.com/embed/4SOfui_skSY?si=AmpiUd9Y2BhTK20u",
@@ -242,7 +242,7 @@ export const videos = [
         
        {
         id: 109,
-        title: "For all have sinned and fall short of the glory of God.",
+        title: "For all have sinned",
         creator: "Scripture Shorts (JLR)",
         category: "Scripture Shorts (JLR)",
         embed: "https://www.youtube.com/embed/Cv2Lv-ba9Vc?si=AmpiUd9Y2BhTK20u",
