@@ -100,6 +100,7 @@ const styles = {
     fontSize: "1rem",
     lineHeight: "1.6",
     color: "silver",
+    paddingBottom: "5rem", 
     
   },
 
