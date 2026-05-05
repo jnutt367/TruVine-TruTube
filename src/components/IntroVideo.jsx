@@ -7,8 +7,8 @@ export default function IntroVideo() {
        <h2 style={styles.title}>Welcome to the Vine</h2>
           <div style={styles.videoWrapper}>
             <iframe
-              src="https://www.youtube.com/embed/n8jOYOfD5Oo"
-              title="THE KING IS COMING"
+              src="https://www.youtube.com/embed/B0JO8BNRyfE"
+              title="The harvest is GREAT 🌾👨‍🌾👩‍🌾"
               frameBorder="0"
               allowFullScreen
               allow="autoplay; encrypted-media"
@@ -69,8 +69,8 @@ export default function IntroVideo() {
     text: {
       marginTop: "25px", 
       fontSize: "0.95rem",
-      color: "gold",
-      textShadow: "1px 0.2px 0.2px gold",
+      color: "black",
+      textShadow: "1px 0.2px 0.2px white",
       
     },
   };
