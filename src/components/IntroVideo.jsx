@@ -1,76 +1,113 @@
-// components/IntroVideo.jsx
+import { useState } from "react";
 
 export default function IntroVideo() {
-    return (
-      <div style={styles.container}>
-        <div style={styles.content}>
-       <h2 style={styles.title}>Welcome to the Vine</h2>
-          <div style={styles.videoWrapper}>
-            <iframe
-              src="https://www.youtube.com/embed/B0JO8BNRyfE"
-              title="The harvest is GREAT 🌾👨‍🌾👩‍🌾"
-              frameBorder="0"
-              allowFullScreen
-              allow="autoplay; encrypted-media"
-              style={styles.iframe}
-            />
-        
-          </div>
-  
-          <p style={styles.text}>
-          Explore God’s Word. Grow your faith.
-           Connect with a Christ-centered community. 
-           TruTUBE is a carefully curated, Christ-led video library designed to help you live out the truth of Jesus daily.
-          </p>
-        </div>
-      </div>
-    );
-  }
-  
-  const styles = {
-    container: {
-      backgroundColor: "black",
-      padding: "2rem 1rem",
-      display: "flex",
-      justifyContent: "center",
-      color: "white",
-    },
-    content: {
-      maxWidth: "700px",
-      width: "100%",
-      textAlign: "center",
+  const [playWithSound, setPlayWithSound] = useState(false);
+
+  return (
+    <div style={styles.hero}>
       
-    },
-    title: {
-      color: "white",
-      marginBottom: "1rem",
-      fontSize: "1.5rem",
-      fontFamily: "cursive",
-      textShadow: "1px 1px 2px #2D7C66",
-    },
+      {/* Background OR Active Video */}
+      {!playWithSound ? (
+        <iframe
+          src="https://www.youtube.com/embed/B0JO8BNRyfE?autoplay=1&mute=1&controls=0&loop=1&playlist=B0JO8BNRyfE"
+          title="Background Video"
+          frameBorder="0"
+          allow="autoplay; encrypted-media"
+          style={styles.video}
+        />
+      ) : (
+        <iframe
+          src="https://www.youtube.com/embed/B0JO8BNRyfE?autoplay=1"
+          title="Main Video"
+          frameBorder="0"
+          allow="autoplay; encrypted-media"
+          allowFullScreen
+          style={styles.video}
+        />
+      )}
 
-    videoWrapper: {
-        position: "relative",
-        width: "90%",          // 👈 add this
-        maxWidth: "300px",      // 👈 add this (controls size)
-        margin: "0 auto",       // 👈 centers it
-        paddingBottom: "20%", // keep this (9:16 ratio)
-        height: "300px",
-        overflow: "hidden",
-        borderRadius: "16px",
-      },
+      {/* Overlay */}
+      <div style={styles.overlay} />
 
-    iframe: {
-      position: "absolute",
-      top: 0,
-      left: 0,
-      width: "100%",
-      height: "100%",
-    },
-    text: {
-      marginTop: "25px", 
-      fontSize: "0.95rem",
-      color: "white",
-      textShadow: "1px 1px 2px #2D7C66",
-    },
-  };
+      {/* Content */}
+      <div style={styles.content}>
+        <h1 style={styles.title}>Welcome to the Vine</h1>
+
+        <p style={styles.text}>
+          Explore God’s Word. Grow your faith. Connect with a Christ-centered community.
+          TruTUBE is a carefully curated, Christ-led video library designed to help you live out the truth of Jesus daily.
+        </p>
+
+        {!playWithSound && (
+          <button
+            style={styles.button}
+            onClick={() => setPlayWithSound(true)}
+          >
+            ▶ Watch with Sound
+          </button>
+        )}
+      </div>
+    </div>
+  );
+}
+
+const styles = {
+  hero: {
+    position: "relative",
+    width: "100%",
+    height: "80vh",
+    overflow: "hidden",
+    color: "white",
+  },
+
+  video: {
+    position: "absolute",
+    top: "50%",
+    left: "50%",
+    width: "120%",
+    height: "120%",
+    transform: "translate(-50%, -50%)",
+  },
+
+  overlay: {
+    position: "absolute",
+    top: 0,
+    left: 0,
+    width: "100%",
+    height: "100%",
+    background:
+      "linear-gradient(to top, rgba(0,0,0,0.85), rgba(0,0,0,0.4), rgba(0,0,0,0.85))",
+  },
+
+  content: {
+    position: "relative",
+    zIndex: 2,
+    maxWidth: "700px",
+    padding: "2rem",
+    top: "80%",
+    transform: "translateY(-50%)",
+  },
+
+  title: {
+    fontSize: "2.5rem",
+    fontWeight: "700",
+    marginBottom: "1rem",
+  },
+
+  text: {
+    fontSize: "1.1rem",
+    lineHeight: "1.6",
+    marginBottom: "1.5rem",
+    color: "#e5e5e5",
+  },
+
+  button: {
+    padding: "0.75rem 1.5rem",
+    fontSize: "1rem",
+    borderRadius: "999px",
+    border: "none",
+    background: "#2D7C66",
+    color: "white",
+    cursor: "pointer",
+  },
+};
