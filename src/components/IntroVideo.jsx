@@ -18,8 +18,9 @@ export default function IntroVideo() {
           </div>
   
           <p style={styles.text}>
-            A place to explore God’s Word, grow in your faith, and be part of a
-            connected community centered on Jesus Christ. Check out the, all Christ leading, TruTUBE experience!
+          Explore God’s Word. Grow your faith.
+           Connect with a Christ-centered community. 
+           TruTUBE is a carefully curated, Christ-led video library designed to help you live out the truth of Jesus daily.
           </p>
         </div>
       </div>
