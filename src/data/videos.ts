@@ -182,9 +182,55 @@ export const videos = [
             thumbnail: `https://img.youtube.com/vi/YMTR7M33eIQ/hqdefault.jpg`,
             },
 
+            {
+              id: 157,
+              title: "“Dam” = the liquid essence of a human’s life.",
+              creator: "The Bible Project",
+              category: "The Bible Project Hebrew Words",
+              embed: "https://www.youtube.com/embed/QnrkerkrC_c?si=AmpiUd9Y2BhTK20u",
+              thumbnail: `https://img.youtube.com/vi/QnrkerkrC_c/hqdefault.jpg`,
+              },
+
+              {
+                id: 158,
+                title: "This Biblical Hebrew Word Refers to Redeeming Family",
+                creator: "The Bible Project",
+                category: "The Bible Project Hebrew Words",
+                embed: "https://www.youtube.com/embed/bXqQZiPmuEQ?si=AmpiUd9Y2BhTK20u",
+                thumbnail: `https://img.youtube.com/vi/bXqQZiPmuEQ/hqdefault.jpg`,
+                },
+
+                {
+                  id: 159,
+                  title: "This Biblical Word Can Mean 'Ransom' or 'Redemption'",
+                  creator: "The Bible Project",
+                  category: "The Bible Project Hebrew Words",
+                  embed: "https://www.youtube.com/embed/wtp_zCElBaw?si=AmpiUd9Y2BhTK20u",
+                  thumbnail: `https://img.youtube.com/vi/wtp_zCElBaw/hqdefault.jpg`,
+                  },
+                  {
+                    id: 160,
+                    title: "This Hebrew Word Describes the Wilderness",
+                    creator: "The Bible Project",
+                    category: "The Bible Project Hebrew Words",
+                    embed: "https://www.youtube.com/embed/cvEdmYKN8VE?si=AmpiUd9Y2BhTK20u",
+                    thumbnail: `https://img.youtube.com/vi/cvEdmYKN8VE/hqdefault.jpg`,
+                    },   
+                    {
+                    id: 161,
+                    title: "JESUS GAVE THE HOLY SPIRIT A PRONOUN (HE!)",
+                    creator: "POWERFUL",
+                    category: "POWERFUL",
+                    embed: "https://www.youtube.com/embed/Y7t5ZjzgxU0?si=AmpiUd9Y2BhTK20u",
+                    thumbnail: `https://img.youtube.com/vi/Y7t5ZjzgxU0/hqdefault.jpg`,
+                    },   
+
+
+                    
+
         {
           id: 115,
-          title: "Why this Hebrew Word Can Mean Something Good – or Something Terrible",
+          title: "Why this Hebrew Word Can Mean Something Good – or Terrible",
           creator: "The Bible Project",
           category: "The Bible Project Hebrew Words",
           embed: "https://www.youtube.com/embed/hhkafDU0XF0?si=AmpiUd9Y2BhTK20u",
@@ -1448,3 +1494,4 @@ export const videos = [
                             },
 
                                        ];
+
