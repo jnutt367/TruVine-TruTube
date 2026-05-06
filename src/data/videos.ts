@@ -28,6 +28,51 @@ export const videos = [
         embed: "https://www.youtube.com/embed/GNeou7j-yzk?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/GNeou7j-yzk/hqdefault.jpg`,
        },
+       {
+        id: 161,
+        title: "He will become the Secret of the Meaning",
+        creator: "FaithOverFearJC",
+        category: "FaithOverFearJC",
+        embed: "https://www.youtube.com/embed/9Oz-uCQ6fOA",
+        thumbnail: "https://img.youtube.com/vi/9Oz-uCQ6fOA/hqdefault.jpg",
+      },
+      {
+        id: 162,
+        title: "It Might Have been Sent by God",
+        creator: "FaithOverFearJC",
+        category: "FaithOverFearJC",
+        embed: "https://www.youtube.com/embed/1V-EvG3YQ5c",
+        thumbnail: "https://img.youtube.com/vi/1V-EvG3YQ5c/hqdefault.jpg",
+      },
+
+      {
+        id: 163,
+        title: "Jesus is the Way",
+        creator: "FaithOverFearJC",
+        category: "FaithOverFearJC",
+        embed: "https://www.youtube.com/embed/i03wovacXUQ",
+        thumbnail: "https://img.youtube.com/vi/i03wovacXUQ/hqdefault.jpg",
+      },
+      
+      {
+        id: 164,
+        title: "The Ultimate Solution, Jesus Christ",
+        creator: "FaithOverFearJC",
+        category: "FaithOverFearJC",
+        embed: "https://www.youtube.com/embed/m8njnhcaeOQ",
+        thumbnail: "https://img.youtube.com/vi/m8njnhcaeOQ/hqdefault.jpg",
+      },
+      {
+        id: 165,
+        title: "We Have a Choice!",
+        creator: "FaithOverFearJC",
+        category: "FaithOverFearJC",
+        embed: "https://www.youtube.com/embed/bbm6eDFRHlE",
+        thumbnail: "https://img.youtube.com/vi/bbm6eDFRHlE/hqdefault.jpg",
+      },
+
+
+
 
 
       {
@@ -324,11 +369,11 @@ export const videos = [
 
      {
       id: 105,
-      title: "'Jesus is NOT a white man, like me.'",
-      creator: "Paul Bernard II",
-      category: "Paul Bernard II",
-      embed: "https://www.youtube.com/embed/JQVgK5ekSSI?si=AmpiUd9Y2BhTK20u",
-      thumbnail: `https://img.youtube.com/vi/JQVgK5ekSSI/hqdefault.jpg`,
+      title: "He Satisfies the Deepest Yearnings of OUR Heart",
+      creator: "FaithOverFearJC",
+      category: "FaithOverFearJC",
+      embed: "https://www.youtube.com/embed/2Rh4LJdBzBY?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/2Rh4LJdBzBY/hqdefault.jpg`,
      },
 
      {
@@ -1508,11 +1553,7 @@ export const videos = [
                               embed: "https://www.youtube.com/embed/pyYerDuS90Y",
                               thumbnail: "https://img.youtube.com/vi/pyYerDuS90Y/hqdefault.jpg",
                             },
+ 
 
-
-                            
-
-
+                           
                                        ];
-
-
