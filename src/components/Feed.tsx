@@ -97,12 +97,12 @@ export default function Feed({ user }: { user: string }) {
     <div className="space-y-6">
 <input
   className="w-full p-3 mb-4 max-w-96 bg-emerald-100 text-black"
-  placeholder="🕵🏻‍♂️ SEARCH VIDEOS..."
+  placeholder="🕵🏻‍♂️ 🕵🏿‍♀️   SEARCH VIDEOS ...  🕵🏾‍♂️ 🕵🏻‍♀️"
   value={query}
   onChange={(e) => setQuery(e.target.value)}
 />
       {/* CREATE BOX */}
-      <h2 className="text-emerald-600 font-bold mt-6 mb-2 text-shadow-lg">
+      <h2 className="text-emerald-700 font-bold mt-6 mb-2 text-shadow-lg">
         <span className="text-3xl"> 🎥   TruTUBE</span>    Videos/Library 
 </h2>
 
@@ -142,7 +142,7 @@ export default function Feed({ user }: { user: string }) {
         </div>
 
         <textarea
-          className="w-full bg-emerald-700 text-white  p-4 rounded-xl mb-4"
+          className="w-full bg-emerald-900 text-white  p-4 rounded-xl mb-4"
           rows={3}
           placeholder="📝  What is God speaking to you? 💌  " 
           value={input}
