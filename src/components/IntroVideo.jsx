@@ -55,7 +55,7 @@ export default function TruVineHome() {
 
         <div style={styles.playerWrapper}>
           <iframe
-            src="https://www.youtube.com/embed/rh5YzcTMRqg?rel=0"
+            src="https://www.youtube.com/embed/12eUSzd0MFc?rel=0"
             title="Featured Video"
             frameBorder="0"
             allowFullScreen
