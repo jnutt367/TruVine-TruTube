@@ -20,7 +20,7 @@ export default function TruVineHome() {
       {/* ================= HERO ================= */}
       <div style={styles.hero}>
         <iframe
-          src="https://www.youtube.com/embed/ebE5i9Fcq9Y?autoplay=1&mute=1&controls=0&loop=1&playlist=ebE5i9Fcq9Y&rel=0&modestbranding=1"
+          src="https://www.youtube.com/embed/XHudUcHHP_k?autoplay=1&mute=1&controls=0&loop=1&playlist=XHudUcHHP_k&rel=0&modestbranding=1"
           title="TruVine Intro"
           frameBorder="0"
           allow="autoplay; encrypted-media"
@@ -55,7 +55,7 @@ export default function TruVineHome() {
 
         <div style={styles.playerWrapper}>
           <iframe
-            src="https://www.youtube.com/embed/qxZ6b9NNsYw?rel=0"
+            src="https://www.youtube.com/embed/nyTl56R-qPQ?rel=0"
             title="Featured Video"
             frameBorder="0"
             allowFullScreen
