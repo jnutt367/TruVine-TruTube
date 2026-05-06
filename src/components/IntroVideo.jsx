@@ -38,10 +38,10 @@ export default function TruVineHome() {
 
           <p style={styles.subtext}>Scroll to begin your journey</p>
         </div>
-
-        <div style={styles.fadeBottom} />
+<div style={styles.fadeBottom} />
+       
       </div>
-
+      
       {/* ================= FEATURED PLAYER ================= */}
       <div
         ref={playerRef}
@@ -62,12 +62,12 @@ export default function TruVineHome() {
             style={styles.player}
           />
         </div>
-           
+        
         <p style={styles.caption}>
           Full controls enabled — watch at your pace.
         </p>
       </div>
-
+     
       {/* ================= NETFLIX ROWS ================= */}
 
 
@@ -147,7 +147,7 @@ const styles = {
     width: "100%",
     height: "160px",
     background:
-      "linear-gradient(to bottom, transparent, rgba(0,0,0,1))",
+      "linear-gradient(to bottom, transparent, rgba(0, 0 ,0, 0.9))",
   },
 
   /* FEATURED PLAYER */
