@@ -20,7 +20,7 @@ export default function TruVineHome() {
       {/* ================= HERO ================= */}
       <div style={styles.hero}>
         <iframe
-          src="https://www.youtube.com/embed/VEnnNoKbInM?autoplay=1&mute=1&controls=0&loop=1&playlist=VEnnNoKbInM&rel=0&modestbranding=1"
+          src="https://www.youtube.com/embed/ebE5i9Fcq9Y?autoplay=1&mute=1&controls=0&loop=1&playlist=ebE5i9Fcq9Y&rel=0&modestbranding=1"
           title="TruVine Intro"
           frameBorder="0"
           allow="autoplay; encrypted-media"
