@@ -30,7 +30,7 @@ export default function TruVineHome() {
         <div style={styles.overlay} />
 
         <div style={styles.heroContent}>
-          <h1 style={styles.title}>Welcome to TruVine</h1>
+        <h1 style={styles.title}>Welcome to TruVine</h1>
 
           <p style={styles.text}>
             Explore God’s Word, grow in your faith, and connect with a Christ-centered community.
@@ -125,14 +125,14 @@ const styles = {
 
   title: {
     fontSize: "2rem",
-    marginBottom: "32rem",
+    marginTop: "25rem",
     fontFamily:"cursive",
     background: "linear-gradient(to top, transparent, #2D7C66, transparent)",
     zIndex: 10,
   },
 
   text: {
-    marginTop: "10rem",
+    marginTop: "0rem",
     fontSize: "1rem",
     opacity: 0.9,
   },
