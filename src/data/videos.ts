@@ -1,5 +1,62 @@
 export const videos = [
     
+
+
+
+
+    {
+      id: 114,
+      title: "This Hebrew Word Is Translated as “Sign”",
+      creator: "The Bible Project",
+      category: "The Bible Project Hebrew Words",
+      embed: "https://www.youtube.com/embed/YMTR7M33eIQ?si=AmpiUd9Y2BhTK20u",
+      thumbnail: `https://img.youtube.com/vi/YMTR7M33eIQ/hqdefault.jpg`,
+      },
+
+      {
+        id: 155,
+        title: "I will fear NO Evil. 🦅",
+        creator: "Jesus' Love Revealed",
+        category: "Scripture Shorts (JLR)",
+        embed: "https://www.youtube.com/embed/GNeou7j-yzk?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/GNeou7j-yzk/hqdefault.jpg`,
+       },
+
+
+      {
+        id: 157,
+        title: "“Dam” = the liquid essence of a human’s life.",
+        creator: "The Bible Project",
+        category: "The Bible Project Hebrew Words",
+        embed: "https://www.youtube.com/embed/QnrkerkrC_c?si=AmpiUd9Y2BhTK20u",
+        thumbnail: `https://img.youtube.com/vi/QnrkerkrC_c/hqdefault.jpg`,
+        },
+
+        {
+          id: 158,
+          title: "This Biblical Hebrew Word Refers to Redeeming Family",
+          creator: "The Bible Project",
+          category: "The Bible Project Hebrew Words",
+          embed: "https://www.youtube.com/embed/bXqQZiPmuEQ?si=AmpiUd9Y2BhTK20u",
+          thumbnail: `https://img.youtube.com/vi/bXqQZiPmuEQ/hqdefault.jpg`,
+          },
+
+          {
+            id: 159,
+            title: "This Biblical Word Can Mean 'Ransom' or 'Redemption'",
+            creator: "The Bible Project",
+            category: "The Bible Project Hebrew Words",
+            embed: "https://www.youtube.com/embed/wtp_zCElBaw?si=AmpiUd9Y2BhTK20u",
+            thumbnail: `https://img.youtube.com/vi/wtp_zCElBaw/hqdefault.jpg`,
+            },
+            {
+              id: 160,
+              title: "This Hebrew Word Describes the Wilderness",
+              creator: "The Bible Project",
+              category: "The Bible Project Hebrew Words",
+              embed: "https://www.youtube.com/embed/cvEdmYKN8VE?si=AmpiUd9Y2BhTK20u",
+              thumbnail: `https://img.youtube.com/vi/cvEdmYKN8VE/hqdefault.jpg`,
+              },   
    
     {
       id: 81,
@@ -18,15 +75,7 @@ export const videos = [
         thumbnail: `https://img.youtube.com/vi/N7VPW9eZ3P4/hqdefault.jpg`,
         
        },
-       {
-        id: 155,
-        title: "I will fear NO Evil. 🦅",
-        creator: "Jesus' Love Revealed",
-        category: "Scripture Shorts (JLR)",
-        embed: "https://www.youtube.com/embed/GNeou7j-yzk?si=AmpiUd9Y2BhTK20u",
-        thumbnail: `https://img.youtube.com/vi/GNeou7j-yzk/hqdefault.jpg`,
-       },
-
+      
        {
         id: 157,
         title: "God Got me STILL",
@@ -173,50 +222,8 @@ export const videos = [
           thumbnail: `https://img.youtube.com/vi/JGI8nNVkZpA/hqdefault.jpg`,
           },
 
-          {
-            id: 114,
-            title: "This Hebrew Word Is Translated as “Sign”",
-            creator: "The Bible Project",
-            category: "The Bible Project Hebrew Words",
-            embed: "https://www.youtube.com/embed/YMTR7M33eIQ?si=AmpiUd9Y2BhTK20u",
-            thumbnail: `https://img.youtube.com/vi/YMTR7M33eIQ/hqdefault.jpg`,
-            },
-
-            {
-              id: 157,
-              title: "“Dam” = the liquid essence of a human’s life.",
-              creator: "The Bible Project",
-              category: "The Bible Project Hebrew Words",
-              embed: "https://www.youtube.com/embed/QnrkerkrC_c?si=AmpiUd9Y2BhTK20u",
-              thumbnail: `https://img.youtube.com/vi/QnrkerkrC_c/hqdefault.jpg`,
-              },
-
-              {
-                id: 158,
-                title: "This Biblical Hebrew Word Refers to Redeeming Family",
-                creator: "The Bible Project",
-                category: "The Bible Project Hebrew Words",
-                embed: "https://www.youtube.com/embed/bXqQZiPmuEQ?si=AmpiUd9Y2BhTK20u",
-                thumbnail: `https://img.youtube.com/vi/bXqQZiPmuEQ/hqdefault.jpg`,
-                },
-
-                {
-                  id: 159,
-                  title: "This Biblical Word Can Mean 'Ransom' or 'Redemption'",
-                  creator: "The Bible Project",
-                  category: "The Bible Project Hebrew Words",
-                  embed: "https://www.youtube.com/embed/wtp_zCElBaw?si=AmpiUd9Y2BhTK20u",
-                  thumbnail: `https://img.youtube.com/vi/wtp_zCElBaw/hqdefault.jpg`,
-                  },
-                  {
-                    id: 160,
-                    title: "This Hebrew Word Describes the Wilderness",
-                    creator: "The Bible Project",
-                    category: "The Bible Project Hebrew Words",
-                    embed: "https://www.youtube.com/embed/cvEdmYKN8VE?si=AmpiUd9Y2BhTK20u",
-                    thumbnail: `https://img.youtube.com/vi/cvEdmYKN8VE/hqdefault.jpg`,
-                    },   
-                        {
+         
+                    {
                     id: 161,
                     title: "JESUS GAVE THE HOLY SPIRIT A PRONOUN (HE!)",
                     creator: "POWARFUL",
@@ -224,7 +231,7 @@ export const videos = [
                     embed: "https://www.youtube.com/embed/Y7t5ZjzgxU0?si=AmpiUd9Y2BhTK20u",
                     thumbnail: `https://img.youtube.com/vi/Y7t5ZjzgxU0/hqdefault.jpg`,
                     },   
-
+      
 
                     
 
@@ -1494,4 +1501,5 @@ export const videos = [
                             },
 
                                        ];
+
 
