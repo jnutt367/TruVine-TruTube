@@ -38,7 +38,8 @@ export default function EcosystemSection() {
   
   const styles = {
     wrapper: {
-      background: "black",
+      background:
+      "linear-gradient(to top, #2D7C66, transparent, transparent)",
       padding: "1.5rem 1rem",
       textAlign: "center",
       opacity: 0.9,
