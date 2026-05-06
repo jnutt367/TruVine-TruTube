@@ -20,7 +20,7 @@ export default function TruVineHome() {
       {/* ================= HERO ================= */}
       <div style={styles.hero}>
         <iframe
-          src="https://www.youtube.com/embed/nc5l4qszYw4?autoplay=1&mute=1&controls=0&loop=1&playlist=nc5l4qszYw4&rel=0&modestbranding=1"
+          src="https://www.youtube.com/embed/fkzOt3aHUY8?autoplay=1&mute=1&controls=0&loop=1&playlist=fkzOt3aHUY8&rel=0&modestbranding=1"
           title="TruVine Intro"
           frameBorder="0"
           allow="autoplay; encrypted-media"
@@ -55,7 +55,7 @@ export default function TruVineHome() {
 
         <div style={styles.playerWrapper}>
           <iframe
-            src="https://www.youtube.com/embed/fkzOt3aHUY8?rel=0"
+            src="https://www.youtube.com/embed/BQT4iw5r54M?rel=0"
             title="Abide in the VINE"
             frameBorder="0"
             allowFullScreen
@@ -125,8 +125,9 @@ const styles = {
 
   title: {
     fontSize: "2rem",
-    marginBottom: "23rem",
+    marginBottom: "32rem",
     fontFamily:"cursive",
+    background: "linear-gradient(to top, transparent, #2D7C66, transparent)",
   },
 
   text: {
