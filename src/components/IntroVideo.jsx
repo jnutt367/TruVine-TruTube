@@ -51,12 +51,12 @@ export default function TruVineHome() {
           transform: visible ? "translateY(0)" : "translateY(40px)",
         }}
       >
-        <h2 style={styles.sectionTitle}>Featured Video</h2>
+        <h2 style={styles.sectionTitle}>Abide in the VINE</h2>
 
         <div style={styles.playerWrapper}>
           <iframe
             src="https://www.youtube.com/embed/fkzOt3aHUY8?rel=0"
-            title="Featured Video"
+            title="Abide in the VINE"
             frameBorder="0"
             allowFullScreen
             style={styles.player}
@@ -110,7 +110,7 @@ const styles = {
     position: "absolute",
     inset: 0,
     background:
-      "linear-gradient(to top, rgba(0,0,0,0.9), rgba(0,0,0,0.3), rgba(0,0,0,0.9))",
+      "linear-gradient(to top, green, transparent, transparent)",
     pointerEvents: "none",
   },
 
