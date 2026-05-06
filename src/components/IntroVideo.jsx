@@ -110,7 +110,7 @@ const styles = {
     position: "absolute",
     inset: 0,
     background:
-      "linear-gradient(to top, green, transparent, transparent)",
+      "linear-gradient(to top, #2D7C66, transparent, transparent)",
     pointerEvents: "none",
   },
 
