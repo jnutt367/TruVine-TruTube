@@ -128,6 +128,7 @@ const styles = {
     marginBottom: "32rem",
     fontFamily:"cursive",
     background: "linear-gradient(to top, transparent, #2D7C66, transparent)",
+    zIndex: 10,
   },
 
   text: {
