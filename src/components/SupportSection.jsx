@@ -7,11 +7,11 @@ export default function SupportSection() {
           <p style={styles.title}>Support the Mission 🤍</p>
   
           <p style={styles.text}>
-            If this content has encouraged you, you are welcome to support me here.
+            If this content has encouraged you, you are welcome to support the mission.
           </p>
   
           <p style={styles.subtext}>
-            I also work fulltime, so every contribution helps free time and assets for spreading the word & building things like this🕊 Thanks!
+            Every contribution helps spread Jesus hope and love.
           </p>
   
           <div style={styles.links}>
@@ -42,7 +42,8 @@ export default function SupportSection() {
     card: {
       maxWidth: "500px",
       width: "100%",
-      background: "white",
+      background:
+      "linear-gradient(to top, #2D7C66, transparent, transparent)",
       borderRadius: "20px",
       padding: "2rem",
       textAlign: "center",
@@ -62,7 +63,7 @@ export default function SupportSection() {
     },
     subtext: {
       fontSize: "0.85rem",
-      color: "green",
+      color: "white",
       marginBottom: "1.5rem",
     },
     links: {
