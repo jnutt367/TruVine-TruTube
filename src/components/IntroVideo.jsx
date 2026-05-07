@@ -55,7 +55,7 @@ export default function TruVineHome() {
 
         <div style={styles.playerWrapper}>
           <iframe
-            src="https://www.youtube.com/embed/BQT4iw5r54M?rel=0"
+            src="https://www.youtube.com/embed/SvtIMvg_hS0?rel=0"
             title="Abide in the VINE"
             frameBorder="0"
             allowFullScreen
@@ -64,7 +64,7 @@ export default function TruVineHome() {
         </div>
         
         <p style={styles.caption}>
-          Full controls enabled — watch at your pace.
+          Full Controls Enabled — Watch More Carefully Curated Christian Videos Below the Support Icons!
         </p>
       </div>
      
