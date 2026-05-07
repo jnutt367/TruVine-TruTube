@@ -28,6 +28,99 @@ export const videos = [
         embed: "https://www.youtube.com/embed/GNeou7j-yzk?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/GNeou7j-yzk/hqdefault.jpg`,
        },
+
+       {
+        id: 166,
+        title: "David and Goliath | Animated Bible Movie",
+        creator: "Bible In a Nutshell",
+        category: "Bible In a Nutshell",
+        embed: "https://www.youtube.com/embed/qtGSUNfwXds",
+        thumbnail: "https://img.youtube.com/vi/qtGSUNfwXds/hqdefault.jpg",
+      },
+
+      {
+        id: 167,
+        title: "Jesus Parables: The Prodigal Son | Animated Bible Movie",
+        creator: "Bible In a Nutshell",
+        category: "Bible In a Nutshell",
+        embed: "https://www.youtube.com/embed/QUuq0m2dzTM",
+        thumbnail: "https://img.youtube.com/vi/QUuq0m2dzTM/hqdefault.jpg",
+      },
+      {
+        id: 168,
+        title: "The Birth of Jesus Christ | Animated Bible Movie",
+        creator: "Bible In a Nutshell",
+        category: "Bible In a Nutshell",
+        embed: "https://www.youtube.com/embed/bzp0HT6kLUY",
+        thumbnail: "https://img.youtube.com/vi/bzp0HT6kLUY/hqdefault.jpg",
+      },
+
+      {
+        id: 169,
+        title: "10 Animated Bible Stories",
+        creator: "Bible In a Nutshell",
+        category: "Bible In a Nutshell",
+        embed: "https://www.youtube.com/embed/93HFq8wGkts",
+        thumbnail: "https://img.youtube.com/vi/93HFq8wGkts/hqdefault.jpg",
+      },
+      {
+        id: 170,
+        title: "7 More Animated Bible Stories",
+        creator: "Bible In a Nutshell",
+        category: "Bible In a Nutshell",
+        embed: "https://www.youtube.com/embed/ohKjikxHYAU",
+        thumbnail: "https://img.youtube.com/vi/ohKjikxHYAU/hqdefault.jpg",
+      },
+
+      {
+        id: 171,
+        title: "10 More Animated Bible Stories",
+        creator: "Bible In a Nutshell",
+        category: "Bible In a Nutshell",
+        embed: "https://www.youtube.com/embed/HJVnPUX_F04",
+        thumbnail: "https://img.youtube.com/vi/HJVnPUX_F04/hqdefault.jpg",
+      },
+      {
+        id: 172,
+        title: "Jacob and Laban | AI Animation",
+        creator: "Bible In a Nutshell",
+        category: "Bible In a Nutshell",
+        embed: "https://www.youtube.com/embed/3NNCpnvv1UM",
+        thumbnail: "https://img.youtube.com/vi/3NNCpnvv1UM/hqdefault.jpg",
+      },
+
+      {
+        id: 173,
+        title: "10 Miracles of Jesus Christ | AI Animation",
+        creator: "Bible In a Nutshell",
+        category: "Bible In a Nutshell",
+        embed: "https://www.youtube.com/embed/SvtIMvg_hS0",
+        thumbnail: "https://img.youtube.com/vi/SvtIMvg_hS0/hqdefault.jpg",
+      },
+
+      {
+        id: 174,
+        title: "",
+        creator: "Bible In a Nutshell",
+        category: "Bible In a Nutshell",
+        embed: "https://www.youtube.com/embed/qtGSUNfwXds",
+        thumbnail: "https://img.youtube.com/vi/qtGSUNfwXds/hqdefault.jpg",
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
        {
         id: 161,
         title: "He will become the Secret of the Meaning",
@@ -1553,7 +1646,8 @@ export const videos = [
                               embed: "https://www.youtube.com/embed/pyYerDuS90Y",
                               thumbnail: "https://img.youtube.com/vi/pyYerDuS90Y/hqdefault.jpg",
                             },
- 
+
+                           
 
                            
                                        ];
