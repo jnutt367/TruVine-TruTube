@@ -52,7 +52,7 @@ export default function Home() {
       <br></br>
       <Feed user={user} />
       
-      <SupportIcons />
+     
       <EcosystemSection />
       
       <SupportSection />
