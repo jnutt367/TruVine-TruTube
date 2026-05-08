@@ -55,7 +55,7 @@ export default function TruVineHome() {
 
         <div style={styles.playerWrapper}>
           <iframe
-            src="https://www.youtube.com/embed/SvtIMvg_hS0?rel=0"
+            src="https://www.youtube.com/embed/SvtIMvg_hS0?autoplay=1&mute=1&controls=0&loop=1"
             title="Abide in the VINE"
             frameBorder="0"
             allowFullScreen
