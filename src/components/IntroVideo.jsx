@@ -30,7 +30,7 @@ export default function TruVineHome() {
         <div style={styles.overlay} />
 
         <div style={styles.heroContent}>
-        <h1 style={styles.title}>Welcome to TruVine</h1>
+       
 
           <p style={styles.text}>
             Explore God’s Word, grow in your faith, and connect with a Christ-centered community.
@@ -132,7 +132,7 @@ const styles = {
   },
 
   text: {
-    marginTop: "0rem",
+    marginTop: "30rem",
     fontSize: "1rem",
     opacity: 0.9,
   },
