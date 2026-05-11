@@ -4,8 +4,8 @@ export const videos = [
     {
       id: 170,
       title: "Old Testament Summary: A Complete Animated Overview",
-      creator: "The Bible Project | The Bible in Chronological Order: The Torah",
-      category: "The Bible Project | The Bible in Chronological Order: The Torah",
+      creator: "The Bible Project | The Bible in Chronological Order: The Torah: the Five Books of Moses or the Pentateuch",
+      category: "The Bible Project | The Bible in Chronological Order: The Torah: the Five Books of Moses or the Pentateuch",
       embed: "https://www.youtube.com/embed/ALsluAKBZ-c?si=AmpiUd9Y2BhTK20u",
       thumbnail: `https://img.youtube.com/vi/ALsluAKBZ-c/hqdefault.jpg`,
       },
@@ -14,16 +14,16 @@ export const videos = [
     {
       id: 167,
       title: "Book of Genesis Summary: A Complete Animated Overview (Part 1)",
-      creator: "The Bible Project | The Bible in Chronological Order: The Torah",
-      category: "The Bible Project | The Bible in Chronological Order: The Torah",
+      creator: "The Bible Project | The Bible in Chronological Order: The Torah: the Five Books of Moses or the Pentateuch",
+      category: "The Bible Project | The Bible in Chronological Order: The Torah: the Five Books of Moses or the Pentateuch",
       embed: "https://www.youtube.com/embed/GQI72THyO5I?si=AmpiUd9Y2BhTK20u",
       thumbnail: `https://img.youtube.com/vi/GQI72THyO5I/hqdefault.jpg`,
       },
       {
         id: 168,
         title: "Book of Genesis Summary: A Complete Animated Overview (Part 2)",
-        creator: "The Bible Project | The Bible in Chronological Order: The Torah",
-        category: "The Bible Project | The Bible in Chronological Order: The Torah",
+        creator: "The Bible Project | The Bible in Chronological Order: The Torah: the Five Books of Moses or the Pentateuch",
+        category: "The Bible Project | The Bible in Chronological Order: The Torah: the Five Books of Moses or the Pentateuch",
         embed: "https://www.youtube.com/embed/F4isSyennFo?si=AmpiUd9Y2BhTK20u",
         thumbnail: `https://img.youtube.com/vi/F4isSyennFo/hqdefault.jpg`,
         },
@@ -31,8 +31,8 @@ export const videos = [
         {
           id: 169,
           title: "The Book of Job's Wisdom on How God Runs the World",
-          creator: "The Bible Project | The Bible in Chronological Order: The Torah",
-          category: "The Bible Project | The Bible in Chronological Order: The Torah",
+          creator: "The Bible Project | The Bible Project",
+          category: "The Bible Project | The Bible Project",
           embed: "https://www.youtube.com/embed/GswSg2ohqmA?si=AmpiUd9Y2BhTK20u",
           thumbnail: `https://img.youtube.com/vi/GswSg2ohqmA/hqdefault.jpg`,
           },
@@ -41,8 +41,8 @@ export const videos = [
             {
               id: 171,
               title: "Book of Exodus Summary: A Complete Animated Overview (Part 1)",
-              creator: "The Bible Project | The Bible in Chronological Order: The Torah",
-              category: "The Bible Project | The Bible in Chronological Order: The Torah",
+              creator: "The Bible Project | The Bible in Chronological Order: The Torah: the Five Books of Moses or the Pentateuch",
+              category: "The Bible Project | The Bible in Chronological Order: The Torah: the Five Books of Moses or the Pentateuch",
               embed: "https://www.youtube.com/embed/jH_aojNJM3E?si=AmpiUd9Y2BhTK20u",
               thumbnail: `https://img.youtube.com/vi/jH_aojNJM3E/hqdefault.jpg`,
               },
@@ -50,8 +50,8 @@ export const videos = [
               {
                 id: 172,
                 title: "Book of Exodus Summary: A Complete Animated Overview (Part 2)",
-                creator: "The Bible Project | The Bible in Chronological Order: The Torah",
-                category: "The Bible Project | The Bible in Chronological Order: The Torah",
+                creator: "The Bible Project | The Bible in Chronological Order: The Torah: the Five Books of Moses or the Pentateuch",
+                category: "The Bible Project | The Bible in Chronological Order: The Torah: the Five Books of Moses or the Pentateuch",
                 embed: "https://www.youtube.com/embed/oNpTha80yyE?si=AmpiUd9Y2BhTK20u",
                 thumbnail: `https://img.youtube.com/vi/oNpTha80yyE/hqdefault.jpg`,
                 },
@@ -59,8 +59,8 @@ export const videos = [
                 {
                   id: 173,
                   title: "Book of Leviticus Summary: A Complete Animated Overview",
-                  creator: "The Bible Project | The Bible in Chronological Order: The Torah",
-                  category: "The Bible Project | The Bible in Chronological Order: The Torah",
+                  creator: "The Bible Project | The Bible in Chronological Order: The Torah: the Five Books of Moses or the Pentateuch",
+                  category: "The Bible Project | The Bible in Chronological Order: The Torah: the Five Books of Moses or the Pentateuch",
                   embed: "https://www.youtube.com/embed/IJ-FekWUZzE?si=AmpiUd9Y2BhTK20u",
                   thumbnail: `https://img.youtube.com/vi/IJ-FekWUZzE/hqdefault.jpg`,
                   },
@@ -69,8 +69,8 @@ export const videos = [
                     {
                       id: 174,
                       title: "Book of Deuteronomy Summary: A Complete Animated Overview",
-                      creator: "The Bible Project | The Bible in Chronological Order: The Torah",
-                      category: "The Bible Project | The Bible in Chronological Order: The Torah",
+                      creator: "The Bible Project | The Bible in Chronological Order: The Torah: the Five Books of Moses or the Pentateuch",
+                      category: "The Bible Project | The Bible in Chronological Order: The Torah: the Five Books of Moses or the Pentateuch",
                       embed: "https://www.youtube.com/embed/q5QEH9bH8AU?si=AmpiUd9Y2BhTK20u",
                       thumbnail: `https://img.youtube.com/vi/q5QEH9bH8AU/hqdefault.jpg`,
                       },
@@ -1726,3 +1726,7 @@ export const videos = [
 
                            
                                        ];
+
+
+                           
+                                    
