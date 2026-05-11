@@ -20,8 +20,8 @@ export default function TruVineHome() {
       {/* ================= HERO ================= */}
       <div style={styles.hero}>
         <iframe
-          src="https://www.youtube.com/embed/fkzOt3aHUY8?autoplay=1&mute=1&controls=0&loop=1&playlist=fkzOt3aHUY8&rel=0&modestbranding=1"
-          title="TruVine Intro"
+          src="https://www.youtube.com/embed/3-YlqQfKkKk?autoplay=1&mute=1&controls=0&loop=1&playlist=3-YlqQfKkKk&rel=0&modestbranding=1"
+          title="The Lord’s Prayer Could Rewire Your Daily Life"
           frameBorder="0"
           allow="autoplay; encrypted-media"
           style={styles.video}
@@ -33,7 +33,7 @@ export default function TruVineHome() {
        
 
           <p style={styles.text}>
-            Explore God’s Word, grow in your faith, and connect with a Christ-centered community.
+          Explore Christ-centered videos, grow deeper in your faith, and connect with a community anchored in Jesus.
           </p>
 
           <p style={styles.subtext}>Scroll to begin your journey</p>
@@ -55,7 +55,7 @@ export default function TruVineHome() {
 
         <div style={styles.playerWrapper}>
           <iframe
-            src="https://www.youtube.com/embed/7_CGP-12AE0?autoplay=1&mute=1&controls=0&loop=1"
+            src="https://www.youtube.com/embed/93HFq8wGkts?autoplay=1&mute=1&controls=0&loop=1"
             title="The Story of the Bible"
             frameBorder="0"
             allowFullScreen
