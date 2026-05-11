@@ -55,8 +55,8 @@ export default function TruVineHome() {
 
         <div style={styles.playerWrapper}>
           <iframe
-            src="https://www.youtube.com/embed/SvtIMvg_hS0?autoplay=1&mute=1&controls=0&loop=1"
-            title="Abide in the VINE"
+            src="https://www.youtube.com/embed/7_CGP-12AE0?autoplay=1&mute=1&controls=0&loop=1"
+            title="The Story of the Bible"
             frameBorder="0"
             allowFullScreen
             style={styles.player}
@@ -124,9 +124,9 @@ const styles = {
   },
 
   title: {
-    fontSize: "2rem",
+    fontSize: "2.5rem",
     marginTop: "25rem",
-    fontFamily:"cursive",
+    fontFamily:"Helvetica",
     background: "linear-gradient(to top, transparent, #2D7C66, transparent)",
     zIndex: 10,
   },
