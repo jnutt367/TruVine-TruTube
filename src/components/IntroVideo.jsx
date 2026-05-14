@@ -20,7 +20,7 @@ export default function TruVineHome() {
       {/* ================= HERO ================= */}
       <div style={styles.hero}>
         <iframe
-          src="https://www.youtube.com/embed/vdaQL1_J8XI?autoplay=1&mute=1&controls=0&loop=1&playlist=vdaQL1_J8XI&rel=0&modestbranding=1"
+          src="https://www.youtube.com/embed/m0yu1qyevwE?autoplay=1&mute=1&controls=0&loop=1&playlist=m0yu1qyevwE&rel=0&modestbranding=1"
           title="The Lord’s Prayer Could Rewire Your Daily Life"
           frameBorder="0"
           allow="autoplay; encrypted-media"
