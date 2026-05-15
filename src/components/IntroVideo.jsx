@@ -55,7 +55,7 @@ export default function TruVineHome() {
 
         <div style={styles.playerWrapper}>
           <iframe
-            src="https://www.youtube.com/embed/BG2BA2_3e30?autoplay=1&mute=1&controls=0&loop=1"
+            src="https://www.youtube.com/embed/UeYp6L-LXSA?autoplay=1&mute=1&controls=0&loop=1"
             title="The Story of the Bible"
             frameBorder="0"
             allowFullScreen
